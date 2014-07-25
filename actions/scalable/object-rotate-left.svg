@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.947896"
-     inkscape:cx="16.82025"
-     inkscape:cy="13.193426"
+     inkscape:zoom="33.895792"
+     inkscape:cx="10.138268"
+     inkscape:cy="13.339508"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
+     inkscape:window-height="669"
+     inkscape:window-x="-4"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true">
@@ -92,7 +92,7 @@
      transform="translate(0,-1030.3622)">
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 12 L 10 12 L 10 7 C 12.769994 7 15 9.23 15 12 L 10 12 L 10 19 L 19 19 L 19 12 L 16 12 C 16 8.676 13.323994 6 10 6 L 10 3 L 3 3 z M 4 4 L 9 4 L 9 11 L 4 11 L 4 4 z M 11 13 L 18 13 L 18 18 L 11 18 L 11 13 z "
+       d="M 3 3 L 3 12 L 10 12 L 10 10 L 10 7 L 10 6 L 10 5 L 10 3 L 3 3 z M 10 12 L 10 19 L 19 19 L 19 12 L 17 12 L 16 12 L 15 12 L 12 12 L 10 12 z M 4 4 L 9 4 L 9 11 L 4 11 L 4 4 z M 11 6.0859375 L 11 7.1074219 C 12.962971 7.5042304 14.504683 9.0365842 14.900391 11 L 15.910156 11 C 15.490278 8.4819837 13.51666 6.5062817 11 6.0859375 z M 11 13 L 18 13 L 18 18 L 11 18 L 11 13 z "
        transform="translate(0,1030.3622)"
        id="rect4109" />
   </g>
