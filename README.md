@@ -14,7 +14,7 @@ Give your feedback!
 
 * You are free to clone this public repository and you are welcome to contribute back to it:
 
-`git clone https://github.com/NitruxSA/flattr-icons.git`
+`git clone https://github.com/NitruxSA/plasma-next-icons.git`
 
 * Design guidelines will be published so that other designers can contribute to this icon theme.
 
