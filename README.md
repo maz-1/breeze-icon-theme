@@ -1,4 +1,4 @@
-Breeze
+Breeze (icon theme)
 ==============
 
 Current upstream repository for the Plasma 5 icon theme.
