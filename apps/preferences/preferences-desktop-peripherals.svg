@@ -83,7 +83,7 @@
        xlink:href="#linearGradient4303-6"
        id="linearGradient4643"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.58333258,0,0,0.58333258,162.23836,226.58295)"
+       gradientTransform="matrix(0.66666726,0,0,0.68055543,128.19017,175.71333)"
        x1="409.57144"
        y1="543.79797"
        x2="409.57144"
@@ -153,7 +153,8 @@
        y1="527.79797"
        x2="412.57147"
        y2="536.79797"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-384.57143,-515.798)" />
     <linearGradient
        id="linearGradient4227"
        inkscape:collect="always">
@@ -174,9 +175,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999995"
-     inkscape:cx="10.201111"
-     inkscape:cy="18.168721"
+     inkscape:zoom="11.313708"
+     inkscape:cx="10.262685"
+     inkscape:cy="13.525599"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -220,13 +221,25 @@
        orientation="0,27.999969"
        id="guide4635" />
     <sodipodi:guide
-       position="30,17"
-       orientation="-28,0"
-       id="guide4637" />
-    <sodipodi:guide
        position="30.000012,30.000026"
        orientation="0,-27.999969"
        id="guide4639" />
+    <sodipodi:guide
+       position="30,4"
+       orientation="0,-5"
+       id="guide4190" />
+    <sodipodi:guide
+       position="25,4"
+       orientation="0,5"
+       id="guide4192" />
+    <sodipodi:guide
+       position="30,4"
+       orientation="0,-1"
+       id="guide4194" />
+    <sodipodi:guide
+       position="29,4"
+       orientation="0,-1.5"
+       id="guide4196" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -247,43 +260,29 @@
      transform="translate(-384.57143,-515.798)">
     <rect
        ry="0"
-       y="519.79803"
-       x="386.57147"
-       height="23.999973"
-       width="27.999939"
+       y="517.79797"
+       x="384.57144"
+       height="28"
+       width="32"
        id="rect4641"
-       style="opacity:1;fill:url(#linearGradient4643);fill-opacity:1.0;stroke:none" />
-    <rect
-       style="opacity:1;fill:#23262c;fill-opacity:1;stroke:none"
-       id="rect4645"
-       width="27.999969"
-       height="2.0000002"
-       x="386.57147"
-       y="541.79822" />
-    <rect
-       y="542.79797"
-       x="386.57147"
-       height="1"
-       width="27.999969"
-       id="rect4169"
-       style="opacity:1;fill:#17191d;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:url(#linearGradient4643);fill-opacity:1;stroke:none" />
     <rect
        style="opacity:1;fill:#23262c;fill-opacity:1;stroke:none"
        id="rect4647"
-       width="28.000011"
-       height="4"
-       x="386.57144"
-       y="519.79797" />
+       width="32"
+       height="5.0000262"
+       x="384.57144"
+       y="517.79797" />
     <rect
        style="opacity:1;fill:#3995ed;fill-opacity:1;stroke:none"
        id="rect4171"
        width="3"
        height="1"
-       x="410.57144"
-       y="521.79797" />
+       x="411.5715"
+       y="519.79797" />
     <rect
-       y="521.79797"
-       x="387.5715"
+       y="519.79797"
+       x="386.57144"
        height="1"
        width="3"
        id="rect4173"
@@ -325,14 +324,27 @@
        y="537.79797" />
     <path
        style="fill:url(#linearGradient4187);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.2"
-       d="m 408.57143,526.798 6,6 0,11 -5,0 5,0 -1,0 -1.5,0 -4,-4 0.5,-1 0,-1 z"
-       id="path4179"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       d="M 24 11 L 23.5 24 L 27.5 28 L 29.5 30 L 32 30 L 32 19 L 30 17 L 24 11 z "
+       transform="translate(384.57143,515.798)"
+       id="path4179" />
     <path
        style="fill:url(#linearGradient4241);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 23 23 L 23 23.300781 L 23.5 24 L 24 23.300781 L 24 23 L 23 23 z "
        transform="translate(384.57143,515.798)"
        id="path4230" />
+    <rect
+       style="opacity:1;fill:#23262c;fill-opacity:1;stroke:none"
+       id="rect4645"
+       width="32"
+       height="2"
+       x="384.57144"
+       y="543.79797" />
+    <rect
+       y="544.79797"
+       x="384.57144"
+       height="1"
+       width="32"
+       id="rect4169"
+       style="opacity:1;fill:#17191d;fill-opacity:1;stroke:none" />
   </g>
 </svg>
