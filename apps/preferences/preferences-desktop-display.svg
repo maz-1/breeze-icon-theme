@@ -63,7 +63,7 @@
        x2="401.57144"
        y2="519.79797"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.2105271,-3,-111.43105)" />
+       gradientTransform="matrix(1,0,0,1.2105271,-3.0000364,-111.43158)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4303"
@@ -113,9 +113,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.999999"
-     inkscape:cx="19.995453"
-     inkscape:cy="18.142165"
+     inkscape:zoom="31.999998"
+     inkscape:cx="20.618585"
+     inkscape:cy="23.439116"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -189,8 +189,8 @@
        id="rect4319"
        width="31.999928"
        height="23.000004"
-       x="384.5715"
-       y="517.79852" />
+       x="384.57147"
+       y="517.79797" />
     <rect
        style="opacity:1;fill:url(#linearGradient4346);fill-opacity:1;stroke:none"
        id="rect4321"

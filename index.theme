@@ -3,7 +3,7 @@ Name=Breeze
 Comment=The Plasma 5 icon theme
 Inherits=
 
-Directories=actions/scalable,actions/small,apps/preferences,apps/scalable,apps/small,apps/toolbar,apps/emotes,apps/categories,categories/menu,categories/preferences,categories/small,devices/preferences,mimetypes/scalable,mimetypes/small,places/scalable,places/small
+Directories=actions/scalable,actions/small,apps/preferences,apps/scalable,apps/small,apps/toolbar,apps/emotes,apps/categories,apps/actions,apps/devices,categories/menu,categories/preferences,categories/small,devices/scalable,devices/small,mimetypes/scalable,mimetypes/small,places/scalable,places/small
 
 [actions/scalable]		#22x22 - Fixed size - For use in regular/normal toolbar(s) - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 Size=22
@@ -47,6 +47,16 @@ Size=32
 Context=Categories
 Type=Fixed
 
+[apps/actions]			#32x32 - Fixed size -Icon(s) belonging to System Settings - WRONG_ICON_USAGE_BY_APP - Color
+Size=32
+Context=Actions
+Type=Fixed
+
+[apps/devices]			#32x32 - Fixed size -Icon(s) belonging to System Settings - WRONG_ICON_USAGE_BY_APP - Color
+Size=32
+Context=Actions
+Type=Fixed
+
 [categories/menu]		#32x32 - Fixed size - For categories icons >!!!ONLY!!!<  - Used in Kickoff (KDE 4.x.x) and Lancelot. Also used in MATE and Cinnamon (just FYI) - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 Size=32
 Context=Categories
@@ -57,8 +67,15 @@ Size=16
 Context=Categories
 Type=Fixed
 
-[devices/preferences]		#32x32 - Fixed size - Icon(s) belonging to System Settings - WRONG_ICON_USAGE_BY_APP - Color
-Size=32
+[devices/scalable]		#64x64 - Scalable - For device icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
+Size=64
+Context=Devices
+Type=Scalable
+MinSize=32
+MaxSize=256
+
+[devices/small]			#16x16 - Fixed size - For small device icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+Size=16
 Context=Devices
 Type=Fixed
 

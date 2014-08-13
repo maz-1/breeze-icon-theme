@@ -45,22 +45,22 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4303-6"
-       id="linearGradient4643-4"
+       id="linearGradient4643-8"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.66666726,0,0,0.68055509,128.19014,174.71264)"
+       gradientTransform="matrix(0.66666726,0,0,0.63518419,128.19014,198.51873)"
        x1="409.57144"
        y1="543.79797"
        x2="409.57144"
        y2="502.65509" />
     <linearGradient
-       gradientTransform="translate(-2.1650391e-5,1.0000286)"
+       gradientTransform="translate(-7.3916015e-6,2.8583594e-5)"
        inkscape:collect="always"
        xlink:href="#linearGradient4293"
-       id="linearGradient4217"
-       x1="385.57144"
-       y1="521.79797"
-       x2="406.57144"
-       y2="542.79797"
+       id="linearGradient4183"
+       x1="391.57144"
+       y1="525.79797"
+       x2="406.57147"
+       y2="540.79797"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -70,9 +70,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="2.9291232"
-     inkscape:cy="19.210018"
+     inkscape:zoom="15.999999"
+     inkscape:cx="10.964047"
+     inkscape:cy="22.921145"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -143,57 +143,57 @@
      transform="translate(-384.57143,-515.798)">
     <rect
        ry="0"
-       y="516.79797"
+       y="517.79797"
        x="384.57144"
-       height="30.000027"
+       height="28"
        width="32"
-       id="rect4641-0"
-       style="opacity:1;fill:url(#linearGradient4643-4);fill-opacity:1;stroke:none" />
+       id="rect4641-5"
+       style="opacity:1;fill:url(#linearGradient4643-8);fill-opacity:1;stroke:none" />
     <path
-       style="opacity:0.2;fill:url(#linearGradient4217);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 385.57141,544.79803 30,-22 1.00001,1.00001 0,22.99999 -29.00001,0 z"
-       id="path4209"
+       style="opacity:0.2;fill:url(#linearGradient4183);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 385.57142,543.79803 30,-20 1.00001,1 -1e-5,20.99997 -29,3e-5 z"
+       id="path4167"
        inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;fill:#99a1a7;fill-opacity:1;stroke:none"
-       id="rect4645-2"
+       id="rect4645-7"
        width="31.999983"
        height="1"
-       x="384.57144"
-       y="545.79797" />
+       x="384.57141"
+       y="544.79797" />
     <rect
        style="opacity:1;fill:#566069;fill-opacity:1;stroke:none"
-       id="rect4647-9"
+       id="rect4647-8"
        width="15.999981"
        height="4"
        x="400.57144"
-       y="516.79797" />
+       y="517.79797" />
     <rect
        style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none"
-       id="rect4649-9"
+       id="rect4649-8"
        width="31.999968"
        height="1"
-       x="384.57144"
-       y="520.79797" />
+       x="384.57141"
+       y="521.79797" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4653-8"
+       id="rect4653-5"
        width="30"
-       height="21.999973"
-       x="385.57144"
-       y="522.79797" />
+       height="20.000027"
+       x="385.57141"
+       y="523.79797" />
     <rect
        style="opacity:1;fill:#eff0f1;fill-opacity:1;stroke:none"
-       id="rect4661-3"
+       id="rect4661-1"
        width="2"
        height="2"
-       x="413.57144"
-       y="517.79797"
+       x="413.57141"
+       y="518.79797"
        rx="1"
        ry="1" />
     <rect
-       y="516.79797"
-       x="384.57144"
+       y="517.79797"
+       x="384.57141"
        height="4"
        width="16"
        id="rect4188"
@@ -201,8 +201,8 @@
     <rect
        ry="1"
        rx="1"
-       y="517.79797"
-       x="385.57144"
+       y="518.79797"
+       x="385.57141"
        height="2"
        width="2"
        id="rect4190"
