@@ -15,7 +15,10 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.48+devel r"
-   sodipodi:docname="preferences-desktop-font.svg">
+   sodipodi:docname="preferences-desktop-font.svg"
+   inkscape:export-filename="/home/uri/Iconos de KDE/Breeze/apps/preferences/preferences-desktop-font.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs5455">
     <linearGradient
@@ -89,9 +92,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.999999"
-     inkscape:cx="15.844396"
-     inkscape:cy="15.233376"
+     inkscape:zoom="11.313708"
+     inkscape:cx="10.46476"
+     inkscape:cy="18.531608"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -106,7 +109,7 @@
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="false">
+     showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -261,11 +264,6 @@
        d="M 13.28125 9.9707031 L 7.1699219 21.833984 L 15.302734 29.964844 C 15.535266 29.97622 15.764549 30 16 30 C 22.680701 30 28.227665 25.362327 29.640625 19.121094 L 24.289062 13.769531 L 20.960938 13.482422 L 19.058594 14.570312 L 19.138672 14.623047 L 19.074219 14.611328 L 21.697266 17.234375 L 21.160156 17.851562 L 13.28125 9.9707031 z "
        transform="translate(384.57143,515.798)"
        id="path4361" />
-    <path
-       style="opacity:1;fill:#1c1e20;fill-opacity:1;stroke:none"
-       d="M 2.0253906 15.5 C 2.0195214 15.66736 2 15.831158 2 16 C 2 23.755993 8.2440074 30 16 30 C 23.755993 30 30 23.755993 30 16 C 30 15.831158 29.980479 15.66736 29.974609 15.5 C 29.710868 23.02056 23.587151 29 16 29 C 8.4128491 29 2.2891323 23.02056 2.0253906 15.5 z "
-       transform="translate(384.57143,515.798)"
-       id="rect4181" />
     <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Oxygen;-inkscape-font-specification:Oxygen;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4309);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text4228">

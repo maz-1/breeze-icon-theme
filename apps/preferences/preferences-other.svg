@@ -94,7 +94,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="3.8990197"
+     inkscape:cx="-11.480553"
      inkscape:cy="20.029452"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -231,10 +231,5 @@
        transform="translate(384.57143,515.798)"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssssssssss" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#99a1a7;fill-opacity:1;stroke:none"
-       d="m 386.59684,531.29797 c -0.006,0.16736 -0.0254,0.33116 -0.0254,0.5 0,7.756 6.244,14 14,14 7.756,0 14,-6.244 14,-14 0,-0.16884 -0.0195,-0.33264 -0.0254,-0.5 -0.26374,7.52056 -6.38745,13.5 -13.97461,13.5 -7.58716,0 -13.71087,-5.97944 -13.97461,-13.5 z"
-       id="rect4172" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.48+devel r"
-   sodipodi:docname="gtkconfig.svg">
+   sodipodi:docname="preferences-gtk-config.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -107,7 +107,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="12.391578"
+     inkscape:cx="-2.9879952"
      inkscape:cy="13.25939"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -168,7 +168,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -190,13 +190,6 @@
        d="m 385.57143,543.798 30,-20 1.00001,1 -10e-6,20.99997 -29,3e-5 z"
        id="path4167"
        inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#99a1a7;fill-opacity:1;stroke:none"
-       id="rect4645-7"
-       width="31.999983"
-       height="1"
-       x="384.57141"
-       y="544.79797" />
     <rect
        style="opacity:1;fill:#566069;fill-opacity:1;stroke:none"
        id="rect4647-8"

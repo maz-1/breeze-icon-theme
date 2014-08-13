@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="25.212092"
-     inkscape:cx="9.9064414"
-     inkscape:cy="10.983066"
+     inkscape:zoom="16"
+     inkscape:cx="10.131316"
+     inkscape:cy="15.797187"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -125,9 +125,9 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 3 4 L 3 5 L 19 5 L 19 4 L 3 4 z M 3 10 L 3 11 L 10 11 L 10 10 L 3 10 z M 12 10 L 12 13 L 15 13 L 15 10 L 12 10 z M 16 10 L 16 13 L 19 13 L 19 10 L 16 10 z M 12 15 L 12 18 L 15 18 L 15 15 L 12 15 z M 16 15 L 16 18 L 19 18 L 19 15 L 16 15 z M 3 16 L 3 17 L 10 17 L 10 16 L 3 16 z "
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="M 3 3 L 3 10 L 10 10 L 10 3 L 3 3 z M 12 3 L 12 10 L 19 10 L 19 3 L 12 3 z M 4 4 L 9 4 L 9 9 L 4 9 L 4 4 z M 13 4 L 18 4 L 18 9 L 13 9 L 13 4 z M 3 12 L 3 19 L 10 19 L 10 12 L 3 12 z M 12 12 L 12 19 L 13 19 L 18 19 L 19 19 L 19 18 L 19 13 L 19 12 L 18 12 L 13 12 L 12 12 z M 4 13 L 9 13 L 9 18 L 4 18 L 4 13 z M 13 13 L 18 13 L 18 18 L 13 18 L 13 13 z "
        transform="translate(0,1030.3622)"
-       id="rect4156" />
+       id="rect4298" />
   </g>
 </svg>

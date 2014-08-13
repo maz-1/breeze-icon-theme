@@ -39,7 +39,7 @@
        x2="400.57144"
        y2="517.79797"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.96428529,0,0,0.9642848,14.306274,18.993313)" />
+       gradientTransform="matrix(0.92857108,0,0,0.92857057,28.612354,37.986142)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4290">
@@ -91,8 +91,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.989653"
-     inkscape:cx="3.3319951"
-     inkscape:cy="13.735857"
+     inkscape:cx="0.81508511"
+     inkscape:cy="10.471853"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -101,9 +101,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="668"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
+     inkscape:window-height="669"
+     inkscape:window-x="-4"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -192,11 +192,11 @@
     <rect
        style="opacity:1;fill:url(#linearGradient4149);fill-opacity:1;stroke:none"
        id="rect4130"
-       width="27"
-       height="27"
-       x="387.07144"
-       y="518.29797"
-       ry="13.499993" />
+       width="26"
+       height="26"
+       x="387.57144"
+       y="518.79797"
+       ry="12.999993" />
     <path
        style="fill:url(#linearGradient4170);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.2"
        d="M 18 9.0722656 L 18 10.599609 L 14 13 L 18 17 L 18 23 L 14 23 L 20.318359 29.318359 C 24.585749 27.94359 27.944018 24.58553 29.320312 20.320312 L 19 10 L 18.171875 9.171875 L 18 9.0722656 z "
@@ -204,13 +204,8 @@
        id="path4159" />
     <path
        style="opacity:1;fill:url(#linearGradient4144);fill-opacity:1;stroke:none"
-       d="M 16 2 C 8.4128491 2 2.2891329 7.9794391 2.0253906 15.5 C 2.2891327 23.020571 8.4128387 29 16 29 C 8.7980074 29 3 23.201993 3 16 C 3 8.7980074 8.7980074 3 16 3 C 23.201993 3 29 8.7980074 29 16 C 29 23.201993 23.201993 29 16 29 C 23.587161 29 29.710867 23.020571 29.974609 15.5 C 29.710867 7.9794391 23.587151 2 16 2 z M 14 9 L 14 13 L 18 13 L 18 9 L 14 9 z M 14 15 L 14 23 L 18 23 L 18 15 L 14 15 z "
-       transform="translate(384.57143,515.798)"
-       id="rect4133" />
-    <path
-       style="opacity:1;fill:#89bef9;fill-opacity:1;stroke:none"
-       d="M 2.0253906 15.5 C 2.0195214 15.66736 2 15.831158 2 16 C 2 23.756003 8.2439968 30 16 30 C 23.756003 30 30 23.756003 30 16 C 30 15.831158 29.980479 15.66736 29.974609 15.5 C 29.710867 23.020571 23.587161 29 16 29 C 8.4128387 29 2.2891327 23.020571 2.0253906 15.5 z "
-       transform="translate(384.57143,515.798)"
-       id="rect4323" />
+       d="M 16 2 C 8.4128491 2 2.2891329 7.9794391 2.0253906 15.5 C 2.0195214 15.66736 2 15.831158 2 16 C 2 23.756003 8.2439968 30 16 30 C 23.756003 30 30 23.756003 30 16 C 30 15.831158 29.980479 15.66736 29.974609 15.5 C 29.710867 7.9794391 23.587151 2 16 2 z M 16 3 C 23.201993 3 29 8.7980074 29 16 C 29 23.201993 23.201993 29 16 29 C 8.7980074 29 3 23.201993 3 16 C 3 8.7980074 8.7980074 3 16 3 z M 14 9 L 14 13 L 18 13 L 18 9 L 14 9 z M 14 15 L 14 23 L 18 23 L 18 15 L 14 15 z "
+       id="rect4133"
+       transform="translate(384.57143,515.798)" />
   </g>
 </svg>
