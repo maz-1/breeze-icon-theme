@@ -13,7 +13,7 @@
    height="22"
    id="svg3869"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91pre2 r"
    sodipodi:docname="mail-invitation.svg">
   <defs
      id="defs3871" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.503906"
-     inkscape:cx="17.803883"
-     inkscape:cy="8.3031462"
+     inkscape:zoom="186.72038"
+     inkscape:cx="18.491898"
+     inkscape:cy="16.678886"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,9 +35,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="666"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-height="673"
+     inkscape:window-x="-4"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false">
     <inkscape:grid
@@ -145,7 +145,8 @@
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-       d="m 328.8965,537.3622 0,1 0,1 0,1 -2,3 0,1 0,1.40039 0,0.59961 0,6 0,0.41406 0,0.58594 1,0 6,0 6,0 0,-1 -12,0 0,-0.58594 0,-1.41406 0,-4 0,-1 0,-0.59961 0,-0.40039 0.40039,0 0.59961,0 1.07812,0 6.92188,3.99609 6.92187,-3.99609 0.0781,0 1,0 1,0 0,0.40039 0,0.59961 0,1 1,0 0,-0.59961 0,-1.41406 0,-0.98633 -2,-4 0,-2 -15,0 -1,0 z m 1,1 14,0 0,1 0,3.79883 -7,4.04101 -7,-4.04101 0,-3.79883 0,-1 z m 1,1 0,0.98633 -0.0137,0.0137 0.0137,0 12,0 0.0137,0 -0.0137,-0.0137 0,-0.98633 -12,0 z m 0,2 0,1 7,0 0,-1 -7,0 z"
-       id="rect4144-1" />
+       d="m 329,537.3622 0,1 0,1 0,1 -2,3 0,1 0,1.40039 0,0.59961 0,6 0,0.41406 0,0.58594 1,0 6,0 6,0 0,-1 -12,0 0,-0.58594 0,-1.41406 0,-4 0,-1 0,-0.59961 0,-0.40039 0.40039,0 0.59961,0 1.07812,0 6.92188,3.99609 6.92187,-3.99609 0.0781,0 1,0 1,0 0,0.40039 0,0.59961 0,1 1,0 0,-0.59961 0,-1.41406 0,-0.98633 -1.99997,-3 -3e-5,-3 -15,0 -1,0 z m 1,1 14,0 0,1 0,3.79883 -7,4.04101 -7,-4.04101 0,-3.79883 z m 1,1 0,0.98633 -0.0137,0.0137 0.0137,0 12,0 0.0137,0 -0.0137,-0.0137 0,-0.98633 z m 0,2 0,1 7,0 0,-1 z"
+       id="rect4144-1"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>

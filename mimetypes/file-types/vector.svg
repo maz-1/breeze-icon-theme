@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="673"
+     inkscape:window-height="717"
      id="namedview82"
      showgrid="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="8"
-     inkscape:cx="36.486354"
+     inkscape:cx="16.173854"
      inkscape:cy="27.72716"
      inkscape:window-x="-4"
      inkscape:window-y="24"
@@ -178,11 +178,11 @@
       <stop
          id="stop4358"
          offset="0"
-         style="stop-color:#50ab7b;stop-opacity:1" />
+         style="stop-color:#16a085;stop-opacity:1" />
       <stop
          id="stop4360"
          offset="1"
-         style="stop-color:#5eb085;stop-opacity:1" />
+         style="stop-color:#18b293;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"

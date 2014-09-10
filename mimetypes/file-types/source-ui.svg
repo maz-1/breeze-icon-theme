@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91pre2 r"
-   sodipodi:docname="word.svg"
+   sodipodi:docname="source-ui.svg"
    width="64"
    height="64">
   <metadata
@@ -41,14 +41,13 @@
      id="namedview82"
      showgrid="true"
      inkscape:showpageshadow="false"
-     inkscape:zoom="5.2149125"
-     inkscape:cx="14.709506"
-     inkscape:cy="32.546054"
+     inkscape:zoom="8"
+     inkscape:cx="23.873068"
+     inkscape:cy="15.490972"
      inkscape:window-x="-4"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     showguides="true">
+     inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
        id="grid3413" />
@@ -126,7 +125,7 @@
        id="guide4546" />
     <sodipodi:guide
        position="44,25"
-       orientation="1,0"
+       orientation="1,6.123234e-17"
        id="guide4548" />
   </sodipodi:namedview>
   <defs
@@ -183,16 +182,16 @@
        y2="3"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4143">
+       id="linearGradient4143"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#197cf1;stop-opacity:1"
+         id="stop4145"
          offset="0"
-         id="stop4145" />
+         style="stop-color:#3498db;stop-opacity:1" />
       <stop
-         style="stop-color:#2b87f3;stop-opacity:1"
+         id="stop4147"
          offset="1"
-         id="stop4147" />
+         style="stop-color:#4aa3db;stop-opacity:1" />
     </linearGradient>
   </defs>
   <path
@@ -218,6 +217,6 @@
      y="60" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="M 32 39 L 32 48 L 41 48 L 41 39 L 32 39 z M 42 39 L 42 40 L 52 40 L 52 39 L 42 39 z M 42 43 L 42 44 L 52 44 L 52 43 L 42 43 z M 42 47 L 42 48 L 52 48 L 52 47 L 42 47 z M 32 51 L 32 55 L 44 55 L 44 51 L 32 51 z M 46 51 L 46 52 L 52 52 L 52 51 L 46 51 z M 33 52 L 43 52 L 43 54 L 33 54 L 33 52 z M 46 54 L 46 55 L 52 55 L 52 54 L 46 54 z M 32 58 L 32 59 L 52 59 L 52 58 L 32 58 z "
-     id="rect4223" />
+     d="M 32 39 L 32 59 L 52 59 L 52 39 L 32 39 z M 33 44 L 37 44 L 37 58 L 33 58 L 33 44 z M 38 44 L 51 44 L 51 58 L 38 58 L 38 44 z "
+     id="rect4209" />
 </svg>
