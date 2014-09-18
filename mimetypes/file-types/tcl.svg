@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,8 +42,8 @@
      showgrid="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="8.0000001"
-     inkscape:cx="24.544746"
-     inkscape:cy="30.392266"
+     inkscape:cx="2.482138"
+     inkscape:cy="26.125265"
      inkscape:window-x="-4"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -113,18 +113,6 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4351">
-      <stop
-         style="stop-color:#dedede;stop-opacity:1"
-         offset="0"
-         id="stop4353" />
-      <stop
-         style="stop-color:#ececec;stop-opacity:1"
-         offset="1"
-         id="stop4355" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient4300">
       <stop
          style="stop-color:#f27935;stop-opacity:1"
@@ -168,13 +156,25 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4351"
+       xlink:href="#linearGradient4351-9"
        id="linearGradient4357"
        x1="47"
        y1="61"
        x2="47"
        y2="47"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4351-9"
+       inkscape:collect="always">
+      <stop
+         id="stop4353-3"
+         offset="0"
+         style="stop-color:#f7ab89;stop-opacity:1" />
+      <stop
+         id="stop4355-8"
+         offset="1"
+         style="stop-color:#f9bda3;stop-opacity:1" />
+    </linearGradient>
   </defs>
   <path
      style="fill:url(#linearGradient4306);fill-opacity:1;stroke:none"
@@ -195,7 +195,7 @@
      x="10"
      y="3" />
   <path
-     style="fill:url(#linearGradient4357);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:url(#linearGradient4357);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 54,47 40,61 40,47 Z"
      id="path4314"
      inkscape:connector-curvature="0" />
@@ -206,7 +206,7 @@
      style="opacity:0.2;fill:url(#linearGradient4427);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#f9bda3;fill-opacity:1;stroke:none"
      d="M 25.707031,25 25,25.707031 30.292969,31 25,36.292969 25.707031,37 31,31.707031 31.707031,31 31,30.292969 25.707031,25 Z M 32,38 l 0,1 7,0 0,-1 -7,0 z"
      id="rect4173" />
 </svg>
