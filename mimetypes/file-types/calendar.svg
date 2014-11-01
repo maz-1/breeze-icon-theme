@@ -11,7 +11,7 @@
    viewBox="0 0 64 64"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91pre2 r"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="calendar.svg"
    width="64"
    height="64">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,14 +36,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
+     inkscape:window-width="1360"
      inkscape:window-height="672"
      id="namedview82"
      showgrid="true"
      inkscape:showpageshadow="false"
-     inkscape:zoom="90.509672"
-     inkscape:cx="36.284264"
-     inkscape:cy="30.294393"
+     inkscape:zoom="6.433101"
+     inkscape:cx="57.487984"
+     inkscape:cy="39.602452"
      inkscape:window-x="-4"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -125,19 +125,8 @@
          id="stop4355" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4300">
-      <stop
-         style="stop-color:#3fc380;stop-opacity:1;"
-         offset="0"
-         id="stop4302" />
-      <stop
-         style="stop-color:#2ecc71;stop-opacity:1;"
-         offset="1"
-         id="stop4304" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4300"
+       xlink:href="#linearGradient4300-9"
        id="linearGradient4306"
        x1="32"
        y1="61"
@@ -175,9 +164,21 @@
        x2="47"
        y2="47"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4300-9">
+      <stop
+         style="stop-color:#26c281;stop-opacity:1"
+         offset="0"
+         id="stop4302-0" />
+      <stop
+         style="stop-color:#3fc380;stop-opacity:1"
+         offset="1"
+         id="stop4304-3" />
+    </linearGradient>
   </defs>
   <path
-     style="fill:url(#linearGradient4306);fill-opacity:1;stroke:none"
+     style="fill:url(#linearGradient4306);fill-opacity:1.0;stroke:none"
      d="M 10 3 L 10 61 L 40 61 L 54 47 L 54 17 L 54 3 L 40 3 L 10 3 z "
      id="rect3500" />
   <rect
@@ -205,7 +206,7 @@
      d="M 26,61 40,47 40,61 Z"
      style="opacity:0.2;fill:url(#linearGradient4427);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
-     style="fill:#16907d;fill-opacity:1;stroke:none"
+     style="fill:#04896a;fill-opacity:1;stroke:none"
      d="M 21 21 L 21 43 L 43 43 L 43 21 L 40 21 L 40 25 L 37 25 L 37 21 L 27 21 L 27 25 L 24 25 L 24 21 L 21 21 z M 22 26 L 42 26 L 42 42 L 22 42 L 22 26 z M 23 28 L 23 31 L 26 31 L 26 28 L 23 28 z M 28 28 L 28 31 L 31 31 L 31 28 L 28 28 z M 33 28 L 33 31 L 36 31 L 36 28 L 33 28 z M 38 28 L 38 31 L 41 31 L 41 28 L 38 28 z M 23 32 L 23 35 L 26 35 L 26 32 L 23 32 z M 28 32 L 28 35 L 31 35 L 31 32 L 28 32 z M 33 32 L 33 35 L 36 35 L 36 32 L 33 32 z M 38 32 L 38 35 L 41 35 L 41 32 L 38 32 z M 38 36 L 38 39 L 41 39 L 41 36 L 38 36 z "
      id="rect4089" />
 </svg>
