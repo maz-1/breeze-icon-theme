@@ -13,7 +13,7 @@
    height="22"
    id="svg3813"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="color-picker-grey.svg">
   <defs
      id="defs3815" />
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="52.828627"
-     inkscape:cx="10.903599"
+     inkscape:cx="7.723505"
      inkscape:cy="10.786195"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,9 +35,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="668"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
+     inkscape:window-height="670"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true">
@@ -114,6 +114,6 @@
        height="5"
        width="5"
        id="rect4109"
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#bdc3c7;fill-opacity:1;stroke:none" />
   </g>
 </svg>

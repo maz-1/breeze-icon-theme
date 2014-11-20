@@ -11,12 +11,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
-   id="svg3815"
+   id="svg2"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="edit-select.svg">
+   viewBox="0 0 22 22"
+   sodipodi:docname="document-save-all.svg">
   <defs
-     id="defs3817" />
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,70 +25,58 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="7.1650336"
-     inkscape:cy="9.8226468"
+     inkscape:zoom="16"
+     inkscape:cx="8.9760054"
+     inkscape:cy="17.402979"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
      inkscape:window-width="1366"
      inkscape:window-height="670"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
-     inkscape:showpageshadow="false"
-     borderlayer="false"
-     showguides="true">
+     units="px">
     <sodipodi:guide
-       position="2.0000044,19.999979"
+       position="2,20.000017"
        orientation="18,0"
-       id="guide3338" />
+       id="guide4085" />
     <sodipodi:guide
-       position="2.0000044,1.9999785"
+       position="2,2.0000174"
        orientation="0,18"
-       id="guide3340" />
+       id="guide4087" />
     <sodipodi:guide
-       position="20.000004,1.9999785"
+       position="20,2.0000174"
        orientation="-18,0"
-       id="guide3342" />
+       id="guide4089" />
     <sodipodi:guide
-       position="20.000004,19.999979"
+       position="20,20.000017"
        orientation="0,-18"
-       id="guide3344" />
+       id="guide4091" />
     <sodipodi:guide
-       position="3.0000044,18.999979"
+       position="3,19.000017"
        orientation="16,0"
-       id="guide3346" />
+       id="guide4093" />
     <sodipodi:guide
-       position="3.0000044,2.9999785"
+       position="3,3.0000174"
        orientation="0,16"
-       id="guide3348" />
+       id="guide4095" />
     <sodipodi:guide
-       position="19.000004,2.9999785"
+       position="19,3.0000174"
        orientation="-16,0"
-       id="guide3350" />
+       id="guide4097" />
     <sodipodi:guide
-       position="17,19"
+       position="19,19.000017"
        orientation="0,-16"
-       id="guide3352" />
+       id="guide4099" />
     <inkscape:grid
        type="xygrid"
-       id="grid3354" />
-    <sodipodi:guide
-       position="11,12"
-       orientation="0,0"
-       id="guide4216" />
-    <sodipodi:guide
-       position="6.0078125,19"
-       orientation="0,-1.0019531"
-       id="guide4174" />
+       id="grid4101" />
   </sodipodi:namedview>
   <metadata
-     id="metadata3820">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -102,11 +91,21 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-461.71429,-525.79075)">
+     transform="translate(0,-1030.3622)">
     <path
-       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 6 3 A 1 1 0 0 0 5 4 A 1 1 0 0 0 6 5 A 1 1 0 0 0 7 4 A 1 1 0 0 0 6 3 z M 7 6 L 7.0058594 19 L 10.900391 14.300781 L 17 14 L 7 6 z "
-       transform="translate(461.71429,525.79075)"
-       id="path4185" />
+       inkscape:connector-curvature="0"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       d="m 16.5,1039.5692 -0.207031,-0.207 -3.292969,-3.293 0.707031,-0.707 2.292969,2.2929 0,-4.2929 1,0 0,4.2929 2.292969,-2.2929 0.707031,0.707 -3.292969,3.293 -0.207031,0.207 z"
+       id="rect4071" />
+    <path
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       d="m 12,1033.3622 0,1 0,1 1,0 0,-1 1,0 0,-1 -1,0 -1,0 z m 7,0 0,1 1,0 0,1 1,0 0,-1 0,-1 -2,0 z m -7,5 0,1 0,1 2,0 0,-1 -1,0 0,-1 -1,0 z m 8,0 0,1 -1,0 0,1 2,0 0,-1 0,-1 -1,0 z"
+       id="rect4111"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       d="M 3 3 L 3 4 L 3 19 L 4 19 L 13 19 L 18 19 L 19 19 L 19 18 L 19 13 L 19 11 L 18 11 L 18 13 L 18 18 L 13 18 L 4 18 L 4 10 L 7 10 L 7 9.9902344 L 7.0078125 10 L 9.0078125 8 L 11 8 L 11 3.9921875 L 10.007812 3 L 10 3.0097656 L 10 3 L 4 3 L 3 3 z "
+       transform="translate(0,1030.3622)"
+       id="rect4069" />
   </g>
 </svg>
