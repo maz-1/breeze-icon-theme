@@ -14,7 +14,7 @@
    height="64"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="folder-cyan.svg">
   <defs
      id="defs5455">
@@ -45,11 +45,11 @@
       <stop
          id="stop4235"
          offset="0"
-         style="stop-color:#003e3e;stop-opacity:1;" />
+         style="stop-color:#004c4c;stop-opacity:1" />
       <stop
          id="stop4237"
          offset="1"
-         style="stop-color:#003d3d;stop-opacity:0;" />
+         style="stop-color:#006969;stop-opacity:0" />
     </linearGradient>
     <linearGradient
        gradientTransform="matrix(1,0,0,0.99967455,0,0.17633)"
@@ -88,24 +88,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="40.045663"
-     inkscape:cy="22.812236"
+     inkscape:zoom="7.90625"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="928"
-     inkscape:window-height="1053"
-     inkscape:window-x="56"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="670"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="false">
+     showguides="true">
     <sodipodi:guide
        position="6.0000117,6.0000264"
        orientation="0,52"
@@ -168,11 +168,11 @@
        id="rect4113-4" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#047975;fill-opacity:1;stroke:none"
+       style="fill:#058481;fill-opacity:1;stroke:none"
        d="m 387.57143,540.798 0,1 1,0 56,0 1,0 0,-1 -1,0 -56,0 -1,0 z"
        id="path4151" />
     <path
-       style="fill:#ffffff;fill-opacity:0.44571429;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#56c6c6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 444.57143,493.798 0,1 -29,0 -2,-5 3,4 z"
        id="path4222"
        inkscape:connector-curvature="0" />
@@ -182,7 +182,7 @@
        id="path4224"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#046060;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#046462;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 388.57143,502.798 0,1 15,0 3,-4 -5,3 z"
        id="path4228"
        inkscape:connector-curvature="0" />
