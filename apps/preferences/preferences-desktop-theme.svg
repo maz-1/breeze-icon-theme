@@ -14,7 +14,7 @@
    height="32"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="preferences-desktop-theme.svg">
   <defs
      id="defs5455">
@@ -71,8 +71,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="0.08904632"
-     inkscape:cy="7.9211441"
+     inkscape:cx="9.7140469"
+     inkscape:cy="8.1086441"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -81,9 +81,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="669"
+     inkscape:window-height="670"
      inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -149,6 +149,13 @@
        width="32"
        id="rect4641-5"
        style="opacity:1;fill:url(#linearGradient4643-8);fill-opacity:1;stroke:none" />
+    <rect
+       style="opacity:1;fill:#99a1a7;fill-opacity:1;stroke:none"
+       id="rect4645-7"
+       width="31.999983"
+       height="1"
+       x="384.57144"
+       y="544.73163" />
     <path
        style="opacity:0.2;fill:url(#linearGradient4183);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 385.57142,543.79803 30,-20 1.00001,1 -1e-5,20.99997 -29,3e-5 z"
