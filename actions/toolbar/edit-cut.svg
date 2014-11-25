@@ -13,8 +13,8 @@
    height="22"
    id="svg3815"
    version="1.1"
-   inkscape:version="0.91pre2 r"
-   sodipodi:docname="edit-cut-other.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="edit-cut.svg">
   <title
      id="title4252">I hate this icon</title>
   <defs
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="26.38113"
+     inkscape:cx="15.88113"
      inkscape:cy="9.6403348"
      inkscape:document-units="px"
      inkscape:current-layer="svg3815"
@@ -37,9 +37,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="672"
+     inkscape:window-height="670"
      inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:showpageshadow="false">
@@ -100,7 +100,7 @@
           </cc:Agent>
         </dc:rights>
         <dc:language>English</dc:language>
-        <dc:description>An icon I absolutely don't like, and that represenst exactly the kind of things why I choose CC licenses.</dc:description>
+        <dc:description>An icon I absolutely don't like, and that represents exactly the kind of things why I choose CC licenses.</dc:description>
         <dc:contributor>
           <cc:Agent>
             <dc:title>Everyone</dc:title>
