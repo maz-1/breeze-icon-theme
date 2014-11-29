@@ -15,73 +15,73 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="preferences-system-time.svg">
+   sodipodi:docname="preferences-desktop-text-to-speech.svg">
   <defs
      id="defs5455">
     <linearGradient
-       id="linearGradient4159"
+       id="linearGradient4298"
        inkscape:collect="always">
       <stop
-         id="stop4161"
+         id="stop4300"
          offset="0"
-         style="stop-color:#2a2c2f;stop-opacity:1" />
+         style="stop-color:#42a603;stop-opacity:1" />
       <stop
-         id="stop4163"
+         id="stop4302"
          offset="1"
-         style="stop-color:#424649;stop-opacity:1" />
+         style="stop-color:#78da06;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4159"
-       id="linearGradient4274"
-       x1="400.57138"
+       xlink:href="#linearGradient4298"
+       id="linearGradient4246"
+       x1="400.57144"
        y1="545.79797"
-       x2="400.57138"
+       x2="400.57144"
        y2="517.79797"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4227"
-       id="linearGradient4305"
-       x1="393.57144"
-       y1="524.79797"
-       x2="407.57144"
-       y2="538.79797"
+       xlink:href="#linearGradient4374"
+       id="linearGradient4362"
+       x1="400.57144"
+       y1="538.79797"
+       x2="400.57144"
+       y2="524.79797"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-384.57143,-515.798)" />
     <linearGradient
-       id="linearGradient4227"
+       id="linearGradient4374"
        inkscape:collect="always">
       <stop
-         id="stop4229"
+         id="stop4376"
          offset="0"
-         style="stop-color:#292c2f;stop-opacity:1" />
+         style="stop-color:#bcfd93;stop-opacity:1" />
       <stop
-         id="stop4231"
+         id="stop4378"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4143"
-       inkscape:collect="always">
-      <stop
-         id="stop4145"
-         offset="0"
-         style="stop-color:#197cf1;stop-opacity:1" />
-      <stop
-         id="stop4147"
-         offset="1"
-         style="stop-color:#20bcfa;stop-opacity:1" />
+         style="stop-color:#fafff5;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4143"
-       id="linearGradient4216"
-       x1="16"
-       y1="18"
-       x2="16"
-       y2="7"
+       xlink:href="#linearGradient4410"
+       id="linearGradient4183"
+       x1="9"
+       y1="8.9999599"
+       x2="23.000008"
+       y2="23"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4410">
+      <stop
+         style="stop-color:#383e51;stop-opacity:1"
+         offset="0"
+         id="stop4412" />
+      <stop
+         style="stop-color:#655c6f;stop-opacity:0"
+         offset="1"
+         id="stop4414" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -91,8 +91,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="15.570968"
-     inkscape:cy="19.365553"
+     inkscape:cx="7.8786763"
+     inkscape:cy="16.702271"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -107,7 +107,9 @@
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true">
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -144,21 +146,21 @@
        orientation="0,-27.999969"
        id="guide4639" />
     <sodipodi:guide
-       position="9.0000117,23.000026"
-       orientation="14,0"
-       id="guide4162" />
+       position="9.0000155,9.000013"
+       orientation="-14.000027,0"
+       id="guide4266" />
     <sodipodi:guide
-       position="9.0000117,9.0000264"
-       orientation="0,13.999969"
-       id="guide4164" />
+       position="9.0000155,23.00004"
+       orientation="0,13.999992"
+       id="guide4268" />
     <sodipodi:guide
-       position="22.999981,9.0000264"
-       orientation="-14,0"
-       id="guide4166" />
+       position="23.000008,23.00004"
+       orientation="14.000027,0"
+       id="guide4270" />
     <sodipodi:guide
-       position="22.999981,23.000026"
-       orientation="0,-13.999969"
-       id="guide4168" />
+       position="23.000008,9.000013"
+       orientation="0,-13.999992"
+       id="guide4272" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -177,23 +179,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-384.57143,-515.798)">
-    <rect
-       style="opacity:1;fill:url(#linearGradient4274);fill-opacity:1;stroke:none"
-       id="rect4179"
-       width="27.999973"
-       height="27.999973"
-       x="386.57144"
-       y="517.79797"
-       ry="13.999987" />
+    <ellipse
+       style="opacity:1;fill:url(#linearGradient4246);fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="path4159"
+       cx="400.57144"
+       cy="531.79797"
+       rx="13.999979"
+       ry="14.000013" />
     <path
-       style="fill:url(#linearGradient4305);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.2"
-       d="M 15 7 L 15 17.691406 L 24.283203 26.974609 C 26.559775 25.303697 28.302448 22.963365 29.234375 20.234375 L 16 7 L 15 7 z "
+       style="fill:url(#linearGradient4183);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.2"
+       d="M 14 9 L 14 15 L 25.375 26.375 A 13.999979 14.000013 0 0 0 30 16 L 23 9 L 14 9 z M 13 15 L 9 21 L 17.859375 29.859375 A 13.999979 14.000013 0 0 0 24.84375 26.84375 L 13 15 z "
        transform="translate(384.57143,515.798)"
-       id="path4294" />
+       id="path4164" />
     <path
-       style="opacity:1;fill:url(#linearGradient4216);fill-opacity:1.0;stroke:none"
-       d="M 15 7 L 15 17 L 15 18 L 23 18 L 23 17 L 16 17 L 16 7 L 15 7 z "
+       style="opacity:1;fill:url(#linearGradient4362);fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+       d="M 14 9 L 14 15 L 20 15 L 20 18 L 23 15 L 23 9 L 14 9 z M 15 10 L 22 10 L 22 14 L 15 14 L 15 10 z M 12.5 15 L 12 15.400391 L 10 17.066406 L 10 17 L 9 17 L 9 17.5 L 9 20.5 L 9 21 L 10 21 L 10 20.933594 L 12 22.599609 L 12.5 23 L 13 23 L 13 15 L 12.5 15 z "
        transform="translate(384.57143,515.798)"
-       id="rect4276" />
+       id="path4147" />
   </g>
 </svg>

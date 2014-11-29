@@ -14,7 +14,7 @@
    height="32"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="preferences-system-power-management.svg">
   <defs
      id="defs5455">
@@ -55,10 +55,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4227"
        id="linearGradient4210"
-       x1="6"
+       x1="9.0000114"
        y1="9"
-       x2="22"
-       y2="25"
+       x2="23.000042"
+       y2="23"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient4298"
@@ -89,9 +89,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="-16.77238"
-     inkscape:cy="10.158919"
+     inkscape:zoom="15.8125"
+     inkscape:cx="16"
+     inkscape:cy="16"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -100,9 +100,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="669"
+     inkscape:window-height="670"
      inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"

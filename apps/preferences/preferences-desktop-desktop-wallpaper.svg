@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="preferences-desktop-screensaver.svg">
+   sodipodi:docname="preferences-desktop-desktop-wallpaper.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -455,37 +455,6 @@
          offset="1"
          id="stop4903" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient4219"
-       inkscape:collect="always">
-      <stop
-         id="stop4221"
-         offset="0"
-         style="stop-color:#c3ced7;stop-opacity:1" />
-      <stop
-         id="stop4223"
-         offset="1"
-         style="stop-color:#e2f4f4;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4219"
-       id="linearGradient4479"
-       x1="401.57144"
-       y1="533.79797"
-       x2="401.57144"
-       y2="521.79797"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-384.57143,-515.798)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4293"
-       id="linearGradient4279"
-       x1="9"
-       y1="4.9999738"
-       x2="23.000027"
-       y2="19"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -494,9 +463,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.999998"
-     inkscape:cx="21.962143"
-     inkscape:cy="21.825895"
+     inkscape:zoom="22.627416"
+     inkscape:cx="14.005236"
+     inkscape:cy="17.445614"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -547,22 +516,6 @@
        position="30.000012,30.000026"
        orientation="0,-27.999969"
        id="guide4639" />
-    <sodipodi:guide
-       position="8.9999506,27.000026"
-       orientation="14,0"
-       id="guide4260" />
-    <sodipodi:guide
-       position="8.9999506,13.000026"
-       orientation="0,14"
-       id="guide4262" />
-    <sodipodi:guide
-       position="22.999951,13.000026"
-       orientation="-14,0"
-       id="guide4264" />
-    <sodipodi:guide
-       position="22.999951,27.000026"
-       orientation="0,-14"
-       id="guide4266" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -708,15 +661,5 @@
            height="15"
            x="22"
            y="3" /></flowRegion><flowPara
-         id="flowPara4176">Plasm</flowPara></flowRoot>    <path
-       style="fill:url(#linearGradient4279);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.2"
-       d="M 16 5 L 16 6 L 15 6 L 14 7 L 13 8 L 13 9 L 16 12 L 13 12 L 12 12 L 11 12 L 11 19 L 17 25 L 27 25 L 32 25 L 32 20 L 18 6 L 16 5 z "
-       transform="translate(384.57143,515.798)"
-       id="path4268" />
-    <path
-       style="fill:url(#linearGradient4479);fill-opacity:1;stroke:none"
-       d="M 16 5 C 14.338 5 13 6.338 13 8 L 13 9 L 14 9 L 14 8 C 14 6.5458 14.75351 6 16 6 C 17.2465 6 18 6.5458 18 8 L 18 12 L 16 12 L 14 12 L 13 12 L 12 12 L 11 12 L 11 12.75 L 11 19 L 21 19 L 21 12 L 19 12 L 19 8 C 19 6.338 17.662 5 16 5 z M 12 13 L 20 13 L 20 18 L 12 18 L 12 13 z "
-       transform="translate(384.57143,515.798)"
-       id="rect4136-1" />
-  </g>
+         id="flowPara4176">Plasm</flowPara></flowRoot>  </g>
 </svg>

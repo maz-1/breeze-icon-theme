@@ -79,9 +79,9 @@
        xlink:href="#linearGradient4227-9"
        id="linearGradient4363"
        x1="393.57144"
-       y1="528.79797"
-       x2="410.57144"
-       y2="538.61292"
+       y1="521.79803"
+       x2="407.57144"
+       y2="535.79797"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-384.57143,-515.798)" />
   </defs>
@@ -92,9 +92,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.999999"
-     inkscape:cx="16.43008"
-     inkscape:cy="17.734063"
+     inkscape:zoom="22.627416"
+     inkscape:cx="16.378582"
+     inkscape:cy="17.771933"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -147,6 +147,22 @@
        position="30.000012,30.000026"
        orientation="0,-27.999969"
        id="guide4639" />
+    <sodipodi:guide
+       position="9.0000117,25.999965"
+       orientation="14,0"
+       id="guide4174" />
+    <sodipodi:guide
+       position="9.0000117,11.999965"
+       orientation="0,14"
+       id="guide4176" />
+    <sodipodi:guide
+       position="23.000012,11.999965"
+       orientation="-14,0"
+       id="guide4178" />
+    <sodipodi:guide
+       position="23.000012,25.999965"
+       orientation="0,-14"
+       id="guide4180" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -156,7 +172,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

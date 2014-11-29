@@ -14,7 +14,7 @@
    height="32"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="preferences-desktop-user.svg">
   <defs
      id="defs5455">
@@ -76,10 +76,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4410"
        id="linearGradient4490"
-       x1="392.57144"
+       x1="393.57144"
        y1="524.79797"
-       x2="408.57147"
-       y2="540.79797"
+       x2="407.57144"
+       y2="538.79797"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-384.57143,-515.798)" />
   </defs>
@@ -91,8 +91,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="12.13533"
-     inkscape:cy="11.140625"
+     inkscape:cx="3.9478295"
+     inkscape:cy="15.890625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -101,9 +101,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="669"
+     inkscape:window-height="670"
      inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"

@@ -14,7 +14,7 @@
    height="32"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="preferences-system-network-sharing.svg"
    inkscape:export-filename="/home/uri/Iconos de KDE/Novo/apps/preferences/preferences-system-network-sharing.png"
    inkscape:export-xdpi="90"
@@ -65,10 +65,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4227"
        id="linearGradient4155"
-       x1="389.57144"
-       y1="518.79797"
-       x2="408.57144"
-       y2="537.79797"
+       x1="393.57144"
+       y1="524.79797"
+       x2="407.57144"
+       y2="538.79797"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-384.57143,-515.798)" />
     <linearGradient
@@ -104,8 +104,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="-1.2330031"
-     inkscape:cy="13.304748"
+     inkscape:cx="14.53251"
+     inkscape:cy="17.780469"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -114,9 +114,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="669"
+     inkscape:window-height="670"
      inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -233,7 +233,7 @@
        rx="13.999994" />
     <path
        style="fill:url(#linearGradient4155);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.2"
-       d="M 21.234375 9.3261719 L 18.769531 12.580078 L 30 23.810547 L 30 18.091797 L 21.234375 9.3261719 z M 12.634766 14.855469 L 9.2617188 16.992188 L 22.269531 30 L 30 30 L 30 28.251953 L 21.035156 19.287109 L 19.050781 21.273438 L 12.634766 14.855469 z "
+       d="M 21.234375 9.3261719 L 18.769531 12.580078 L 28.496094 22.306641 C 29.173042 20.96273 29.637231 19.49552 29.851562 17.943359 L 21.234375 9.3261719 z M 16.800781 12.099609 L 16.199219 12.900391 L 28.300781 25 L 29 25 L 29.699219 25 L 16.800781 12.099609 z M 14.800781 13.099609 L 14.199219 13.900391 L 20.310547 20.011719 L 19.050781 21.273438 L 12.634766 14.855469 L 9.2617188 16.992188 L 21.248047 28.978516 C 23.074118 28.24304 24.704247 27.136576 26.050781 25.75 L 26.300781 26 L 27 26 L 27.699219 26 L 26.716797 25.017578 C 26.724215 25.008762 26.732838 25.001023 26.740234 24.992188 L 21.035156 19.287109 L 21.011719 19.310547 L 14.800781 13.099609 z "
        transform="translate(384.57143,515.798)"
        id="path4147" />
     <path

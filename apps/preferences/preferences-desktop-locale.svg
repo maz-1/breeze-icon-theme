@@ -14,7 +14,7 @@
    height="32"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="preferences-desktop-locale.svg">
   <defs
      id="defs5455">
@@ -66,9 +66,9 @@
        xlink:href="#linearGradient4227"
        id="linearGradient4996"
        x1="401.57144"
-       y1="523.79797"
-       x2="413.57147"
-       y2="535.79797"
+       y1="516.69788"
+       x2="415.57144"
+       y2="530.69788"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-388.57143,-511.798)" />
     <linearGradient
@@ -91,9 +91,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.24735"
-     inkscape:cx="-0.10330847"
-     inkscape:cy="11.335219"
+     inkscape:zoom="20.148796"
+     inkscape:cx="12.823584"
+     inkscape:cy="17.278744"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -102,9 +102,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="669"
+     inkscape:window-height="670"
      inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -144,6 +144,22 @@
        position="30.000012,30.000026"
        orientation="0,-28"
        id="guide4820" />
+    <sodipodi:guide
+       position="13.000012,27.100124"
+       orientation="14,0"
+       id="guide4159" />
+    <sodipodi:guide
+       position="13.000012,13.100124"
+       orientation="0,14"
+       id="guide4161" />
+    <sodipodi:guide
+       position="27.000012,13.100124"
+       orientation="-14,0"
+       id="guide4163" />
+    <sodipodi:guide
+       position="27.000012,27.100124"
+       orientation="0,-14"
+       id="guide4165" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -169,13 +185,14 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:0.2;fill:url(#linearGradient4996);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 26 6 L 25.550781 15 L 14 15 L 23 24 L 23 23 L 30 23 L 30 10 L 26 6 z "
+       d="M 26.900391 4.9003906 L 25 15.900391 L 22 15.900391 L 19 15.900391 L 13 15.900391 L 22 24.900391 L 23 25.900391 L 23 23 L 30 23 L 30 8 L 27 5 L 26.900391 4.9003906 z "
        transform="translate(384.57143,515.798)"
        id="path4905" />
     <path
        style="opacity:1;fill:url(#linearGradient4783);fill-opacity:1;stroke:none"
-       d="m 410.57143,521.798 0,9 -3,0 0,3 -3,-3 -6,0 0,-9 12,0 z"
+       d="m 411.57143,520.798 0,10.9 -5,0 0,3 -3,-3 -6,0 0,-10.9 z"
        id="path4781"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
   </g>
 </svg>

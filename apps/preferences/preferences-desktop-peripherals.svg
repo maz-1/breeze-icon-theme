@@ -14,7 +14,7 @@
    height="32"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="preferences-desktop-peripherals.svg">
   <defs
      id="defs5455">
@@ -149,10 +149,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4227"
        id="linearGradient4187"
-       x1="403.57144"
-       y1="527.79797"
-       x2="412.57147"
-       y2="536.79797"
+       x1="400.57144"
+       y1="525.79797"
+       x2="414.57147"
+       y2="539.79797"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-384.57143,-515.798)" />
     <linearGradient
@@ -175,9 +175,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999996"
-     inkscape:cx="0.85748091"
-     inkscape:cy="8.5527829"
+     inkscape:zoom="11.181126"
+     inkscape:cx="3.3925798"
+     inkscape:cy="16.737115"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -186,9 +186,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="669"
+     inkscape:window-height="670"
      inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -240,6 +240,22 @@
        position="29,4"
        orientation="0,-1.5"
        id="guide4196" />
+    <sodipodi:guide
+       position="16.000012,22.000026"
+       orientation="14,0"
+       id="guide4188" />
+    <sodipodi:guide
+       position="16.000012,8.0000264"
+       orientation="0,14"
+       id="guide4191" />
+    <sodipodi:guide
+       position="30.000012,8.0000264"
+       orientation="-14,0"
+       id="guide4193" />
+    <sodipodi:guide
+       position="30.000012,22.000026"
+       orientation="0,-14"
+       id="guide4195" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
