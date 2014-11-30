@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.885578"
-     inkscape:cx="9.1269911"
-     inkscape:cy="10.783628"
+     inkscape:cx="-5.7461558"
+     inkscape:cy="10.860891"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,9 +35,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="672"
+     inkscape:window-height="670"
      inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -95,10 +95,29 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-421.71429,-525.79074)">
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 4 L 19 4 L 19 3 L 3 3 z M 3 8 L 3 9 L 13 9 L 13 8 L 3 8 z M 3 13 L 3 14 L 18 14 L 18 13 L 3 13 z M 3 18 L 3 19 L 15 19 L 15 18 L 3 18 z "
-       transform="translate(421.71429,525.79074)"
-       id="rect4163" />
+    <g
+       transform="translate(421.71429,-504.57146)"
+       id="layer1-4"
+       inkscape:label="Capa 1"
+       style="fill:#f2f2f2;fill-opacity:1">
+      <g
+         transform="matrix(-1,0,0,1,22,0)"
+         inkscape:label="Capa 1"
+         id="layer1-9"
+         style="fill:#f2f2f2;fill-opacity:1">
+        <g
+           id="layer1-2"
+           inkscape:label="Capa 1"
+           transform="matrix(-1,0,0,1,22,0)"
+           style="fill:#f2f2f2;fill-opacity:1">
+          <path
+             sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc"
+             id="path4174"
+             d="m 3,1033.3622 0,1 16,0 0,-1 z m 0,2 0,1 9,0 0,-1 z m 0,4 0,1 16,0 0,-1 z m 0,2 0,1 10,0 0,-1 z m 0,4 0,1 16,0 0,-1 z m 0,2 0,1 13,0 0,-1 z m 14,1 0,1 2,0 0,-1 z"
+             style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>

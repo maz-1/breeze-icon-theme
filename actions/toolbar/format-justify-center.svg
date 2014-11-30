@@ -13,7 +13,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 22 22"
    sodipodi:docname="format-justify-center.svg">
   <defs
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.15656"
-     inkscape:cx="10.423623"
+     inkscape:cx="3.7454444"
      inkscape:cy="11.383599"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,9 +34,9 @@
      inkscape:showpageshadow="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="668"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
+     inkscape:window-height="670"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
@@ -101,11 +101,10 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 3,3 0,1 16,0 0,-1 z m 2,3 0,1 12,0 0,-1 z m 0,3 0,1 12,0 0,-1 z m 0,3 0,1 12,0 0,-1 z m 0,3 0,1 12,0 0,-1 z m -2,3 0,1 16,0 0,-1 z"
-       transform="translate(0,1030.3622)"
-       id="rect4110"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 3,1033.3622 0,1 16,0 0,-1 z m 2,2 0,1 12.1,0 0,-1 z m -2,4 0,1 16,0 0,-1 z m 4,2 0,1 8,0 0,-1 z m -4,3 0,1 16,0 0,-1 z m 2,2 0,1 12,0 0,-1 z m 5,2 0,1 2,0 0,-1 z"
+       id="path4174"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>
