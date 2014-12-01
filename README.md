@@ -7,7 +7,7 @@ Breeze is part of the new Artwork for Plasma 5 (the icon theme is a work in prog
 
 ![Breeze preview](https://lh4.googleusercontent.com/-ZSD_tlLnPRU/VFrAy1vxkDI/AAAAAAAAB3s/mHMBhJJtLaE/w965-h543-no/icons.png "Breeze is the next icon theme for KDE")
 
-Icons are licensed under the GPLv3
+Icons are licensed under the LGPLv3
 
 Give your feedback!
 -------------
