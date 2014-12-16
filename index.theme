@@ -3,7 +3,7 @@ Name=Breeze
 Comment=Default Plasma 5 Theme
 Inherits=
 
-Directories=actions/toolbar,actions/toolbar-small,actions/categories,apps/preferences,apps/software,apps/software-medium,apps/software-small,apps/toolbar,apps/emotes,apps/categories,apps/actions,apps/devices,categories/start-menu,categories/start-menu-small,devices/hardware,devices/sidebars,mimetypes/file-types,mimetypes/file-types-small,places/user-folders,places/user-folders-small,status/toolbar,status/panel
+Directories=actions/toolbar,actions/toolbar-small,actions/categories,apps/preferences,apps/software,apps/software-medium,apps/software-small,apps/toolbar,apps/emotes,apps/categories,apps/actions,apps/devices,categories/start-menu,categories/start-menu-small,devices/hardware,devices/sidebars,mimetypes/file-types,mimetypes/file-types-small,places/user-folders,places/user-folders-small,status/dialogs,status/im-status,status/toolbar,status/panel
 
 #22x22 - Fixed size - For toolbar icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 [actions/toolbar]
@@ -134,13 +134,25 @@ Context=Places
 Type=Scalable
 Type=Fixed
 
+#64x64 - Fixed size - For dialog icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
+[status/dialogs]
+Size=64
+Context=Status
+Type=Fixed
+
+#16x16 - Fixed size - For IM status icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[status/im-status]
+Size=16
+Context=Status
+Type=Fixed
+
 #22x22 - Fixed size - For toolbar icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 [status/toolbar]
 Size=22
 Context=Status
 Type=Fixed
 
-#22x22 - Fixed size - Icon(s) for Plasma theme/system tray  - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#22x22 - Fixed size - Icon(s) for Plasma theme/System Tray. Not particularly used on Plasma. - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 [status/panel]
 Size=22
 Context=Status

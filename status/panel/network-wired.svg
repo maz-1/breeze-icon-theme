@@ -13,7 +13,7 @@
    height="22"
    id="svg3869"
    version="1.1"
-   inkscape:version="0.91pre2 r"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="network-wired.svg">
   <defs
      id="defs3871" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.999999"
-     inkscape:cx="11.614129"
-     inkscape:cy="12.766981"
+     inkscape:zoom="22.627417"
+     inkscape:cx="16.920622"
+     inkscape:cy="10.880475"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,11 +35,12 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="672"
+     inkscape:window-height="670"
      inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid4132" />
@@ -62,15 +63,19 @@
     <sodipodi:guide
        position="3,19.000017"
        orientation="16,0"
-       id="guide4146" />
+       id="guide4147" />
     <sodipodi:guide
        position="3,3.0000174"
        orientation="0,16"
-       id="guide4148" />
+       id="guide4149" />
+    <sodipodi:guide
+       position="19,3.0000174"
+       orientation="-16,0"
+       id="guide4151" />
     <sodipodi:guide
        position="19,19.000017"
        orientation="0,-16"
-       id="guide4152" />
+       id="guide4153" />
   </sodipodi:namedview>
   <metadata
      id="metadata3874">

@@ -14,7 +14,7 @@
    height="48"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="chromium-browser.svg">
   <defs
      id="defs5455">
@@ -29,18 +29,6 @@
          style="stop-color:#a9cfe4;stop-opacity:1"
          offset="1"
          id="stop4405" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4365">
-      <stop
-         style="stop-color:#6795b1;stop-opacity:1;"
-         offset="0"
-         id="stop4367" />
-      <stop
-         style="stop-color:#6795b1;stop-opacity:0;"
-         offset="1"
-         id="stop4369" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -109,20 +97,20 @@
        gradientTransform="translate(384.56752,499.798)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4365"
+       xlink:href="#linearGradient4227"
        id="linearGradient4381"
-       x1="409.57144"
-       y1="526.79797"
+       x1="403.57147"
+       y1="520.79797"
        x2="420.57144"
        y2="537.79797"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-384.57143,-499.798)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4365"
+       xlink:href="#linearGradient4227"
        id="linearGradient4393"
-       x1="409.57144"
-       y1="524.79797"
+       x1="402.57144"
+       y1="517.79797"
        x2="423.57144"
        y2="538.79797"
        gradientUnits="userSpaceOnUse"
@@ -146,6 +134,18 @@
        y2="502.798"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.95,0,0,0.95,20.428574,26.189901)" />
+    <linearGradient
+       id="linearGradient4227"
+       inkscape:collect="always">
+      <stop
+         id="stop4229"
+         offset="0"
+         style="stop-color:#292c2f;stop-opacity:1" />
+      <stop
+         id="stop4231"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -154,9 +154,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="6.4193559"
-     inkscape:cy="28.851123"
+     inkscape:zoom="8"
+     inkscape:cx="27.603061"
+     inkscape:cy="24.147944"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -165,9 +165,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="668"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
+     inkscape:window-height="670"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -286,7 +286,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccscc" />
     <path
-       style="fill:url(#linearGradient4393);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient4393);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.2"
        d="M 30.7,18 17.3,30 30.064453,43.064453 c 5.934555,-1.874621 10.636514,-6.435695 12.734375,-12.265625 z"
        transform="translate(384.57143,499.798)"
        id="path4385"
@@ -307,7 +307,7 @@
        id="rect4211"
        style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none" />
     <path
-       style="opacity:0.4;fill:url(#linearGradient4381);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="opacity:0.2;fill:url(#linearGradient4381);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 30.3,21 -11.2,8 13.128516,13.228516 c 3.982862,-1.792939 7.271899,-4.836679 9.347656,-8.652344 z"
        transform="translate(384.57143,499.798)"
        id="path4373"

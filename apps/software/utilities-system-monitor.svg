@@ -134,10 +134,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4227"
        id="linearGradient4626"
-       x1="5"
-       y1="11"
-       x2="29"
-       y2="35"
+       x1="10"
+       y1="15"
+       x2="36"
+       y2="41"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient4227"
@@ -170,7 +170,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="17.925165"
+     inkscape:cx="11.914758"
      inkscape:cy="24.876654"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
