@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.95535"
-     inkscape:cx="16.037203"
-     inkscape:cy="11.987862"
+     inkscape:zoom="32.463767"
+     inkscape:cx="3.784292"
+     inkscape:cy="12.942439"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -90,9 +90,14 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 11 3 C 8.784 3 7 4.784 7 7 L 7 11 L 5 11 L 5 12 L 5 19 L 6 19 L 16 19 L 17 19 L 17 11 L 16 11 L 15 11 L 15 7 C 15 4.784 13.216 3 11 3 z M 11 4 C 12.662 4 14 5.338 14 7 L 14 11 L 8 11 L 8 7 C 8 5.338 9.338 4 11 4 z M 6 12 L 16 12 L 16 18 L 6 18 L 6 12 z "
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       d="M 11 3 C 8.784 3 7 4.784 7 7 L 8 7 C 8 5.338 9.338 4 11 4 C 12.662 4 14 5.338 14 7 L 14 11 L 10 11 L 8 11 L 7 11 L 6 11 L 5 11 L 5 12 L 5 19 L 6 19 L 16 19 L 17 19 L 17 11 L 16 11 L 15 11 L 15 7 C 15 4.784 13.216 3 11 3 z M 6 12 L 16 12 L 16 18 L 6 18 L 6 12 z "
        transform="translate(0,1030.3622)"
        id="rect4136" />
+    <g
+       id="layer1-5"
+       inkscape:label="Capa 1"
+       transform="translate(-20.82634,-0.48973254)"
+       style="fill:#f2f2f2;fill-opacity:1" />
   </g>
 </svg>
