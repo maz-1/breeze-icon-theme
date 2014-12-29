@@ -13,9 +13,9 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-text.svg">
+   sodipodi:docname="folder-temp.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="44.8"
-     inkscape:cx="7.9697073"
+     inkscape:cx="4.3424752"
      inkscape:cy="9.9647527"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,10 +34,10 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      units="px"
-     inkscape:window-width="1864"
-     inkscape:window-height="1060"
-     inkscape:window-x="54"
-     inkscape:window-y="-3"
+     inkscape:window-width="1366"
+     inkscape:window-height="670"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true">
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,24 +80,8 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10000000000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 8 2 C 4.6862915 2 2 4.6862868 2 8 C 2 11.313713 4.6862915 14 8 14 C 11.313708 14 14 11.313713 14 8 C 14 4.6862868 11.313708 2 8 2 z M 8 3 C 10.761424 3 13 5.2385763 13 8 C 13 10.761424 10.761424 13 8 13 C 5.2385763 13 3 10.761424 3 8 C 3 5.2385763 5.2385763 3 8 3 z "
+       d="M 8 2 C 4.6862915 2 2 4.6862868 2 8 C 2 11.313713 4.6862915 14 8 14 C 11.313708 14 14 11.313713 14 8 C 14 4.6862868 11.313708 2 8 2 z M 8 3 C 10.761424 3 13 5.2385763 13 8 C 13 10.761424 10.761424 13 8 13 C 5.2385763 13 3 10.761424 3 8 C 3 5.2385763 5.2385763 3 8 3 z M 7 4 L 7 8 L 7 9 L 8 9 L 12 9 L 12 8 L 8 8 L 8 4 L 7 4 z "
        transform="translate(0,1036.3622)"
        id="path3000" />
-    <rect
-       style="opacity:1;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10000000000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3005"
-       width="1"
-       height="5"
-       x="7"
-       y="4"
-       transform="translate(0,1036.3622)" />
-    <rect
-       style="opacity:1;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10000000000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3007"
-       width="5"
-       height="1"
-       x="7"
-       y="8"
-       transform="translate(0,1036.3622)" />
   </g>
 </svg>
