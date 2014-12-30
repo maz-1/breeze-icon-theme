@@ -3,7 +3,7 @@ Name=Breeze
 Comment=Default Plasma 5 Theme
 Inherits=
 
-Directories=actions/toolbar,actions/toolbar-small,actions/categories,apps/preferences,apps/software,apps/software-medium,apps/software-small,apps/toolbar,apps/emotes,apps/categories,apps/actions,apps/devices,apps/devices-small,categories/start-menu,categories/start-menu-small,devices/hardware,devices/sidebars,emblems/faces,emblems/small,emotes/medium,mimetypes/file-types,mimetypes/file-types-small,places/user-folders,places/user-folders-small,status/dialogs,status/im-status,status/toolbar,status/panel
+Directories=actions/toolbar,actions/toolbar-small,actions/categories,apps/preferences,apps/software,apps/software-medium,apps/software-small,apps/toolbar,apps/emotes,apps/categories,apps/actions,apps/devices,apps/devices-small,categories/start-menu,categories/start-menu-small,devices/hardware,devices/sidebars,emblems/faces,emblems/small,emotes/faces,emotes/food,emotes/objects,mimetypes/file-types,mimetypes/file-types-small,places/user-folders,places/user-folders-small,status/dialogs,status/im-status,status/toolbar,status/panel
 
 #22x22 - Fixed size - For toolbar icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 [actions/toolbar]
@@ -123,11 +123,27 @@ Size=8
 Context=Emblems
 Type=Fixed
 
-#22x22 - Fixed size - Emoticons - DO_NOT_USE_ANYWHERE_ELSE - Color
-[emotes/medium]
+##########Emoticons
+
+#22x22 - Fixed size - Emoticons - DO_NOT_USE_ANYWHERE_ELSE - Color/flat
+[emotes/faces]
 Size=22
 Context=Emotes
 Type=Fixed
+
+#22x22 - Fixed size - Emoticons - DO_NOT_USE_ANYWHERE_ELSE - Color
+[emotes/food]
+Size=22
+Context=Emotes
+Type=Fixed
+
+#22x22 - Fixed size - Emoticons - DO_NOT_USE_ANYWHERE_ELSE - Color
+[emotes/objects]
+Size=22
+Context=Emotes
+Type=Fixed
+
+#########
 
 #64x64 - Scalable - For file type icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
 [mimetypes/file-types]
