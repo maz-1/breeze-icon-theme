@@ -21,7 +21,7 @@ Alternatively, the icon theme will be available in your distribution repositorie
 Install
 ========
 
-* Move them to `mv /usr/share/icons`
+* Move them to `/usr/share/icons`
 * And finally select them on System Settings.
 
 Requesting new icons
