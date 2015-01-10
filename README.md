@@ -1,9 +1,8 @@
 Breeze (Plasma 5 icon theme) - Upstream repository
 ==============
 
-Breeze is the new artwork for Plasma 5. This repository contains the icon theme also called Breeze.
-
 ![Breeze preview](http://i.imgur.com/omER2VT.png "Breeze is the next icon theme for KDE")
+> Breeze is the new artwork for Plasma 5. This repository contains the icon theme also called Breeze.
 
 Icons are licensed under the [LGPLv3](http://opensource.org/licenses/lgpl-3.0.html)
 
@@ -39,5 +38,6 @@ Bugs or Issues
 
 Contributions
 ========
-* You're allowed to contribute icons to the icon theme, however, make sure to read the Wiki to get up and close with the design guidelines.
+* You're allowed (and welcomed) to contribute icons to the icon theme, however, make sure to read the [wiki](https://github.com/NitruxSA/plasma-next-icons/wiki) to get up and close with the design guidelines.
 * When creating pull requests make sure that your local copy is up to date before pushing changes.
+* Add a preview of the icon to the pull request, in the size of the icon and a zoomed version.
