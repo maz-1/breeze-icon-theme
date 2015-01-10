@@ -17,12 +17,12 @@ Icons are available to download directly from this repository. Simply clone it a
 * In a Terminal execute the following command: 
   * `git clone https://github.com/NitruxSA/plasma-next-icons.git`
 
-Alternatively, the icon theme will be available in your distribution repositories.
+Alternatively, click the **Download** button on the right of this site. Or install the theme via your distribution repositories.
 
 Install
 ========
 
-* Move the resulting folder to `/usr/share/icons`
+* Move the folder *plasma-next-icons* to `/usr/share/icons`
 * And finally select it in System Settings.
 
 Requesting new icons
