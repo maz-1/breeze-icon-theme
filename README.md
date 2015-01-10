@@ -12,7 +12,7 @@ Icons are licensed under the [LGPLv3](http://opensource.org/licenses/lgpl-3.0.ht
 Download
 ========
 
-Icons are available to download from directly this repository. Simply clone it and move the resulting folder to the appropriate path.
+Icons are available to download directly from this repository. Simply clone it and move the resulting folder to the appropriate path.
 
 * In a Terminal execute the following command: 
   * `git clone https://github.com/NitruxSA/plasma-next-icons.git`
