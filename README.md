@@ -34,7 +34,7 @@ Requesting new icons
 Bugs or Issues
 ========
 
-* Due to the transition from KDE 4 to Plasma 5 some icons are currently being displayed where they shouldn't be. This will addressed in future addtions to the icon theme and releases of KDE apps.
+* Due to the transition from KDE 4 to Plasma 5 some icons are currently being displayed where they shouldn't be. This will addressed in future iterations of the icon theme and releases of KDE apps.
 * Be sure to be as thorough as possible when adding information to an issue.
 
 Contributions
