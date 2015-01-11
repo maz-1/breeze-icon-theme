@@ -16,12 +16,12 @@ Icons are available to download directly from this repository. Simply clone it a
 * In a Terminal execute the following command: 
   * `git clone https://github.com/NitruxSA/plasma-next-icons.git`
 
-Alternatively, click the **Download ZIP** button on the right area of this site. Or install the icon theme via your distribution repositories.
+Alternatively, click the **Download ZIP** button on the right area of this site. Or install the icon theme via your distribution repositories (there's the possibility that it isn't up-to-date).
 
 Install
 ========
 
-* Move the folder *plasma-next-icons* to `/usr/share/icons`
+* Move the folder(s) *Breeze* or *Breeze Dark* to `/usr/share/icons`
 * And finally select it in System Settings.
 
 Requesting new icons
