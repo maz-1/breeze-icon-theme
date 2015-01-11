@@ -129,7 +129,7 @@ Type=Scalable
 MinSize=32
 MaxSize=256
 
-#48x48 - Fixed size - Icon used in Kickoff on KDE 4 tabs section - DO_NOT_USE_ANYWHERE_ELSE - NOT_NECESSARY_IN_PLASMA_5 - Color
+#48x48 - Fixed size - Icon used in Kickoff on KDE 4 tabs section - DO_NOT_USE_ANYWHERE_ELSE - Color
 [devices/kickoff-menu-tabs]
 Size=48
 Context=Devices
