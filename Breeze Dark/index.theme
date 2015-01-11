@@ -1,0 +1,341 @@
+[Icon Theme]
+Name=Breeze Dark
+Name[ca]=Brisa Dark
+Name[cs]=Breeze Dark
+Name[da]=Breeze Dark
+Name[de]=Breeze Dark
+Name[el]=Breeze Dark
+Name[en_GB]=Breeze Dark
+Name[es]=Brisa Dark
+Name[fi]=Breeze Dark
+Name[fr]=Brise Dark
+Name[gl]=Breeze Dark
+Name[hu]=Breeze Dark
+Name[ia]=Brisa Dark
+Name[it]=Brezza Dark
+Name[ko]=Breeze Dark
+Name[lt]=Breeze Dark
+Name[nb]=Breeze Dark
+Name[nds]=Breeze Dark
+Name[nl]=Breeze Dark
+Name[pl]=Bryza Dark
+Name[pt]=Brisa Dark
+Name[pt_BR]=Breeze Dark
+Name[ru]=Breeze Dark
+Name[sk]=Breeze Dark
+Name[sl]=Sapica Dark
+Name[sr]=Поветарац Dark
+Name[sr@ijekavian]=Поветарац Dark
+Name[sr@ijekavianlatin]=Povetarac Dark
+Name[sr@latin]=Povetarac Dark
+Name[sv]=Breeze Dark
+Name[tr]=Breeze Dark
+Name[uk]=Breeze Dark
+Name[x-test]=xxBreeze Darkxx
+Name[zh_CN]=微风 Dark
+Name[zh_TW]=微風 Dark
+
+Comment=KDE Plasma 5 Icon Theme for Dark themes
+Comment[ca]=Tema de icon del Plasma pel KDE
+Comment[cs]=Motiv kurzorů Plasma KDE
+Comment[da]=Markørtema til KDE Plasma
+Comment[de]=Plasma-Zeigerdesign für KDE
+Comment[el]=Θέμα δρομέα του KDE Plasma
+Comment[en_GB]=KDE Plasma Icon Theme
+Comment[es]=Tema de iconos de KDE Plasma
+Comment[es_MX]=Tema de iconos de KDE Plasma
+Comment[fi]=KDE Plasman osoitinteema
+Comment[fr]=Thème Plasma de curseur
+Comment[gl]=Tema do icon de Plasma de KDE
+Comment[hu]=KDE plazma kurzortéma
+Comment[it]=Tema di puntatori di KDE Plasma
+Comment[ko]=KDE Plasma 커서 테마
+Comment[lt]=KDE Plasma žymeklių tema
+Comment[nb]=KDE Plasma pekertema
+Comment[nds]=KDE-Plasma-Wiesermuster
+Comment[nl]=Iconthema van KDE Plasma
+Comment[pl]=Zestaw wskaźników Plazmy KDE
+Comment[pt]=Tema de Icones do Plasma para KDE
+Comment[pt_BR]=Tema de icones do Plasma
+Comment[ru]=Тема курсоров KDE Plasma
+Comment[sk]=Téma kurzora KDE Plasma
+Comment[sl]=Tema kazalk za KDE Plasma
+Comment[sr]=КДЕ плазма тема показивача
+Comment[sr@ijekavian]=КДЕ плазма тема показивача
+Comment[sr@ijekavianlatin]=KDE plasma tema pokazivača
+Comment[sr@latin]=KDE plasma tema pokazivača
+Comment[sv]=KDE Plasma muspekartema
+Comment[tr]=KDE Plasma İmleç Teması
+Comment[uk]=Тема курсорів Плазми KDE
+Comment[x-test]=xxKDE Plasma Icon Themexx
+Comment[zh_CN]=KDE Plasma 光标主题
+Comment[zh_TW]=KDE Plasma 游標主題
+
+DisplayDepth=32
+
+Inherits=hicolor
+
+Example=folder
+
+########## Directories
+########## ordered by category and alphabetically
+
+Directories=actions/categories,actions/kickoff-menu-tabs,actions/toolbar,actions/toolbar-small,apps/actions,apps/categories,apps/devices,apps/devices-small,apps/emotes,apps/kickoff-menu-tabs,apps/preferences,apps/software,apps/software-medium,apps/software-small,apps/system-power-actions,apps/toolbar,categories/kickoff-menu-tabs,categories/start-menu,categories/start-menu-small,devices/hardware,devices/kickoff-menu-tabs,devices/sidebars,emblems/medium,emblems/small,emotes/faces,emotes/food,emotes/objects,mimetypes/file-types,mimetypes/file-types-small,places/user-folders,places/user-folders-small,status/dialogs,status/im-status,status/toolbar,status/panel
+
+########## Actions
+########## ordered by size
+
+#16x16 - Fixed size - For use in sidebar(s) smaller toolbar(s) >!!!ONLY!!!<: e.g. Kate movable sidebar/toolbar (search and replace, current project, etc.) or Juk tree view - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[actions/toolbar-small]
+Size=16
+Context=Actions
+Type=Fixed
+
+#16x16 - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. Dolphin Configure toolbar button -  WRONG_ICON_USAGE_BY_APP - Monochrome
+[actions/categories]
+Size=16
+Context=Categories
+Type=Fixed
+
+#22x22 - Fixed size - For toolbar icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[actions/toolbar]
+Size=22
+Context=Actions
+Type=Fixed
+
+#48x48 - Fixed size - Icon(s) used in Kickoff on KDE 4 tabs section >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
+[actions/kickoff-menu-tabs]
+Size=48
+Context=Actions
+Type=Fixed
+
+##########
+
+########## Apps
+########## ordered by size
+
+#16x16 - Fixed size - Devices icon(s) for sidebars - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[apps/devices-small]
+Size=16
+Context=Devices
+Type=Fixed
+
+#16x16 - Fixed size - Application icon(s) for sidebars - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[apps/software-small]
+Size=16
+Context=Applications
+Type=Fixed
+
+#22x22 - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. Dolphin Open Terminal/About Dolphin/About KDE buttons - WRONG_ICON_USAGE_BY_APP - Monochrome
+[apps/toolbar]
+Size=22
+Context=Applications
+Type=Fixed
+
+#32x32 - Fixed size - Icon(s) belonging to System Settings - WRONG_ICON_USAGE_BY_APP - Color
+[apps/emotes]
+Size=32
+Context=Emotes
+Type=Fixed
+
+#32x32 - Fixed size - Icon(s) belonging to System Settings - WRONG_ICON_USAGE_BY_APP - Color
+[apps/categories]
+Size=32
+Context=Categories
+Type=Fixed
+
+#32x32 - Fixed size - Icon(s) belonging to System Settings - WRONG_ICON_USAGE_BY_APP - Color
+[apps/actions]
+Size=32
+Context=Actions
+Type=Fixed
+
+#32x32 - Fixed size - Icon(s) belonging to System Settings - WRONG_ICON_USAGE_BY_APP - Color
+[apps/devices]
+Size=32
+Context=Actions
+Type=Fixed
+
+#32x32 - Fixed size - For System Settings icons >!!!ONLY!!!< - Scalable to the following sizes: 32x32 (default), 64x64, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
+[apps/preferences]
+Size=32
+Context=Applications
+Type=Fixed
+
+#32x32 - Fixed size - For System power icons, used in Kickoff and Homerun kicker >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
+[apps/system-power-actions]
+Size=32
+Context=Applications
+Type=Fixed
+
+#22x22 - Fixed size - Application icon(s) for task manager - OPTIONAL + DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[apps/software-medium]
+Size=22
+Context=Applications
+Type=Fixed
+
+#48x48 - Scalable - For application icons >!!!ONLY!!!< - Scalable to the following sizes: 48x48 (default), 96x96 and 24x24 (not recommended) - DO_NOT_USE_ANYWHERE_ELSE - Color
+[apps/software]
+Size=48
+Context=Applications
+Type=Scalable
+MinSize=32
+MaxSize=256
+
+#48x48 - Fixed size - Icon used in Kickoff on KDE 4 tabs section >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
+[apps/kickoff-menu-tabs]
+Size=48
+Context=Applications
+Type=Fixed
+
+##########
+
+########## Categories
+########## ordered by size
+
+#16x16 - Fixed size - NOT_IN_USE - Monochrome
+[categories/start-menu-small]
+Size=16
+Context=Categories
+Type=Fixed
+
+#32x32 - Fixed size - For categories icons >!!!ONLY!!!< - Used in Kickoff (KDE 4.x.x) and Lancelot. Also used in MATE and Cinnamon (just FYI) - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[categories/start-menu]
+Size=32
+Context=Categories
+Type=Fixed
+
+#48x48 - Fixed size - Icon used in Kickoff on KDE 4 tabs section >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
+[categories/kickoff-menu-tabs]
+Size=32
+Context=Categories
+Type=Fixed
+
+##########
+
+########## Devices
+########## ordered by size
+
+#16x16 - Fixed size - For small device icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[devices/sidebars]
+Size=16
+Context=Devices
+Type=Fixed
+
+#48x48 - Fixed size - Icon used in Kickoff on KDE 4 tabs section - DO_NOT_USE_ANYWHERE_ELSE - Color
+[devices/kickoff-menu-tabs]
+Size=48
+Context=Devices
+Type=Fixed
+
+#64x64 - Scalable - For device icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
+[devices/hardware]
+Size=64
+Context=Devices
+Type=Scalable
+MinSize=32
+MaxSize=256
+
+##########
+
+########## Emblems
+########## ordered by size
+
+#8x8 - Fixed size - File system emblems - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[emblems/small]
+Size=8
+Context=Emblems
+Type=Fixed
+
+#22x22 - Fixed size - File system emblems - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[emblems/medium]
+Size=22
+Context=Emblems
+Type=Fixed
+
+########## Emoticons
+########## ordered by size
+
+#22x22 - Fixed size - Emoticons - DO_NOT_USE_ANYWHERE_ELSE - Color/flat
+[emotes/faces]
+Size=22
+Context=Emotes
+Type=Fixed
+
+#22x22 - Fixed size - Emoticons - DO_NOT_USE_ANYWHERE_ELSE - Color
+[emotes/food]
+Size=22
+Context=Emotes
+Type=Fixed
+
+#22x22 - Fixed size - Emoticons - DO_NOT_USE_ANYWHERE_ELSE - Color
+[emotes/objects]
+Size=22
+Context=Emotes
+Type=Fixed
+
+#########
+
+########## Mimetypes
+########## ordered by size
+
+#16x16 - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[mimetypes/file-types-small]
+Size=16
+Context=MimeTypes
+Type=Fixed
+
+#64x64 - Scalable - For file type icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
+[mimetypes/file-types]
+Size=64
+Context=MimeTypes
+Type=Scalable
+MinSize=32
+MaxSize=256
+
+########## Places
+########## ordered by size
+
+#16x16 - Fixed size - For small folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[places/user-folders-small]
+Size=16
+Context=Places
+Type=Scalable
+Type=Fixed
+
+#64x64 - Scalable - For folder icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
+[places/user-folders]
+Size=64
+Context=Places
+Type=Scalable
+MinSize=32
+MaxSize=256
+
+########## Status
+########## ordered by size
+
+#16x16 - Fixed size - For IM status icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[status/im-status]
+Size=16
+Context=Status
+Type=Fixed
+
+#22x22 - Fixed size - For toolbar icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[status/toolbar]
+Size=22
+Context=Status
+Type=Fixed
+
+#22x22 - Fixed size - Icon(s) for Plasma theme/System Tray. Not particularly used on Plasma. - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[status/panel]
+Size=22
+Context=Status
+Type=Fixed
+
+#64x64 - Fixed size - For dialog icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
+[status/dialogs]
+Size=64
+Context=Status
+Type=Fixed
+
+########## EOF
