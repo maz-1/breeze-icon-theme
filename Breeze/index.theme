@@ -126,6 +126,12 @@ Size=16
 Context=Applications
 Type=Fixed
 
+#22x22 - Fixed size - Application icon(s) for task manager - OPTIONAL + DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[apps/software-medium]
+Size=22
+Context=Applications
+Type=Fixed
+
 #22x22 - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. Dolphin Open Terminal/About Dolphin/About KDE buttons - WRONG_ICON_USAGE_BY_APP - Monochrome
 [apps/toolbar]
 Size=22
@@ -165,12 +171,6 @@ Type=Fixed
 #32x32 - Fixed size - For System power icons, used in Kickoff and Homerun kicker >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
 [apps/system-power-actions]
 Size=32
-Context=Applications
-Type=Fixed
-
-#22x22 - Fixed size - Application icon(s) for task manager - OPTIONAL + DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[apps/software-medium]
-Size=22
 Context=Applications
 Type=Fixed
 
