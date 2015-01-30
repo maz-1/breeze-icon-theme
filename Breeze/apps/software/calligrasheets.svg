@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="calligra-sheets.svg">
+   sodipodi:docname="calligrasheets.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -40,16 +40,6 @@
        id="linearGradient3043"
        xlink:href="#linearGradient4410"
        inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4300"
-       id="linearGradient4263"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7272726,0,0,0.68965569,-383.84417,-497.86697)"
-       x1="560.78583"
-       y1="785.70648"
-       x2="560.78583"
-       y2="727.70654" />
     <linearGradient
        id="linearGradient4300"
        inkscape:collect="always">
@@ -84,28 +74,6 @@
          style="stop-color:#655c6f;stop-opacity:0" />
     </linearGradient>
     <linearGradient
-       gradientTransform="translate(22.000014,0)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient4227"
-       id="linearGradient4755"
-       x1="414.57144"
-       y1="511.798"
-       x2="422.57144"
-       y2="519.79797"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4227">
-      <stop
-         style="stop-color:#292c2f;stop-opacity:1"
-         offset="0"
-         id="stop4229" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop4231" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4300"
        id="linearGradient3859"
@@ -123,9 +91,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="21.083333"
-     inkscape:cx="26.579883"
-     inkscape:cy="30.31286"
+     inkscape:zoom="10.541667"
+     inkscape:cx="7.1137364"
+     inkscape:cy="22.539398"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -239,7 +207,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -271,10 +239,5 @@
        d="m 400.57142,515.798 0,16 16,0 0,-16 z m 1.00001,1 14,0 0,2 -14,0 z m 0,3 3,0 0,2 -3,0 z m 4,0 6,0 0,2 -6,0 z m 7,0 3,0 0,2 -3,0 z m -11,3 3,0 0,2 -3,0 z m 4,0 6,0 0,2 -6,0 z m 7,0 3,0 0,2 -3,0 z m -11,3 3,0 0,2 -3,0 z m 4,0 6,0 0,2 -6,0 z m 7,0 3,0 0,2 -3,0 z m -11,3 3,0 0,2 -3,0 z m 4,0 6,0 0,2 -6,0 z m 7,0 3,0 0,2 -3,0 z"
        id="rect4167"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-    <path
-       style="fill:#289769;fill-opacity:1;stroke:none"
-       d="m 464.56166,513.78823 c 0.006,-0.009 0.01,-2.22564 0.01,-4.99023 0,-2.77 -0.004,-5 -0.01,-5 l -9.98046,0 c -2e-5,0 10e-6,0.01 0,0.01 l 9.98046,9.98047 z"
-       id="rect4307"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>
