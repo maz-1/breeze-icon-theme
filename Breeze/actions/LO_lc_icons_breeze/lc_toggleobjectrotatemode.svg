@@ -13,8 +13,8 @@
    height="24"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="lc_lineendstyle.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="lc_toggleobjectrotatemode.svg">
   <defs
      id="defs3762" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="24.451298"
-     inkscape:cx="7.918308"
-     inkscape:cy="7.9556416"
+     inkscape:cx="14.012054"
+     inkscape:cy="12.413483"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,11 +34,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1167"
-     inkscape:window-height="1053"
-     inkscape:window-x="56"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="670"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:object-paths="true"
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,16 +98,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-550.28571,-606.64789)">
-    <g
-       transform="translate(-2.43682,24.528647)"
-       id="layer1-9"
-       inkscape:label="Capa 1">
-      <path
-         id="rect4148"
-         transform="translate(553.72253,583.11926)"
-         d="m 3,3 0,16 1,0 6,0 0,-1 -6,0 0,-14 8,0 0,2 0,1 0,4 1,0 0,-3.8613281 C 14.726297,7.5823641 16,9.13145 16,11 l 0,1 -5,0 0,1 0,6 1,0 7,0 0,-1 0,-5 0,-1 -2,0 0,-1 C 17,8.5728315 15.287361,6.5606036 13,6.0996094 L 13,3 4,3 3,3 z m 9,10 6,0 0,5 -6,0 0,-5 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="M 4 4 L 4 14 L 12 14 L 12 8 L 14 8 C 15.10801 8 16 8.89199 16 10 L 16 12 L 13 12 L 13 13 L 16 13 L 17 13 L 19 13 L 19 19 L 11 19 L 11 15 L 10 15 L 10 20 L 20 20 L 20 12 L 17 12 L 17 10 C 17 8.33799 15.66201 7 14 7 L 12 7 L 12 4 L 4 4 z M 5 5 L 11 5 L 11 13 L 5 13 L 5 5 z "
+       transform="translate(550.28571,606.64789)"
+       id="rect3344" />
   </g>
 </svg>

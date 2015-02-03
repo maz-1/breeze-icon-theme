@@ -14,8 +14,8 @@
    height="24"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="lc_calloutshapes_cloud_callout.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="lc_downsearch.svg">
   <defs
      id="defs3762">
     <linearGradient
@@ -159,8 +159,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="24.451298"
-     inkscape:cx="7.3919247"
-     inkscape:cy="5.4158779"
+     inkscape:cx="8.3545222"
+     inkscape:cy="14.37477"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -168,11 +168,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1167"
-     inkscape:window-height="1053"
-     inkscape:window-x="56"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="670"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:object-paths="true"
@@ -220,7 +220,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -230,13 +230,13 @@
      id="layer1"
      transform="translate(-550.28571,-606.64789)">
     <g
-       transform="translate(551.28571,-423.06783)"
+       transform="translate(551.28571,-422.71431)"
        id="layer1-0"
        inkscape:label="Capa 1">
       <path
          id="rect4176"
          transform="translate(-5e-7,1030.3622)"
-         d="M 3.7070312,7 3,7.7070312 l 6.125,6.1249998 1.875,1.875 1.875,-1.875 L 19,7.7070312 18.292969,7 12.167969,13.125 11,14.292969 9.8320312,13.125 3.7070312,7 z"
+         d="M 3.7070312,7 3,7.7070312 l 6.125,6.1249998 1.875,1.875 1.875,-1.875 L 19,7.7070312 18.292969,7 12.167969,13.125 11,14.292969 9.8320312,13.125 3.7070312,7 Z"
          style="fill:#4d4d4d;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
