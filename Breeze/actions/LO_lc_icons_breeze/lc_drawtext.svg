@@ -13,8 +13,8 @@
    height="24"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="lc_framelinecolor.svg">
+   inkscape:version="0.48+devel r"
+   sodipodi:docname="draw-text.svg">
   <defs
      id="defs3762" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="33.91186"
-     inkscape:cx="14.638624"
-     inkscape:cy="11.584707"
+     inkscape:zoom="23.519932"
+     inkscape:cx="8.3895802"
+     inkscape:cy="13.496396"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,13 +34,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1869"
-     inkscape:window-height="1060"
-     inkscape:window-x="49"
-     inkscape:window-y="-3"
+     inkscape:window-width="1366"
+     inkscape:window-height="668"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true">
+     inkscape:showpageshadow="false">
     <sodipodi:guide
        position="-1.4433594e-05,24.000012"
        orientation="24,0"
@@ -111,27 +110,9 @@
      id="layer1"
      transform="translate(-550.28572,-606.6479)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#ff6600;fill-opacity:1;stroke:none"
-       d="m 554.28572,610.64789 0,16 15.99999,1e-5 0,-2 -13.99999,-1e-5 0,-12 12,0 0,12.00001 1.99999,0 10e-6,-14.00001 z"
-       id="rect4112"
-       sodipodi:nodetypes="ccccccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 555.28572,611.64789 0,14 14,1e-5 -1,-1 -12,-1e-5 0,-12 12,0 0,12.00001 1,1 0,-14.00001 z"
-       id="rect4114"
-       sodipodi:nodetypes="ccccccccccc" />
-    <g
-       transform="translate(-30.47507,-3.85202)"
-       id="layer1-1"
-       inkscape:label="Capa 1">
-      <path
-         sodipodi:nodetypes="ccssscc"
-         inkscape:connector-curvature="0"
-         id="rect4112-6"
-         d="m 595.76079,619.99992 c -0.48646,1.7025 -1.6782,3.16609 -2.20313,4.33789 -0.1837,0.3484 -0.29687,0.73941 -0.29687,1.16211 0,1.385 1.115,2.5 2.5,2.5 1.385,0 2.5,-1.115 2.5,-2.5 0,-0.4227 -0.11317,-0.81371 -0.29688,-1.16211 -0.52491,-1.1718 -1.71667,-2.63539 -2.20312,-4.33789 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-    </g>
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="M 5 4 L 5 18 L 4 18 L 4 19 L 5 19 L 5 20 L 6 20 L 6 19 L 18 19 L 18 20 L 19 20 L 19 19 L 20 19 L 20 18 L 19 18 L 19 4 L 18 4 L 18 18 L 6 18 L 6 4 L 5 4 z M 7 5 L 7 7 L 11 7 L 11 17 L 13 17 L 13 7 L 17 7 L 17 5 L 7 5 z "
+       transform="translate(550.28572,606.6479)"
+       id="rect4112" />
   </g>
 </svg>
