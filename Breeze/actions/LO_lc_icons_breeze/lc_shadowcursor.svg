@@ -15,24 +15,9 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_viewdatasourcebrowser.svg">
+   sodipodi:docname="lc_shadowcursor.svg">
   <defs
-     id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       id="perspective4146-9" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       id="perspective4146" />
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -41,16 +26,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.15656"
-     inkscape:cx="8.3988408"
-     inkscape:cy="9.280473"
+     inkscape:cx="9.4920924"
+     inkscape:cy="11.629961"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1869"
+     inkscape:window-width="1868"
      inkscape:window-height="1060"
-     inkscape:window-x="49"
+     inkscape:window-x="50"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="true"
@@ -113,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,21 +107,25 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1029.3622)">
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 7 4 L 7 5 L 7 6 L 8 6 C 8.5235988 6 9 5.5236 9 5 C 9 4.4764 8.5235988 4 8 4 L 7 4 z M 8 7 L 8 20 L 9 20 L 12.90625 15.3125 L 19 15 L 9 7 L 8 7 z "
+       transform="translate(-1,1029.3622)"
+       id="path4185-9" />
     <g
-       id="g3954">
-      <path
-         sodipodi:nodetypes="cccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path4147-0"
-         transform="translate(-1,1029.3622)"
-         d="M 8,4 7,4 17,14 13.3125,14.8125 14,20.000017 15,20 14.3125,14.8125 18,14 z M 9.875,16.1875 7,18.000017 8,18 10.28125,16.5625 z"
-         style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="path4147"
-         d="m 6,1033.3622 0,14 2.8721328,-1.8275 L 13,1049.3622 12.299867,1044.1617 16,1043.3622 z"
-         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none" />
+       id="layer1-8"
+       inkscape:label="Capa 1">
+      <g
+         inkscape:label="Capa 1"
+         id="layer1-4"
+         transform="translate(-461.71429,504.57145)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
+           d="M 6,3 A 1,1 0 0 0 5,4 1,1 0 0 0 6,5 1,1 0 0 0 7,4 1,1 0 0 0 6,3 z M 7,6 7.0058594,19 10.900391,14.300781 17,14 7,6 z"
+           transform="translate(461.71429,525.79075)"
+           id="path4185" />
+      </g>
     </g>
   </g>
 </svg>

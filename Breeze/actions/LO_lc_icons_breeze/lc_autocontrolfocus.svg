@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.841998"
-     inkscape:cx="16.128149"
-     inkscape:cy="12.698829"
+     inkscape:zoom="33.683996"
+     inkscape:cx="16.672005"
+     inkscape:cy="8.759635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -133,24 +133,23 @@
      transform="translate(1,-1029.3622)">
     <path
        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 4 4 L 4 20 L 5 20 L 14 20 L 14 19 L 5 19 L 5 8 L 19 8 L 19 13 L 20 13 L 20 4 L 19 4 L 5 4 L 4 4 z "
+       d="M 4 4 L 4 20 L 5 20 L 14 20 L 14 19 L 5 19 L 5 8 L 19 8 L 19 13 L 19 14 L 20 14 L 20 13 L 20 4 L 19 4 L 5 4 L 4 4 z "
        transform="translate(-1,1029.3622)"
        id="rect3341" />
     <g
-       id="layer1-26"
+       id="layer1-3"
        inkscape:label="Capa 1"
-       transform="matrix(0.49999891,0,0,0.49999891,11.000017,524.68224)">
+       transform="matrix(0.5,0,0,0.5,10.5,524.6811)">
       <g
          inkscape:label="Capa 1"
-         id="layer1-1"
+         id="layer1-4"
          transform="translate(-461.71429,504.57145)">
         <path
-           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-           d="M 6,3 6,17 8.8721328,15.172524 13,19 12.299867,13.799477 16,13 z"
-           transform="translate(461.71429,525.79075)"
-           id="path4147"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccc" />
+           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
+           d="M 6,3 A 1,1 0 0 0 5,4 1,1 0 0 0 6,5 1,1 0 0 0 7,4 1,1 0 0 0 6,3 z M 7,6 7.0058594,19 10.900391,14.300781 17,14 7,6 z"
+           transform="translate(461.71429,525.79075)"
+           id="path4185" />
       </g>
     </g>
   </g>
