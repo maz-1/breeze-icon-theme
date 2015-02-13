@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_selectobject.svg">
+   sodipodi:docname="lc_autocontrolfocus.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,18 +26,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="33.683996"
-     inkscape:cx="13.024376"
-     inkscape:cy="11.261889"
+     inkscape:cx="16.672005"
+     inkscape:cy="8.759635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1473"
-     inkscape:window-height="1042"
-     inkscape:window-x="52"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -131,16 +131,26 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1029.3622)">
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="M 4 4 L 4 20 L 5 20 L 14 20 L 14 19 L 5 19 L 5 8 L 19 8 L 19 13 L 19 14 L 20 14 L 20 13 L 20 4 L 19 4 L 5 4 L 4 4 z "
+       transform="translate(-1,1029.3622)"
+       id="rect3341" />
     <g
-       transform="translate(-461.71429,504.57145)"
-       id="layer1-4"
-       inkscape:label="Capa 1">
-      <path
-         id="path4185"
-         transform="translate(461.71429,525.79075)"
-         d="M 6,3 A 1,1 0 0 0 5,4 1,1 0 0 0 6,5 1,1 0 0 0 7,4 1,1 0 0 0 6,3 z M 7,6 7.0058594,19 10.900391,14.300781 17,14 7,6 z"
-         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-         inkscape:connector-curvature="0" />
+       id="layer1-3"
+       inkscape:label="Capa 1"
+       transform="matrix(0.5,0,0,0.5,10.5,524.6811)">
+      <g
+         inkscape:label="Capa 1"
+         id="layer1-4"
+         transform="translate(-461.71429,504.57145)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
+           d="M 6,3 A 1,1 0 0 0 5,4 1,1 0 0 0 6,5 1,1 0 0 0 7,4 1,1 0 0 0 6,3 z M 7,6 7.0058594,19 10.900391,14.300781 17,14 7,6 z"
+           transform="translate(461.71429,525.79075)"
+           id="path4185" />
+      </g>
     </g>
   </g>
 </svg>

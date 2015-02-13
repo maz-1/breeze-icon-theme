@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_selectobject.svg">
+   sodipodi:docname="lc_insertplugin.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,18 +26,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="33.683996"
-     inkscape:cx="13.024376"
-     inkscape:cy="11.261889"
+     inkscape:cx="17.68465"
+     inkscape:cy="13.803669"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1473"
-     inkscape:window-height="1042"
-     inkscape:window-x="52"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -81,38 +81,6 @@
        id="grid4101"
        originx="1px"
        originy="0.99998262px" />
-    <sodipodi:guide
-       position="4,20"
-       orientation="16,0"
-       id="guide4123" />
-    <sodipodi:guide
-       position="4,4"
-       orientation="0,2.000001"
-       id="guide4125" />
-    <sodipodi:guide
-       position="5,20"
-       orientation="-16,0"
-       id="guide4127" />
-    <sodipodi:guide
-       position="6.000001,20"
-       orientation="0,-2.000001"
-       id="guide4129" />
-    <sodipodi:guide
-       position="19,20"
-       orientation="16,0"
-       id="guide4131" />
-    <sodipodi:guide
-       position="18,4"
-       orientation="0,2"
-       id="guide4133" />
-    <sodipodi:guide
-       position="20,4"
-       orientation="-16,0"
-       id="guide4135" />
-    <sodipodi:guide
-       position="20,20"
-       orientation="0,-2"
-       id="guide4137" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -131,16 +99,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1029.3622)">
-    <g
-       transform="translate(-461.71429,504.57145)"
-       id="layer1-4"
-       inkscape:label="Capa 1">
-      <path
-         id="path4185"
-         transform="translate(461.71429,525.79075)"
-         d="M 6,3 A 1,1 0 0 0 5,4 1,1 0 0 0 6,5 1,1 0 0 0 7,4 1,1 0 0 0 6,3 z M 7,6 7.0058594,19 10.900391,14.300781 17,14 7,6 z"
-         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 6 5 L 6 7 L 4 7 L 4 19 L 20 19 L 20 7 L 18 7 L 18 5 L 14 5 L 14 7 L 10 7 L 10 5 L 6 5 z "
+       transform="translate(-1,1029.3622)"
+       id="rect2992" />
   </g>
 </svg>

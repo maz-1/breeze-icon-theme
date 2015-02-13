@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_selectobject.svg">
+   sodipodi:docname="lc_checkbox.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,94 +25,66 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="33.683996"
-     inkscape:cx="13.024376"
-     inkscape:cy="11.261889"
+     inkscape:zoom="25.15656"
+     inkscape:cx="14.358829"
+     inkscape:cy="11.171827"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
-     borderlayer="true"
-     inkscape:window-width="1473"
-     inkscape:window-height="1042"
-     inkscape:window-x="52"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
      units="px"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:snap-bbox="true">
-    <sodipodi:guide
-       position="3,21"
-       orientation="18,0"
-       id="guide4085" />
-    <sodipodi:guide
-       position="3,3"
-       orientation="0,18"
-       id="guide4087" />
-    <sodipodi:guide
-       position="21,3"
-       orientation="-18,0"
-       id="guide4089" />
-    <sodipodi:guide
-       position="21,21"
-       orientation="0,-18"
-       id="guide4091" />
-    <sodipodi:guide
-       position="4,20"
-       orientation="16,0"
-       id="guide4093" />
-    <sodipodi:guide
-       position="4,4"
-       orientation="0,16"
-       id="guide4095" />
-    <sodipodi:guide
-       position="20,4"
-       orientation="-16,0"
-       id="guide4097" />
-    <sodipodi:guide
-       position="20,20"
-       orientation="0,-16"
-       id="guide4099" />
     <inkscape:grid
        type="xygrid"
-       id="grid4101"
+       id="grid4120"
        originx="1px"
        originy="0.99998262px" />
     <sodipodi:guide
+       position="3,21"
+       orientation="18,0"
+       id="guide4126" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,18"
+       id="guide4128" />
+    <sodipodi:guide
+       position="21,21"
+       orientation="0,-18"
+       id="guide4132" />
+    <sodipodi:guide
        position="4,20"
        orientation="16,0"
-       id="guide4123" />
+       id="guide4134" />
     <sodipodi:guide
        position="4,4"
-       orientation="0,2.000001"
-       id="guide4125" />
-    <sodipodi:guide
-       position="5,20"
-       orientation="-16,0"
-       id="guide4127" />
-    <sodipodi:guide
-       position="6.000001,20"
-       orientation="0,-2.000001"
-       id="guide4129" />
-    <sodipodi:guide
-       position="19,20"
-       orientation="16,0"
-       id="guide4131" />
-    <sodipodi:guide
-       position="18,4"
-       orientation="0,2"
-       id="guide4133" />
+       orientation="0,16"
+       id="guide4136" />
     <sodipodi:guide
        position="20,4"
        orientation="-16,0"
-       id="guide4135" />
+       id="guide4138" />
     <sodipodi:guide
        position="20,20"
-       orientation="0,-2"
-       id="guide4137" />
+       orientation="0,-16"
+       id="guide4140" />
+    <sodipodi:guide
+       position="20,14"
+       orientation="-6,0"
+       id="guide4199" />
+    <sodipodi:guide
+       position="20,20"
+       orientation="0,-6.0000172"
+       id="guide4201" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -131,16 +103,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1029.3622)">
-    <g
-       transform="translate(-461.71429,504.57145)"
-       id="layer1-4"
-       inkscape:label="Capa 1">
-      <path
-         id="path4185"
-         transform="translate(461.71429,525.79075)"
-         d="M 6,3 A 1,1 0 0 0 5,4 1,1 0 0 0 6,5 1,1 0 0 0 7,4 1,1 0 0 0 6,3 z M 7,6 7.0058594,19 10.900391,14.300781 17,14 7,6 z"
-         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 6 4 C 4.892 4 4 4.8919999 4 6 L 4 18 C 4 19.108 4.892 20 6 20 L 18 20 C 19.108 20 20 19.108 20 18 L 20 6 C 20 4.8919999 19.108 4 18 4 L 6 4 z M 6 5 L 18 5 C 18.554 5 19 5.4459999 19 6 L 19 18 C 19 18.554 18.554 19 18 19 L 6 19 C 5.446 19 5 18.554 5 18 L 5 6 C 5 5.4459999 5.446 5 6 5 z "
+       transform="translate(-1,1029.3622)"
+       id="rect12455" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12460"
+       width="12"
+       height="12"
+       x="6"
+       y="6.0000172"
+       transform="translate(-1,1029.3622)"
+       rx="1"
+       ry="0" />
   </g>
 </svg>

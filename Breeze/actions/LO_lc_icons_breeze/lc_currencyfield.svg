@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_selectobject.svg">
+   sodipodi:docname="lc_currencyfield.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,94 +25,67 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="33.683996"
-     inkscape:cx="13.024376"
-     inkscape:cy="11.261889"
+     inkscape:zoom="25.15656"
+     inkscape:cx="15.803585"
+     inkscape:cy="18.555682"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
-     borderlayer="true"
-     inkscape:window-width="1473"
-     inkscape:window-height="1042"
-     inkscape:window-x="52"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
      units="px"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-bbox="true">
-    <sodipodi:guide
-       position="3,21"
-       orientation="18,0"
-       id="guide4085" />
-    <sodipodi:guide
-       position="3,3"
-       orientation="0,18"
-       id="guide4087" />
-    <sodipodi:guide
-       position="21,3"
-       orientation="-18,0"
-       id="guide4089" />
-    <sodipodi:guide
-       position="21,21"
-       orientation="0,-18"
-       id="guide4091" />
-    <sodipodi:guide
-       position="4,20"
-       orientation="16,0"
-       id="guide4093" />
-    <sodipodi:guide
-       position="4,4"
-       orientation="0,16"
-       id="guide4095" />
-    <sodipodi:guide
-       position="20,4"
-       orientation="-16,0"
-       id="guide4097" />
-    <sodipodi:guide
-       position="20,20"
-       orientation="0,-16"
-       id="guide4099" />
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
-       id="grid4101"
+       id="grid4120"
        originx="1px"
        originy="0.99998262px" />
     <sodipodi:guide
+       position="3,21"
+       orientation="18,0"
+       id="guide4126" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,18"
+       id="guide4128" />
+    <sodipodi:guide
+       position="21,21"
+       orientation="0,-18"
+       id="guide4132" />
+    <sodipodi:guide
        position="4,20"
        orientation="16,0"
-       id="guide4123" />
+       id="guide4134" />
     <sodipodi:guide
        position="4,4"
-       orientation="0,2.000001"
-       id="guide4125" />
-    <sodipodi:guide
-       position="5,20"
-       orientation="-16,0"
-       id="guide4127" />
-    <sodipodi:guide
-       position="6.000001,20"
-       orientation="0,-2.000001"
-       id="guide4129" />
-    <sodipodi:guide
-       position="19,20"
-       orientation="16,0"
-       id="guide4131" />
-    <sodipodi:guide
-       position="18,4"
-       orientation="0,2"
-       id="guide4133" />
+       orientation="0,16"
+       id="guide4136" />
     <sodipodi:guide
        position="20,4"
        orientation="-16,0"
-       id="guide4135" />
+       id="guide4138" />
     <sodipodi:guide
        position="20,20"
-       orientation="0,-2"
-       id="guide4137" />
+       orientation="0,-16"
+       id="guide4140" />
+    <sodipodi:guide
+       position="20,14"
+       orientation="-6,0"
+       id="guide4199" />
+    <sodipodi:guide
+       position="20,20"
+       orientation="0,-6.0000172"
+       id="guide4201" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -132,14 +105,14 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <g
-       transform="translate(-461.71429,504.57145)"
-       id="layer1-4"
+       transform="translate(-421.71429,504.57148)"
+       id="layer1-0"
        inkscape:label="Capa 1">
       <path
-         id="path4185"
-         transform="translate(461.71429,525.79075)"
-         d="M 6,3 A 1,1 0 0 0 5,4 1,1 0 0 0 6,5 1,1 0 0 0 7,4 1,1 0 0 0 6,3 z M 7,6 7.0058594,19 10.900391,14.300781 17,14 7,6 z"
-         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
+         id="rect4144"
+         transform="translate(421.71429,525.79074)"
+         d="M 4,6 4,6.5 4,7 3,7 3,7.9082031 3,9 3,14 3,14.091797 3,15 3.5,15 4,15 4,16 4.9082031,16 6,16 l 10,0 0.0918,0 1,0 0.9082,0 0,-1 0.5,0 0.5,0 0,-0.908203 L 19,13 19,9 19,7.9082031 19,7 18,7 18,6.5 18,6 l -0.908203,0 -1,0 L 4.9082031,6 4,6 z m 0.9082031,1 11.1835939,0 1,0 C 17.242137,7.4247 17.5753,7.7578631 18,7.9082031 L 18,9 l 0,4 0,1.091797 C 17.5753,14.242137 17.242137,14.5753 17.091797,15 l -1,0 L 16,15 6,15 4.9082031,15 C 4.7578631,14.5753 4.4247,14.242137 4,14.091797 L 4,13 4,9 4,7.9082031 C 4.4247013,7.7578551 4.7578551,7.4247013 4.9082031,7 z M 11,8 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 z m 0,1 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 C 9.892,13 9,12.108 9,11 9,9.892 9.892,9 11,9 z"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
   </g>

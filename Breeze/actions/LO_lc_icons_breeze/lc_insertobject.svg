@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_selectobject.svg">
+   sodipodi:docname="lc_insertobject.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,19 +25,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="33.683996"
-     inkscape:cx="13.024376"
-     inkscape:cy="11.261889"
+     inkscape:zoom="23.818182"
+     inkscape:cx="26.472469"
+     inkscape:cy="8.9210967"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1473"
-     inkscape:window-height="1042"
-     inkscape:window-x="52"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -52,10 +52,6 @@
        position="3,3"
        orientation="0,18"
        id="guide4087" />
-    <sodipodi:guide
-       position="21,3"
-       orientation="-18,0"
-       id="guide4089" />
     <sodipodi:guide
        position="21,21"
        orientation="0,-18"
@@ -131,16 +127,38 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1029.3622)">
-    <g
-       transform="translate(-461.71429,504.57145)"
-       id="layer1-4"
-       inkscape:label="Capa 1">
-      <path
-         id="path4185"
-         transform="translate(461.71429,525.79075)"
-         d="M 6,3 A 1,1 0 0 0 5,4 1,1 0 0 0 6,5 1,1 0 0 0 7,4 1,1 0 0 0 6,3 z M 7,6 7.0058594,19 10.900391,14.300781 17,14 7,6 z"
-         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-         inkscape:connector-curvature="0" />
-    </g>
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3090"
+       width="1"
+       height="9.9999313"
+       x="7"
+       y="1036.3622" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3092"
+       width="10"
+       height="1"
+       x="6"
+       y="1044.3623" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3094"
+       width="2"
+       height="3"
+       x="13"
+       y="1041.3622" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3096"
+       width="2"
+       height="6"
+       x="9"
+       y="1038.3622" />
+    <path
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 5 4 L 5 20 L 19 20 L 19 4 L 5 4 z M 6 5 L 18 5 L 18 19 L 6 19 L 6 5 z "
+       transform="translate(-1,1029.3622)"
+       id="rect3104" />
   </g>
 </svg>

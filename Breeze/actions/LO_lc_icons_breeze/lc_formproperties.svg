@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_selectobject.svg">
+   sodipodi:docname="lc_formproperties.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,19 +25,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="33.683996"
-     inkscape:cx="13.024376"
-     inkscape:cy="11.261889"
+     inkscape:zoom="23.818182"
+     inkscape:cx="9.9451091"
+     inkscape:cy="9.2576996"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1473"
-     inkscape:window-height="1042"
-     inkscape:window-x="52"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -132,14 +132,13 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <g
-       transform="translate(-461.71429,504.57145)"
-       id="layer1-4"
+       id="layer1-2"
        inkscape:label="Capa 1">
       <path
-         id="path4185"
-         transform="translate(461.71429,525.79075)"
-         d="M 6,3 A 1,1 0 0 0 5,4 1,1 0 0 0 6,5 1,1 0 0 0 7,4 1,1 0 0 0 6,3 z M 7,6 7.0058594,19 10.900391,14.300781 17,14 7,6 z"
-         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
+         id="rect3341"
+         transform="translate(0,1030.3622)"
+         d="m 3,3 0,16 1,0 15,0 0,-1 L 19,3 18,3 4,3 3,3 z M 4,7 18,7 18,18 4,18 4,7 z m 1,1 0,9 5,0 0,-9 -5,0 z m 6,1 0,1 6,0 0,-1 -6,0 z m 0,3 0,1 4,0 0,-1 -4,0 z m 0,3 0,1 2,0 0,-1 -2,0 z"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
   </g>
