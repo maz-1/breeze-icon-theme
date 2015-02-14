@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_extrusiontoggle.svg">
+   sodipodi:docname="lc_extrusion3dcolor.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="35.576748"
-     inkscape:cx="17.756818"
-     inkscape:cy="11.232988"
+     inkscape:zoom="25.15656"
+     inkscape:cx="16.634349"
+     inkscape:cy="12.024278"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -100,28 +100,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1029.3622)">
-    <g
-       id="layer1-8"
-       inkscape:label="Capa 1">
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4752"
-         d="m 4,7.0000174 14,0 3,-3.0000002 0,12.9999998 -3,3 L 4,20 z"
-         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="translate(-1,1029.3622)" />
-      <path
-         id="path5031-7"
-         transform="translate(-1,1029.3622)"
-         d="m 11,11 -3,3 2,0 0,6 2,0 0,-6 2,0 -3,-3 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect4530-2"
-         transform="translate(-1,1029.3622)"
-         d="M 6.96875,4 4,6.96875 4,8.40625 4,20 l 1,0 12,0 1,0 3,-3 L 21,5 21,4.75 21,4.34375 21,4 8,4 6.96875,4 z m 0.4375,1 11.90625,0 -2,2 L 17,7 5.40625,7 l 2,-2 z M 20,5.75 l 0,10.8125 -2,2 0,-10.8125 2,-2 z M 5,8 17,8 17,8.75 17,19 5,19 5,8 z"
-         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       d="m 4,1039.3622 10,0 0,8 c 0,0 6,-9 6,-9 l 0,-5 -5,0 z"
+       id="path4128"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 12.375,1034.3622 -9,5 -0.375,0.2179 0,9.7821 10.803242,0 0.196758,-0.3437 5,-8.5938 1,-1.7187 0,-2.0313 0,-2.625 0,-0.6875 -0.6875,0 -3.0625,0 -2.09375,0 z m 2.0625,0 3.875,0 -5,5 -7.875,0 z m 4.5625,0.6875 0,3.3438 -5,8.5937 0,-6.9375 z m -15,5.3125 9,0 0,8 -9,0 z"
+       id="path3015"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
   </g>
 </svg>
