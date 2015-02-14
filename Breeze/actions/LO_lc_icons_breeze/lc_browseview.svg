@@ -17,34 +17,7 @@
    viewBox="0 0 24 24"
    sodipodi:docname="lc_browseview.svg">
   <defs
-     id="defs4">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath24">
-      <path
-         d="m 22.1953,686.117 1447.7347,0 0,-667.1902 -1447.7347,0 L 22.1953,686.117 Z"
-         id="path26" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath16">
-      <path
-         d="m 0,706.465 1490.926,0 L 1490.926,0 0,0 0,706.465 Z"
-         id="path18" />
-    </clipPath>
-    <clipPath
-       id="clipPath3007">
-      <path
-         id="path3009"
-         d="m0 706.47h1490.93v-706.47h-1490.93v706.47" />
-    </clipPath>
-    <clipPath
-       id="clipPath3003">
-      <path
-         id="path3005"
-         d="m22.2 686.12h1447.73v-667.19h-1447.73v667.19" />
-    </clipPath>
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -52,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="20.965131"
-     inkscape:cy="12.010909"
+     inkscape:zoom="32"
+     inkscape:cx="18.640649"
+     inkscape:cy="10.088983"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1869"
+     inkscape:window-width="1868"
      inkscape:window-height="1060"
-     inkscape:window-x="49"
+     inkscape:window-x="50"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="true"
