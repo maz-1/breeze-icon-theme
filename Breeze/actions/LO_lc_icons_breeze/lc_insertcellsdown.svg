@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_extrusiontoggle.svg">
+   sodipodi:docname="lc_insertcellsdown.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="35.576748"
-     inkscape:cx="17.756818"
-     inkscape:cy="11.232988"
+     inkscape:cx="14.163813"
+     inkscape:cy="13.267378"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -54,6 +54,10 @@
        position="3,21"
        orientation="18,0"
        id="guide4126" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,18"
+       id="guide4128" />
     <sodipodi:guide
        position="21,21"
        orientation="0,-18"
@@ -91,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,28 +104,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1029.3622)">
-    <g
-       id="layer1-8"
-       inkscape:label="Capa 1">
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4752"
-         d="m 4,7.0000174 14,0 3,-3.0000002 0,12.9999998 -3,3 L 4,20 z"
-         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="translate(-1,1029.3622)" />
-      <path
-         id="path5031-7"
-         transform="translate(-1,1029.3622)"
-         d="m 11,11 -3,3 2,0 0,6 2,0 0,-6 2,0 -3,-3 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect4530-2"
-         transform="translate(-1,1029.3622)"
-         d="M 6.96875,4 4,6.96875 4,8.40625 4,20 l 1,0 12,0 1,0 3,-3 L 21,5 21,4.75 21,4.34375 21,4 8,4 6.96875,4 z m 0.4375,1 11.90625,0 -2,2 L 17,7 5.40625,7 l 2,-2 z M 20,5.75 l 0,10.8125 -2,2 0,-10.8125 2,-2 z M 5,8 17,8 17,8.75 17,19 5,19 5,8 z"
-         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="fill:#1d99f3;fill-opacity:1;stroke:none"
+       d="M 8 14 L 8 15 L 9 15 L 9.28125 15 L 9 15.28125 L 8 16.28125 L 8 17.71875 L 9 16.71875 L 10.71875 15 L 13 15 L 13 14 L 10.28125 14 L 9 14 L 8 14 z M 13 15.28125 L 9.28125 19 L 9 19 L 8 19 L 8 20 L 9 20 L 13 20 L 13 19 L 10.71875 19 L 13 16.71875 L 13 15.28125 z "
+       transform="translate(-1,1029.3622)"
+       id="rect4197" />
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="M 4 4 L 4 14 L 4 20 L 5 20 L 7 20 L 8 20 L 8 14 L 8 10 L 10 10 L 10 14 L 11 14 L 11 10 L 13 10 L 13 14 L 13 20 L 14 20 L 14 15 L 14 14 L 14 10 L 16 10 L 16 14 L 17 14 L 17 10 L 19 10 L 19 14 L 20 14 L 20 5 L 20 4 L 5 4 L 4 4 z M 5 5 L 7 5 L 7 8 L 7 9 L 6 9 L 5 9 L 5 5 z M 8 5 L 10 5 L 10 9 L 8 9 L 8 8 L 8 5 z M 11 5 L 13 5 L 13 9 L 11 9 L 11 5 z M 14 5 L 16 5 L 16 8 L 16 9 L 14 9 L 14 5 z M 17 5 L 19 5 L 19 9 L 18.09375 9 L 17 9 L 17 8 L 17 5 z M 5 10 L 7 10 L 7 14 L 5 14 L 5 10 z M 5 15 L 7 15 L 7 19 L 5 19 L 5 15 z "
+       transform="translate(-1,1029.3622)"
+       id="rect4108-9" />
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 14,1044.3622 5,0 -2.5,5 -2.5,-5 z"
+       id="path3852"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

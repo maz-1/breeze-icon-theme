@@ -15,9 +15,17 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_extrusiontoggle.svg">
+   sodipodi:docname="lc_polygon_unfilled.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <inkscape:perspective
+       id="perspective4090"
+       inkscape:persp3d-origin="12 : 8 : 1"
+       inkscape:vp_z="24 : 12 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 12 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,26 +33,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="35.576748"
-     inkscape:cx="17.756818"
-     inkscape:cy="11.232988"
+     inkscape:zoom="25.15656"
+     inkscape:cx="14.480547"
+     inkscape:cy="15.114787"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1195"
+     inkscape:window-height="1053"
+     inkscape:window-x="56"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4120"
@@ -54,6 +61,14 @@
        position="3,21"
        orientation="18,0"
        id="guide4126" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,18"
+       id="guide4128" />
+    <sodipodi:guide
+       position="21,3"
+       orientation="-18,0"
+       id="guide4130" />
     <sodipodi:guide
        position="21,21"
        orientation="0,-18"
@@ -91,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,26 +116,14 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <g
-       id="layer1-8"
-       inkscape:label="Capa 1">
+       id="layer1-3"
+       inkscape:label="Capa 1"
+       transform="translate(0,1.738e-5)">
       <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4752"
-         d="m 4,7.0000174 14,0 3,-3.0000002 0,12.9999998 -3,3 L 4,20 z"
-         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="translate(-1,1029.3622)" />
-      <path
-         id="path5031-7"
+         id="rect4603"
          transform="translate(-1,1029.3622)"
-         d="m 11,11 -3,3 2,0 0,6 2,0 0,-6 2,0 -3,-3 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect4530-2"
-         transform="translate(-1,1029.3622)"
-         d="M 6.96875,4 4,6.96875 4,8.40625 4,20 l 1,0 12,0 1,0 3,-3 L 21,5 21,4.75 21,4.34375 21,4 8,4 6.96875,4 z m 0.4375,1 11.90625,0 -2,2 L 17,7 5.40625,7 l 2,-2 z M 20,5.75 l 0,10.8125 -2,2 0,-10.8125 2,-2 z M 5,8 17,8 17,8.75 17,19 5,19 5,8 z"
-         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 4,4 0,8 0,8 16,0 0,-8 -8,0 0,-8 -8,0 z"
+         style="opacity:0.98692812;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </g>
   </g>

@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_extrusiontoggle.svg">
+   sodipodi:docname="lc_euroconverter.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="35.576748"
-     inkscape:cx="17.756818"
-     inkscape:cy="11.232988"
+     inkscape:cx="4.0213319"
+     inkscape:cy="10.957782"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -55,6 +55,10 @@
        orientation="18,0"
        id="guide4126" />
     <sodipodi:guide
+       position="3,3"
+       orientation="0,18"
+       id="guide4128" />
+    <sodipodi:guide
        position="21,21"
        orientation="0,-18"
        id="guide4132" />
@@ -71,7 +75,7 @@
        orientation="-16,0"
        id="guide4138" />
     <sodipodi:guide
-       position="20,20"
+       position="16,20"
        orientation="0,-16"
        id="guide4140" />
     <sodipodi:guide
@@ -100,28 +104,24 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1029.3622)">
-    <g
-       id="layer1-8"
-       inkscape:label="Capa 1">
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4752"
-         d="m 4,7.0000174 14,0 3,-3.0000002 0,12.9999998 -3,3 L 4,20 z"
-         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="translate(-1,1029.3622)" />
-      <path
-         id="path5031-7"
-         transform="translate(-1,1029.3622)"
-         d="m 11,11 -3,3 2,0 0,6 2,0 0,-6 2,0 -3,-3 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect4530-2"
-         transform="translate(-1,1029.3622)"
-         d="M 6.96875,4 4,6.96875 4,8.40625 4,20 l 1,0 12,0 1,0 3,-3 L 21,5 21,4.75 21,4.34375 21,4 8,4 6.96875,4 z m 0.4375,1 11.90625,0 -2,2 L 17,7 5.40625,7 l 2,-2 z M 20,5.75 l 0,10.8125 -2,2 0,-10.8125 2,-2 z M 5,8 17,8 17,8.75 17,19 5,19 5,8 z"
-         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.09275758;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 13.355201,1034.3972 c -1.249038,0 -2.492674,0.2389 -3.6447998,0.7383 -4.1558435,1.8012 -5.9076948,6.2696 -3.8898277,9.9794 2.017867,3.7098 7.0235825,5.2736 11.1794265,3.4723 l -0.459429,-0.8476 c -3.635151,1.5756 -8.0054672,0.2102 -9.770512,-3.0348 -1.765045,-3.245 -0.2353805,-7.1462 3.399771,-8.7218 2.010315,-0.8713 4.358385,-0.8675 6.370741,0 L 17,1035.1355 c -1.153296,-0.4973 -2.395763,-0.7394 -3.644799,-0.7383 z"
+       id="path3834"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3836"
+       width="10"
+       height="1.0000348"
+       x="3"
+       y="1040.3622" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3836-1"
+       width="9"
+       height="1"
+       x="3"
+       y="1042.3622" />
   </g>
 </svg>
