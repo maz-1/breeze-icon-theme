@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_gridvisible.svg">
+   sodipodi:docname="lc_solidcreate.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,11 +26,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.15656"
-     inkscape:cx="2.8723627"
-     inkscape:cy="14.542372"
+     inkscape:cx="13.744057"
+     inkscape:cy="10.145734"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:showpageshadow="false"
      units="px"
      inkscape:window-width="1868"
@@ -57,6 +57,10 @@
        position="3,3"
        orientation="0,18"
        id="guide4128" />
+    <sodipodi:guide
+       position="21,3"
+       orientation="-18,0"
+       id="guide4130" />
     <sodipodi:guide
        position="21,21"
        orientation="0,-18"
@@ -94,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,15 +108,20 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <path
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 4 4 L 4 5 L 5 5 L 5 4 L 4 4 z M 9 4 L 9 5 L 10 5 L 10 4 L 9 4 z M 14 4 L 14 5 L 15 5 L 15 4 L 14 4 z M 4 7 L 4 8 L 5 8 L 5 7 L 4 7 z M 9 7 L 9 8 L 10 8 L 10 7 L 9 7 z M 14 7 L 14 8 L 15 8 L 15 7 L 14 7 z M 4 10 L 4 11 L 5 11 L 5 10 L 4 10 z M 9 10 L 9 11 L 10 11 L 10 10 L 9 10 z M 14 10 L 14 11 L 15 11 L 15 10 L 14 10 z M 19 10 L 19 11 L 20 11 L 20 10 L 19 10 z M 4 13 L 4 14 L 5 14 L 5 13 L 4 13 z M 9 13 L 9 14 L 10 14 L 10 13 L 9 13 z M 14 13 L 14 14 L 15 14 L 15 13 L 14 13 z M 19 13 L 19 14 L 20 14 L 20 13 L 19 13 z M 4 16 L 4 17 L 5 17 L 5 16 L 4 16 z M 9 16 L 9 17 L 10 17 L 10 16 L 9 16 z M 14 16 L 14 17 L 15 17 L 15 16 L 14 16 z M 19 16 L 19 17 L 20 17 L 20 16 L 19 16 z M 4 19 L 4 20 L 5 20 L 5 19 L 4 19 z M 9 19 L 9 20 L 10 20 L 10 19 L 9 19 z M 14 19 L 14 20 L 15 20 L 15 19 L 14 19 z M 19 19 L 19 20 L 20 20 L 20 19 L 19 19 z "
-       transform="translate(-1,1029.3622)"
-       id="rect3081" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 17.5,1032.3622 c -0.831,0 -1.5,0.669 -1.5,1.5 l 0,1.5 -1,0 0,3 5,0 0,-3 -1,0 0,-1.5 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z m 0,1 c 0.277,0 0.5,0.223 0.5,0.5 l 0,1.5 -1,0 0,-1.5 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
-       id="path3339"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssccccccssssccss" />
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 14.996094,1033.3622 -11.992188,11.9922 -0.00391,0 0,4.0078 1,0 2,0 1.0078125,0 0,0 L 19,1037.3661 l -0.002,0 0.002,0 -4,-4 -0.002,0 -0.0019,0 z m -1.998047,3.4121 2.589844,2.5899 -7.5878912,7.5878 0,-1.5898 -1,0 -1,0 0,-1 0,-0.5898 6.9980472,-6.9981 z m -7.9980472,7.9981 0,1.5898 1,0 1,0 0,1 0,0.5898 -0.4101562,0.4102 -1.5898438,0 -1,-1 0,-1.5898 1,-1 z"
+       id="rect4132" />
+    <g
+       id="layer1-5"
+       inkscape:label="Capa 1"
+       transform="translate(1,0)">
+      <path
+         id="rect4108-9"
+         transform="translate(-1,1029.3622)"
+         d="m 11,18 c -0.552285,0 -1,0.4477 -1,1 0,0.5523 0.447715,1 1,1 0.552285,0 1,-0.4477 1,-1 0,-0.5523 -0.447715,-1 -1,-1 z m 4,0 c -0.552285,0 -1,0.4477 -1,1 0,0.5523 0.447715,1 1,1 0.552285,0 1,-0.4477 1,-1 0,-0.5523 -0.447715,-1 -1,-1 z m 4,0 c -0.552285,0 -1,0.4477 -1,1 0,0.5523 0.447715,1 1,1 0.552285,0 1,-0.4477 1,-1 0,-0.5523 -0.447715,-1 -1,-1 z"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
