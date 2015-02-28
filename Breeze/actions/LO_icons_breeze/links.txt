@@ -1,0 +1,5 @@
+avmedia/res/avl02049.png cmd/lc_runbasic.png
+avmedia/res/avl02050.png cmd/lc_mediapause.png
+avmedia/res/avl02051.png cmd/lc_basicstop.png
+avmedia/res/avl02052.png cmd/lc_mediarepeat.png
+avmedia/res/avl02054.png cmd/lc_mediamute.png
