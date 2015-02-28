@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_basicstop.svg"
+   sodipodi:docname="sc_calloutshapes.rectangular-callout.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.5228"
-     inkscape:cx="13.654032"
-     inkscape:cy="3.0352802"
+     inkscape:zoom="48.822612"
+     inkscape:cx="11.501151"
+     inkscape:cy="6.5676212"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,10 +83,27 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
-    <path
-       inkscape:connector-curvature="0"
-       id="rect3274-4-0"
-       d="m 426.71429,536.79074 6,0 0,6 -6,0 z"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4035"
+       width="0"
+       height="10.999983"
+       x="404.71429"
+       y="534.79071" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3910"
+       width="0.99999559"
+       height="7.9999704"
+       x="424.71429"
+       y="537.79071" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3912"
+       width="9.0000038"
+       height="9"
+       x="5"
+       y="2"
+       transform="translate(421.71429,531.79074)" />
   </g>
 </svg>
