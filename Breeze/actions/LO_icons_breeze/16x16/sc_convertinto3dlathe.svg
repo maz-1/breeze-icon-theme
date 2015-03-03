@@ -15,43 +15,12 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_cone.svg"
+   sodipodi:docname="sc_convertinto3dlathe.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
   <defs
      id="defs3051">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3858"
-       id="linearGradient4239"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1,1029.3622)"
-       x1="4"
-       y1="12"
-       x2="11"
-       y2="13.000017" />
-    <linearGradient
-       id="linearGradient3858">
-      <stop
-         id="stop3860"
-         offset="0"
-         style="stop-color:#b3b3b3;stop-opacity:1;" />
-      <stop
-         id="stop3862"
-         offset="1"
-         style="stop-color:#4d4d4d;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       y2="13.000017"
-       x2="14"
-       y1="12.000017"
-       x1="20"
-       gradientTransform="translate(-1,1029.3622)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3837"
-       xlink:href="#linearGradient3858-9"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient3858-9">
       <stop
@@ -128,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
