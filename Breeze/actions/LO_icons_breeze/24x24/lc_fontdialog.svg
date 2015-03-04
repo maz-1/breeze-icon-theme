@@ -13,7 +13,7 @@
    height="24"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="lc_fontdialog.svg">
   <defs
      id="defs3762" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.579358"
-     inkscape:cx="11.915074"
-     inkscape:cy="8.9904345"
+     inkscape:zoom="17.289679"
+     inkscape:cx="24.200513"
+     inkscape:cy="5.3191183"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,13 +34,14 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
-     showguides="true">
+     showguides="true"
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4106"
@@ -97,9 +98,39 @@
      id="layer1"
      transform="translate(-550.28571,-606.64789)">
     <path
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Oxygen;-inkscape-font-specification:Oxygen;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 9.2167969 4 L 4 18 L 5.6875 18 L 7.3554688 13.570312 L 12.917969 13.570312 L 13.066406 14 L 14.732422 14 L 11.210938 4 L 9.2167969 4 z M 10.232422 5.6113281 L 12.361328 12.285156 L 7.8730469 12.285156 L 10.232422 5.6113281 z M 11 18 A 0.99999058 1 0 0 0 10 19 A 0.99999058 1 0 0 0 11 20 A 0.99999058 1 0 0 0 12 19 A 0.99999058 1 0 0 0 11 18 z M 15 18 A 0.99999058 1 0 0 0 14 19 A 0.99999058 1 0 0 0 15 20 A 0.99999058 1 0 0 0 16 19 A 0.99999058 1 0 0 0 15 18 z M 19 18 A 0.99999058 1 0 0 0 18 19 A 0.99999058 1 0 0 0 19 20 A 0.99999058 1 0 0 0 20 19 A 0.99999058 1 0 0 0 19 18 z "
-       transform="translate(550.28571,606.64789)"
-       id="path4149" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+       d="m 559.50446,611.64791 -5.21875,14 1.6875,0 1.65625,-4.4375 5.5625,0 1.53125,4.4375 1.6875,0 -4.90625,-14 -2,0 z m 1,1.625 2.15625,6.65625 -4.5,0 2.34375,-6.65625 z"
+       id="path4149-5"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3010"
+       sodipodi:cx="19.000019"
+       sodipodi:cy="19.000019"
+       sodipodi:rx="1"
+       sodipodi:ry="1.0000024"
+       d="m 20.000019,19.000019 a 1,1.0000024 0 1 1 -2,0 1,1.0000024 0 1 1 2,0 z"
+       transform="translate(550.28573,600.64787)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3012"
+       sodipodi:cx="19.000019"
+       sodipodi:cy="15.000017"
+       sodipodi:rx="1"
+       sodipodi:ry="1"
+       d="m 20.000019,15.000017 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       transform="translate(550.28573,600.64787)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3014"
+       sodipodi:cx="19.00001"
+       sodipodi:cy="11.000017"
+       sodipodi:rx="0.99999058"
+       sodipodi:ry="1"
+       d="m 20,11.000017 a 0.99999058,1 0 1 1 -1.999981,0 0.99999058,1 0 1 1 1.999981,0 z"
+       transform="translate(550.28573,600.64787)" />
   </g>
 </svg>
