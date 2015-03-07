@@ -33,3 +33,5 @@ res/sc10866.png cmd/sc_grafgreen.png
 res/sc10867.png cmd/sc_grafblue.png
 res/sc10868.png cmd/sc_grafgamma.png
 res/sc10869.png cmd/sc_graftransparence.png
+sc/imglst/lc26048.png cmd/lc_autosum.png
+sc/imglst/sc26048.png cmd/sc_autosum.png
