@@ -26,3 +26,12 @@ sfx2/res/symphony/sidebar-style-large.png cmd/lc_formdesigntools.png
 sfx2/res/symphony/sidebar-style-small.png cmd/sc_formdesigntoolses.png
 sfx2/res/symphony/sidebar-template-large.png cmd/lc_newdoc.png
 sfx2/res/symphony/sidebar-template-small.png cmd/sc_newdoc.png
+res/sc10863.png cmd/sc_grafluminance.png
+res/sc10864.png cmd/sc_grafcontrast.png
+res/sc10865.png cmd/sc_grafred.png
+res/sc10866.png cmd/sc_grafgreen.png
+res/sc10867.png cmd/sc_grafblue.png
+res/sc10868.png cmd/sc_grafgamma.png
+res/sc10869.png cmd/sc_graftransparence.png
+sc/imglst/lc26048.png cmd/lc_autosum.png
+sc/imglst/sc26048.png cmd/sc_autosum.png
