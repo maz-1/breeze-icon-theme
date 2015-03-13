@@ -14,7 +14,7 @@
    id="svg3760"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="lc_hideslide.svg">
+   sodipodi:docname="lc_outlineformat.svg">
   <defs
      id="defs3762" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.704737"
-     inkscape:cx="6.5796321"
-     inkscape:cy="9.6548076"
+     inkscape:zoom="24.451299"
+     inkscape:cx="18.222143"
+     inkscape:cy="4.2953367"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -98,14 +98,24 @@
      id="layer1"
      transform="translate(-550.28571,-606.64789)">
     <path
-       style="fill:#bdc3c7;fill-opacity:1;stroke:none"
-       d="M 3 4 L 3 16 L 21 16 L 21 4 L 3 4 z M 4 5 L 20 5 L 20 15 L 4 15 L 4 5 z M 10 17 L 10 19 L 9 19 L 9 20 L 15 20 L 15 19 L 14 19 L 14 17 L 13 17 L 13 19 L 11 19 L 11 17 L 10 17 z "
-       transform="translate(550.28571,606.64789)"
-       id="path3357" />
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 569.28572,618.64791 -1,1 -5,5 0,1 0,1 2,0 0,-0.0312 1,-0.96875 4,-4 1,-1 -2,-2 z m -0.28125,1.6875 0.5625,0.59375 -4.96875,5 -0.59375,-0.59375 5,-5 z"
+       id="rect4139-4"
+       inkscape:connector-curvature="0" />
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#bdc3c7;fill-rule:evenodd;stroke:none;fill-opacity:1"
-       d="m 560.28571,613.64792 -1,1 2,2 -2,2 1,1 2,-2 2,2 1,-1 -2,-2 2,-2 -1,-1 -2,2 -2,-2 z"
-       id="path4141" />
-  </g>
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+       d="M 9.21875 5 L 4 19 L 5.6875 19 L 7.34375 14.5625 L 12.90625 14.5625 L 13.0625 15 L 14.71875 15 L 11.21875 5 L 9.21875 5 z M 10.21875 6.625 L 12.375 13.28125 L 7.875 13.28125 L 10.21875 6.625 z "
+       transform="translate(550.28571,606.64789)"
+       id="path4149" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3042"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3044"><rect
+           id="rect3046"
+           width="9.1201696"
+           height="12.678264"
+           x="15.295712"
+           y="11.894303" /></flowRegion><flowPara
+         id="flowPara3048"></flowPara></flowRoot>  </g>
 </svg>
