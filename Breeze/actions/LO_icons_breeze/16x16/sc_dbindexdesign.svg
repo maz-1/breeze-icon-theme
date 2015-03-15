@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_formdesigntools.svg"
+   sodipodi:docname="sc_dbindexdesign.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="3.9592772"
-     inkscape:cy="10.43414"
+     inkscape:zoom="45.254834"
+     inkscape:cx="6.6987727"
+     inkscape:cy="10.636488"
      inkscape:document-units="px"
      inkscape:current-layer="g5674"
      showgrid="true"
@@ -39,7 +39,7 @@
      fit-margin-bottom="0"
      inkscape:window-width="1407"
      inkscape:window-height="1053"
-     inkscape:window-x="511"
+     inkscape:window-x="509"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,9 +97,9 @@
          id="path7145" />
       <path
          style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="M 11.5 2 C 10.678476 2 9.9557177 2.3881928 9.5 3 L 3 3 L 3 4 L 4 5 L 5 5 L 5 4 L 6 4 L 6 5 L 7 5 L 7 4 L 8 4 L 8 5 L 9.0625 5 C 9.2956156 6.1392078 10.291877 7 11.5 7 C 12.880712 7 14 5.8807119 14 4.5 C 14 3.1192881 12.880712 2 11.5 2 z M 12.5 4 C 12.776142 4 13 4.2238576 13 4.5 C 13 4.7761424 12.776142 5 12.5 5 C 12.223858 5 12 4.7761424 12 4.5 C 12 4.2238576 12.223858 4 12.5 4 z "
+         d="M 10 2 L 10 3.5 L 9 3.5 L 8 3.5 L 3.5 3.5 C 3.2239 3.5 3 3.72386 3 4 C 3 4.27614 3.2239 4.5 3.5 4.5 L 3.5 6 L 4.5 6 L 4.5 4.5 L 5.5 4.5 L 5.5 6 L 6.5 6 L 6.5 4.5 L 8 4.5 L 9 4.5 L 10 4.5 L 10 6 L 13 6 L 13 2 L 10 2 z M 11 3 L 12 3 L 12 5 L 11 5 L 11 4.5 L 11 3.5 L 11 3 z "
          transform="matrix(-1,0,0,1,437.71429,531.79074)"
-         id="path3013" />
+         id="rect3034" />
     </g>
   </g>
 </svg>
