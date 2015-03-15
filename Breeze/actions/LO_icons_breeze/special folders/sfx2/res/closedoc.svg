@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="8"
+   height="8"
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_sendmail.svg"
+   sodipodi:docname="closedoc.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="48.822612"
-     inkscape:cx="6.9387428"
-     inkscape:cy="7.3775022"
+     inkscape:zoom="69.0456"
+     inkscape:cx="5.2057191"
+     inkscape:cy="2.9425589"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -48,21 +48,25 @@
      inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
-       id="grid4085" />
+       id="grid4085"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
     <sodipodi:guide
-       position="2.0000044,14.00003"
+       position="1,10"
        orientation="12,0"
        id="guide4075" />
     <sodipodi:guide
-       position="2.0000044,2.0000296"
+       position="10,1"
        orientation="0,12"
        id="guide4077" />
     <sodipodi:guide
-       position="14.000004,2.0000296"
+       position="7,5"
        orientation="-12,0"
        id="guide4079" />
     <sodipodi:guide
-       position="14.000004,14.00003"
+       position="10,7"
        orientation="0,-12"
        id="guide4081" />
   </sodipodi:namedview>
@@ -82,11 +86,23 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-421.71429,-531.79074)">
+     transform="translate(-421.71429,-539.79074)">
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4035"
+       width="0"
+       height="9.8691435"
+       x="406.87317"
+       y="535.716" />
     <path
-       style="text-decoration:none;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 427.71429,533.79071 0,1 8.59375,0 -6.59375,6.59375 -2,-2 0,1.40625 2,2 2.3125,-2.28125 4.28125,4.28125 -8.59375,0 0,1 10,0 0,-12 -10,0 z m 9,2 0,8 -4,-4 4,-4 z m -15,1 0,1 5,0 0,-1 -5,0 z m 2,3 0,1 3,0 0,-1 -3,0 z m 1,3 0,1 2,0 0,-1 -2,0 z"
-       id="rect4144"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 428.09747,540.79074 -5.38318,5.38318 0.61682,0.61682 5.38318,-5.38318 -0.61682,-0.61682 z"
+       id="path2989"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 423.33111,540.79074 -0.61682,0.61682 5.38318,5.38318 0.61682,-0.61682 -5.38318,-5.38318 z"
+       id="path2991"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

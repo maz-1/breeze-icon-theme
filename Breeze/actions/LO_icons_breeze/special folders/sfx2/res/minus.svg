@@ -14,7 +14,7 @@
    id="svg3036"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="morebutton.svg">
+   sodipodi:docname="plus.svg">
   <defs
      id="defs3038" />
   <sodipodi:namedview
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,27 +61,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1041.3622)">
-    <rect
+    <path
        style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3048"
-       width="9"
-       height="1"
-       x="1"
-       y="5"
-       transform="translate(0,1041.3622)" />
-    <rect
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2985"
-       width="9"
-       height="1"
-       x="1"
-       y="1043.3622" />
-    <rect
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2987"
-       width="9"
-       height="1"
-       x="1"
-       y="1049.3622" />
+       d="M 1 5 L 1 6 L 3 6 L 5 6 L 6 6 L 10 6 L 10 5 L 8 5 L 6 5 L 5 5 L 3 5 L 1 5 z "
+       transform="translate(0,1041.3622)"
+       id="rect3048" />
   </g>
 </svg>
