@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -14,12 +15,34 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_insertpagenumberfield.svg"
+   sodipodi:docname="lock_16.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
   <defs
-     id="defs3051" />
+     id="defs3051">
+    <linearGradient
+       gradientTransform="translate(0,-1.9999941)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4021-3"
+       id="linearGradient4123"
+       gradientUnits="userSpaceOnUse"
+       x1="3"
+       y1="1045.3622"
+       x2="15"
+       y2="1045.3622" />
+    <linearGradient
+       id="linearGradient4021-3">
+      <stop
+         id="stop4023-0"
+         offset="0"
+         style="stop-color:#b3b3b3;stop-opacity:1;" />
+      <stop
+         id="stop4025-2"
+         offset="1"
+         style="stop-color:#4d4d4d;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="39.774756"
-     inkscape:cx="9.2934819"
-     inkscape:cy="6.601977"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-0.55197957"
+     inkscape:cy="6.3547197"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-6"
      showgrid="true"
@@ -62,7 +85,7 @@
        orientation="-12,0"
        id="guide4079" />
     <sodipodi:guide
-       position="14,14"
+       position="14.000004,14.00003"
        orientation="0,-12"
        id="guide4081" />
   </sodipodi:namedview>
@@ -74,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,19 +116,9 @@
          inkscape:label="Capa 1">
         <path
            style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="M 10 2 L 10 3 L 12 3 L 12 7 L 13 7 L 13 2 L 10 2 z M 3 9 L 3 14 L 7 14 L 7 13 L 4 13 L 4 9 L 3 9 z "
+           d="M 8 2 C 6.3431375 2 5 3.3431371 5 5 L 5 6 L 6 6 L 6 5 C 6 3.8954305 6.8954305 3 8 3 C 9.1045695 3 10 3.8954305 10 5 L 10 8 L 6 8 L 5 8 L 4 8 L 3 8 L 3 14 L 13 14 L 13 8 L 11 8 L 11 5 C 11 3.3431371 9.6568625 2 8 2 z M 4 9 L 12 9 L 12 13 L 4 13 L 4 9 z "
            transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
-           id="rect3782" />
-        <path
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-           d="M 9 8 L 9 9 L 8 9 L 8 10 L 9 10 L 9 12 L 8 12 L 8 13 L 9 13 L 9 14 L 10 14 L 10 13 L 12 13 L 12 14 L 13 14 L 13 13 L 14 13 L 14 12 L 13 12 L 13 10 L 14 10 L 14 9 L 13 9 L 13 8 L 12 8 L 12 9 L 10 9 L 10 8 L 9 8 z M 10 10 L 12 10 L 12 12 L 10 12 L 10 10 z "
-           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
-           id="rect4139-8" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-           d="m 5.6666661,1033.3624 0,1.3334 -1.3333333,0 0,1.3333 1.3333333,0 0,2.6667 -1.3333333,0 0,1.3333 1.3333333,0 0,1.3333 1.3333334,0 0,-1.3333 2.6666662,0 0,1.3333 1.3333343,0 0,-1.3333 1.333333,0 0,-1.3333 -1.333333,0 0,-2.6667 1.333333,0 0,-1.3333 -1.333333,0 0,-1.3334 -1.3333343,0 0,1.3334 -2.6666662,0 0,-1.3334 -1.3333334,0 z m 1.3333334,2.6667 2.6666662,0 0,2.6667 -2.6666662,0 0,-2.6667 z"
-           id="rect4139-8-1" />
+           id="rect3044" />
       </g>
     </g>
   </g>
