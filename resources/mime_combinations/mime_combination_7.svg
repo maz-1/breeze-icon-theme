@@ -119,7 +119,7 @@
          offset="0"
          id="stop4353" />
       <stop
-         style="stop-color:#e4f1fe;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="1"
          id="stop4355" />
     </linearGradient>
@@ -215,7 +215,7 @@
      height="22"
      width="22"
      id="rect4167"
-     style="opacity:1;fill:#e4f1fe;fill-opacity:1;stroke:none;stroke-opacity:1" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
   <rect
      style="opacity:1;fill:#22a7f0;fill-opacity:1;stroke:none;stroke-opacity:1"
      id="rect4168"

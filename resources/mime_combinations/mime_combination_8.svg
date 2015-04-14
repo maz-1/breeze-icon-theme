@@ -162,7 +162,7 @@
       <stop
          id="stop4355-6"
          offset="1"
-         style="stop-color:#dcc6e0;stop-opacity:1" />
+         style="stop-color:#e8d9eb;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient4300-1"
@@ -206,7 +206,7 @@
      d="M 26,61 40,47 40,61 Z"
      style="opacity:0.2;fill:url(#linearGradient4427);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <rect
-     style="opacity:1;fill:#dcc6e0;fill-opacity:1;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#e8d9eb;fill-opacity:1;stroke:none;stroke-opacity:1"
      id="rect4165"
      width="22"
      height="22"

@@ -162,7 +162,7 @@
          offset="0"
          id="stop4353" />
       <stop
-         style="stop-color:#1d7390;stop-opacity:1"
+         style="stop-color:#185e76;stop-opacity:1"
          offset="1"
          id="stop4355" />
     </linearGradient>
@@ -213,7 +213,7 @@
      id="rect4323"
      inkscape:connector-curvature="0" />
   <rect
-     style="opacity:1;fill:#1d7390;fill-opacity:1;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#185e76;fill-opacity:1;stroke:none;stroke-opacity:1"
      id="rect4167"
      width="22"
      height="22"
@@ -225,5 +225,5 @@
      height="22"
      width="22"
      id="rect4168"
-     style="opacity:1;fill:#1d7390;fill-opacity:1;stroke:none;stroke-opacity:1" />
+     style="opacity:1;fill:#185e76;fill-opacity:1;stroke:none;stroke-opacity:1" />
 </svg>
