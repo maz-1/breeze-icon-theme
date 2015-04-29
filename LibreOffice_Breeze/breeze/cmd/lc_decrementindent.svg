@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_decrementindent.svg">
   <defs
@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.447601"
-     inkscape:cx="14.535915"
-     inkscape:cy="12.038138"
+     inkscape:zoom="49.349268"
+     inkscape:cx="14.922858"
+     inkscape:cy="11.357034"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,15 +106,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1029.3622)">
-    <g
-       id="layer1-2"
-       inkscape:label="Capa 1"
-       transform="matrix(-1,0,0,1,22,0)">
-      <path
-         id="path4174"
-         d="m 3,1033.3622 0,1 16,0 0,-1 -16,0 z m 0,2 0,1 13,0 0,-1 -13,0 z m 0,3 0,2.25 0,0.75 0,0.75 0,2.25 4,-3 -4,-3 z m 6,1 0,1 10,0 0,-1 -10,0 z m 0,2 0,1 2,0 0,-1 -2,0 z m -6,4 0,1 16,0 0,-1 -16,0 z m 0,2 0,1 13,0 0,-1 -13,0 z m 14,1 0,1 2,0 0,-1 -2,0 z"
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="M 4 4 L 4 5 L 20 5 L 20 4 L 4 4 z M 7 6 L 7 7 L 20 7 L 20 6 L 7 6 z M 4 10 L 4 11 L 14 11 L 14 10 L 4 10 z M 12 12 L 12 13 L 14 13 L 14 12 L 12 12 z M 4 16 L 4 17 L 20 17 L 20 16 L 4 16 z M 7 18 L 7 19 L 20 19 L 20 18 L 7 18 z M 4 19 L 4 20 L 6 20 L 6 19 L 4 19 z "
+       transform="translate(-1,1029.3622)"
+       id="path4174" />
+    <path
+       style="fill:#1d99f3;fill-opacity:1;stroke:none"
+       d="m 19,1044.3622 c 0,0 0,-6 0,-6 l -4,3 z"
+       id="path2996"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.704737"
-     inkscape:cx="8.4919256"
-     inkscape:cy="4.2533964"
+     inkscape:zoom="33.523561"
+     inkscape:cx="12.226325"
+     inkscape:cy="9.9970953"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -98,9 +98,14 @@
      id="layer1"
      transform="translate(-550.28571,-606.64789)">
     <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 4 4 L 4 12 L 7 15 L 7 12 L 16 12 L 16 4 L 4 4 z M 5 5 L 15 5 L 15 11 L 5 11 L 5 5 z M 16.5 13 L 15.78125 13.71875 L 18.09375 16 L 13.78125 16 L 13.78125 17 L 18.09375 17 L 15.78125 19.28125 L 16.5 20 L 19.78125 16.71875 L 20 16.5 L 19.78125 16.28125 L 16.5 13 z "
+       style="fill:#f47750;fill-opacity:1;stroke:none"
+       d="M 16.5 13 L 15.78125 13.71875 L 18.09375 16 L 13.78125 16 L 13.78125 17 L 18.09375 17 L 15.78125 19.28125 L 16.5 20 L 19.78125 16.71875 L 20 16.5 L 19.78125 16.28125 L 16.5 13 z "
+       id="path4147"
+       transform="translate(550.28571,606.64789)" />
+    <path
+       style="fill:#f47750;fill-opacity:1;stroke:none"
+       d="M 4 4 L 4 14 L 7 18 L 7 15 L 7 14 L 14 14 L 14 13 L 5 13 L 5 5 L 19 5 L 19 13 L 20 13 L 20 4 L 4 4 z "
        transform="translate(550.28571,606.64789)"
-       id="path4147" />
+       id="path4147-1" />
   </g>
 </svg>

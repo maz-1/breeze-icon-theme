@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_moveup.svg"
+   sodipodi:docname="sc_movedown.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,17 +91,21 @@
        id="g5674"
        transform="matrix(-1,0,0,1,859.42858,0)">
       <path
-         id="path5483"
-         transform="translate(421.71429,531.79074)"
-         d="M 2,2 2,3 14,3 14,2 2,2 z M 5,4 5,5 14,5 14,4 5,4 z M 2,8 2,9 8,9 8,8 2,8 z m 4,2 0,1 1,0 1,0 0,-1 -1,0 -1,0 z m -4,3 0,1 2,0 4,0 1,0 5,0 0,-1 -5,0 -1,0 -4,0 -2,0 z"
          style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
+         d="M 2 2 L 2 3 L 14 3 L 14 2 L 2 2 z M 2 4 L 2 5 L 11 5 L 11 4 L 2 4 z M 8 8 L 8 9 L 14 9 L 14 8 L 8 8 z M 8 10 L 8 11 L 9 11 L 10 11 L 10 10 L 9 10 L 8 10 z M 2 13 L 2 14 L 7 14 L 8 14 L 12 14 L 14 14 L 14 13 L 12 13 L 8 13 L 7 13 L 2 13 z "
+         transform="matrix(-1,0,0,1,437.71429,531.79074)"
+         id="path5483" />
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path5641"
          d="m 435.71429,539.79074 -5,0 2.5,3 z"
          style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#1d99f3;fill-opacity:1;stroke:none"
+         d="m 435.71429,539.79074 -2.5,3 -2.5,-3 z"
+         id="path2997"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

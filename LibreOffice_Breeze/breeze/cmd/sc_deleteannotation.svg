@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_insertannotation.svg"
+   sodipodi:docname="sc_deleteannotation.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,12 +84,12 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       style="fill:#f47750;fill-opacity:1;stroke:none"
        d="M 2 2 L 2 3 L 2 11 L 5 14 L 5 11 L 8 11 L 14 11 L 14 10 L 14 8 L 14 3 L 14 2 L 2 2 z M 3 3 L 13 3 L 13 4 L 13 8 L 13 10 L 8 10 L 3 10 L 3 4 L 3 3 z "
        transform="translate(421.71429,531.79074)"
        id="path4147-9" />
     <rect
-       style="color:#000000;fill:#da4453;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#f47750;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3767"
        width="4.9999809"
        height="1"

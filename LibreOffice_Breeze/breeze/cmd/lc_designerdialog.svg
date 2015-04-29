@@ -13,7 +13,7 @@
    height="24"
    width="24"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="lc_designerdialog.svg"
    inkscape:export-filename="/home/uri/Descargas/NITRUX-KDE/NITRUX-KDE/16x16/actions/view-preview.png"
    inkscape:export-xdpi="30"
@@ -29,15 +29,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
      id="namedview7"
      showgrid="true"
      inkscape:zoom="33"
      inkscape:cx="11.766892"
-     inkscape:cy="14.03238"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:cy="12.820259"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
      inkscape:showpageshadow="false"
@@ -45,7 +45,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true">
     <sodipodi:guide
        position="3,21"
        orientation="18,0"
@@ -100,16 +101,22 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
      style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 4,11 0,9 16,0 z M 5,12.8 16.1,19 5,19 Z"
-     id="path4163"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccc" />
+     d="M 4 11 L 4 20 L 20 20 L 4 11 z M 5 12.8125 L 16.09375 19 L 5 19 L 5 12.8125 z "
+     id="path4163" />
   <path
      style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     d="M 5 4 L 5 10 L 6 10 L 6 5 L 18 5 L 18 17 L 19 17 L 19 5 L 19 4 L 5 4 z "
+     d="M 5 4 L 5 10 L 6 10 L 6 5 L 16 5 L 16 4 L 5 4 z "
      id="rect4139-4" />
   <path
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
-     d="M 11 7 L 11 8 L 13 8 L 13 12 L 14 12 L 14 8 L 16 8 L 16 7 L 11 7 z "
-     id="rect4232" />
+     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+     d="m 11,7 0,1 2,0 0,4 1,0 0,-4 2,0 0,-1 -5,0 z"
+     id="rect4232"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#f47750;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 19,5 c 0,-0.552285 -0.447715,-1 -1,-1 -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 z m 0,4 c 0,-0.552285 -0.447715,-1 -1,-1 -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 z m 0,4 c 0,-0.552285 -0.447715,-1 -1,-1 -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 z"
+     id="path3021"
+     inkscape:transform-center-x="1"
+     inkscape:transform-center-y="1" />
 </svg>

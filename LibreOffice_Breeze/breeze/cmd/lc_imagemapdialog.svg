@@ -141,35 +141,10 @@
          transform="translate(420.71427,524.79074)"
          id="rect4082-8" />
       <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path4200"
-         sodipodi:cx="19.00001"
-         sodipodi:cy="19.000017"
-         sodipodi:rx="0.99999058"
-         sodipodi:ry="1"
-         d="m 20,19.000017 a 0.99999058,1 0 1 1 -1.999981,0 0.99999058,1 0 1 1 1.999981,0 z"
-         transform="translate(420.71427,524.79074)" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path4202"
-         sodipodi:cx="15.000019"
-         sodipodi:cy="19.000019"
-         sodipodi:rx="1"
-         sodipodi:ry="1.0000024"
-         d="m 16.000019,19.000019 a 1,1.0000024 0 1 1 -2,0 1,1.0000024 0 1 1 2,0 z"
-         transform="translate(420.71427,524.79074)" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path4204"
-         sodipodi:cx="11.000019"
-         sodipodi:cy="19.000019"
-         sodipodi:rx="1"
-         sodipodi:ry="1.0000024"
-         d="m 12.000019,19.000019 a 1,1.0000024 0 1 1 -2,0 1,1.0000024 0 1 1 2,0 z"
-         transform="translate(420.71427,524.79074)" />
+         inkscape:connector-curvature="0"
+         style="color:#000000;fill:#f47750;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 430.71429,543.79076 c 0,0.55228 0.44771,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 -0.55229,0 -1,0.44772 -1,1 z m 4,0 c 0,0.55228 0.44771,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 -0.55229,0 -1,0.44772 -1,1 z m 4,0 c 0,0.55228 0.44771,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 -0.55229,0 -1,0.44772 -1,1 z"
+         id="path3083" />
     </g>
   </g>
 </svg>

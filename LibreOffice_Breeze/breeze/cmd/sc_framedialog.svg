@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="64"
-     inkscape:cx="10.387627"
+     inkscape:cx="7.7704395"
      inkscape:cy="6.011743"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-6"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,39 +93,14 @@
          inkscape:label="Capa 1">
         <path
            style="fill:#ff6600;fill-opacity:1;stroke:none"
-           d="M 2 2 L 2 14 L 7 14 L 7 12 L 4 12 L 4 4 L 12 4 L 12 7 L 14 7 L 14 2 L 2 2 z "
+           d="M 2 2 L 2 14 L 5 14 L 5 12 L 4 12 L 4 4 L 12 4 L 12 7 L 12 11 L 14 11 L 14 7 L 14 2 L 2 2 z "
            transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
            id="rect4112" />
         <path
            style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-           d="M 3 3 L 3 13 L 7 13 L 7 12 L 4 12 L 4 4 L 12 4 L 12 7 L 13 7 L 13 3 L 3 3 z "
+           d="M 3 3 L 3 13 L 5 13 L 5 12 L 4 12 L 4 4 L 12 4 L 12 7 L 12 11 L 13 11 L 13 7 L 13 3 L 3 3 z M 7 12 C 6.4477153 12 6 12.447723 6 13 C 6 13.552277 6.4477153 14 7 14 C 7.5522847 14 8 13.552277 8 13 C 8 12.447723 7.5522847 12 7 12 z M 10 12 C 9.4477153 12 9 12.447723 9 13 C 9 13.552277 9.4477153 14 10 14 C 10.552285 14 11 13.552277 11 13 C 11 12.447723 10.552285 12 10 12 z M 13 12 C 12.447715 12 12 12.447723 12 13 C 12 13.552277 12.447715 14 13 14 C 13.552285 14 14 13.552277 14 13 C 14 12.447723 13.552285 12 13 12 z "
            transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
            id="rect4114" />
-        <g
-           transform="matrix(1.3333333,0,0,1.3333367,-1,-352.45739)"
-           id="layer1-22"
-           inkscape:label="Capa 1">
-          <g
-             inkscape:label="Capa 1"
-             id="layer1-1"
-             transform="translate(-551.28571,421.71431)" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text3781"
-             y="1045.135"
-             x="14.795352"
-             style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-             xml:space="preserve"><tspan
-               id="tspan3783"
-               sodipodi:role="line"
-               x="14.795352"
-               y="1045.135" /></text>
-          <path
-             id="rect4126-8"
-             d="m 13,1045.3622 -1,1 -1,1 -2.0000002,2 0,1 0,1 2.0000002,0 0.59375,-0.5937 0.40625,-0.4063 1,-1 1,-1 1,-1 -2,-2 z m -0.3125,1.6875 0.59375,0.5938 -0.28125,0.2812 -1.40625,1.4063 0,0.031 -1.28125,1.2813 -0.5937502,-0.5938 1.8750002,-1.9062 1.09375,-1.0938 z"
-             style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-             inkscape:connector-curvature="0" />
-        </g>
       </g>
     </g>
   </g>

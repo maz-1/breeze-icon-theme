@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_presentation.svg"
+   sodipodi:docname="sc_assignlayout.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="39.774755"
-     inkscape:cx="5.3684856"
+     inkscape:cx="1.1572717"
      inkscape:cy="6.5836532"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-6"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,41 +91,17 @@
          transform="translate(6.2937501e-7,-2.041003e-4)"
          id="layer1-6"
          inkscape:label="Capa 1">
-        <path
-           style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10000000000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="M 2 2 L 2 11 L 6 11 L 6 13 L 5 13 L 5 14 L 11 14 L 11 13 L 10 13 L 10 11 L 12 11 L 12 10 L 3 10 L 3 3 L 13 3 L 13 8 L 14 8 L 14 2 L 2 2 z M 7 4 L 7 9 L 10 6.5 L 7 4 z M 7 11 L 9 11 L 9 13 L 7 13 L 7 11 z "
-           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
-           id="rect3764" />
-        <path
-           sodipodi:type="arc"
-           style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="path2990"
-           sodipodi:cx="13.5"
-           sodipodi:cy="13.5"
-           sodipodi:rx="0.5"
-           sodipodi:ry="0.5"
-           d="m 14,13.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
-           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)" />
-        <path
-           sodipodi:type="arc"
-           style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="path2992"
-           sodipodi:cx="13.5"
-           sodipodi:cy="11.5"
-           sodipodi:rx="0.5"
-           sodipodi:ry="0.5"
-           d="m 14,11.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
-           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)" />
-        <path
-           sodipodi:type="arc"
-           style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="path2994"
-           sodipodi:cx="13.5"
-           sodipodi:cy="9.5"
-           sodipodi:rx="0.5"
-           sodipodi:ry="0.5"
-           d="m 14,9.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
-           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)" />
+        <g
+           transform="matrix(1.3333333,0,0,1.3333367,-561.95237,321.63961)"
+           id="layer1-5"
+           inkscape:label="Capa 1">
+          <path
+             id="rect4083"
+             transform="translate(421.71429,531.79074)"
+             d="m 2,2 0,3 0,9 1,0 11,0 0,-1 L 14,2 3,2 2,2 z m 1,3 10,0 0,8 -10,0 0,-8 z m 1,1 0,2 0,2 0,2 2,0 1,0 L 7,11 7,10 7,8 7,7 7,6 6,6 4,6 z m 4,1 0,1 4,0 0,-1 -4,0 z m 0,3 0,1 4,0 0,-1 -4,0 z"
+             style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+             inkscape:connector-curvature="0" />
+        </g>
       </g>
     </g>
   </g>

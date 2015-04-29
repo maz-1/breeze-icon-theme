@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_pagedialog.svg">
   <defs
@@ -33,16 +33,17 @@
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true">
     <sodipodi:guide
        position="3,21"
        orientation="18,0"
@@ -132,8 +133,13 @@
      transform="translate(1,-1029.3622)">
     <path
        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 5 3.9980469 L 5 4 L 5 14 L 6 14 L 6 5 L 18 5 L 18 15 L 15 15 L 15 19.990234 L 15.007812 20 L 19 16.007812 L 19 15.998047 L 19 14.591797 L 19 3.9980469 L 18 3.9980469 L 6 3.9980469 L 5 3.9980469 z M 5 18 A 1.0000001 1.0000001 0 0 0 4 19 A 1.0000001 1.0000001 0 0 0 5 20 A 1.0000001 1.0000001 0 0 0 6 19 A 1.0000001 1.0000001 0 0 0 5 18 z M 9 18 A 1.0000001 1.0000001 0 0 0 8 19 A 1.0000001 1.0000001 0 0 0 9 20 A 1.0000001 1.0000001 0 0 0 10 19 A 1.0000001 1.0000001 0 0 0 9 18 z M 13 18 A 1.0000001 1.0000001 0 0 0 12 19 A 1.0000001 1.0000001 0 0 0 13 20 A 1.0000001 1.0000001 0 0 0 14 19 A 1.0000001 1.0000001 0 0 0 13 18 z "
+       d="M 5 4 L 5 14 L 5 17 L 6 17 L 6 14 L 6 5 L 18 5 L 18 15 L 15 15 L 15 20 L 19 16 L 19 14.59375 L 19 4 L 18 4 L 6 4 L 5 4 z "
        transform="translate(-1,1029.3622)"
        id="rect4139" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#f47750;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 13,1048.3622 c 0,-0.5523 -0.4477,-1 -1,-1 -0.5523,0 -1,0.4477 -1,1 0,0.5523 0.4477,1 1,1 0.5523,0 1,-0.4477 1,-1 z m -4.0000005,0 c 0,-0.5523 -0.4477,-1 -1,-1 -0.5523,0 -1,0.4477 -1,1 0,0.5523 0.4477,1 1,1 0.5523,0 1,-0.4477 1,-1 z m -4,0 c 0,-0.5523 -0.4477,-1 -1,-1 -0.5523,0 -1,0.4477 -1,1 0,0.5523 0.4477,1 1,1 0.5523,0 1,-0.4477 1,-1 z"
+       id="path3083" />
   </g>
 </svg>

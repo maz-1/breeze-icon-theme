@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_paraspaceincrease.svg"
+   sodipodi:docname="sc_paraspacedecrease.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,12 +91,12 @@
        id="g5674"
        transform="matrix(-1,0,0,1,859.42858,0)">
       <path
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         style="fill:#1d99f3;fill-opacity:1;stroke:none"
          d="m 423.71429,534.79074 2,3 2,-3 z"
          id="path6118"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         style="fill:#1d99f3;fill-opacity:1;stroke:none"
          d="m 423.71429,544.79074 2,-3 2,3 z"
          id="path6118-2"
          inkscape:connector-curvature="0" />

@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_insertfieldctrl.svg"
+   sodipodi:docname="sc_paraspaceincrease.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="34.5228"
-     inkscape:cx="8.3620757"
+     inkscape:cx="3.5102097"
      inkscape:cy="5.3683505"
      inkscape:document-units="px"
      inkscape:current-layer="g5674"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,12 +91,12 @@
        id="g5674"
        transform="matrix(-1,0,0,1,859.42858,0)">
       <path
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         style="fill:#1d99f3;fill-opacity:1;stroke:none"
          d="m 423.71429,537.79074 2,-3 2,3 z"
          id="path6118"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         style="fill:#1d99f3;fill-opacity:1;stroke:none"
          d="m 423.71429,541.79074 2,3 2,-3 z"
          id="path6118-2"
          inkscape:connector-curvature="0" />
