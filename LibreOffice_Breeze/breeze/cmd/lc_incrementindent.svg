@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_incrementindent.svg">
   <defs
@@ -33,16 +33,17 @@
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4120"
@@ -97,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,8 +109,13 @@
      transform="translate(1,-1029.3622)">
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 4 4 L 4 5 L 20 5 L 20 4 L 4 4 z M 4 6 L 4 7 L 17 7 L 17 6 L 4 6 z M 4 9 L 4 11.25 L 4 12 L 4 12.75 L 4 15 L 8 12 L 4 9 z M 10 10 L 10 11 L 20 11 L 20 10 L 10 10 z M 10 12 L 10 13 L 12 13 L 12 12 L 10 12 z M 4 16 L 4 17 L 20 17 L 20 16 L 4 16 z M 4 18 L 4 19 L 17 19 L 17 18 L 4 18 z M 18 19 L 18 20 L 20 20 L 20 19 L 18 19 z "
+       d="M 4 4 L 4 5 L 20 5 L 20 4 L 4 4 z M 4 6 L 4 7 L 17 7 L 17 6 L 4 6 z M 10 10 L 10 11 L 20 11 L 20 10 L 10 10 z M 10 12 L 10 13 L 12 13 L 12 12 L 10 12 z M 4 16 L 4 17 L 20 17 L 20 16 L 4 16 z M 4 18 L 4 19 L 17 19 L 17 18 L 4 18 z M 18 19 L 18 20 L 20 20 L 20 19 L 18 19 z "
        transform="translate(-1,1029.3622)"
        id="path4174" />
+    <path
+       style="fill:#1d99f3;fill-opacity:1;stroke:none"
+       d="m 7,1041.3622 -4,-3 0,6 4,-3 0,0 z"
+       id="path2994"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

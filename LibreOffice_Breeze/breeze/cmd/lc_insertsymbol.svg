@@ -13,7 +13,7 @@
    height="24"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="lc_insertsymbol.svg">
   <defs
      id="defs3762" />
@@ -34,13 +34,14 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
-     showguides="true">
+     showguides="true"
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4106"
@@ -87,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,7 +99,7 @@
      transform="translate(-550.28571,-606.64789)">
     <path
        style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 12 4 A 8 6.9999976 0 0 0 4 11 A 8 6.9999976 0 0 0 8.0175781 17.054688 L 8.3339844 18 L 5 18 C 3.94099 17.71621 4 17 4 17 L 4 20 L 10.400391 20 L 10.400391 18 L 10.400391 17.599609 L 9.8847656 17.378906 A 4.9999757 6.4999814 0 0 1 7 11.5 A 4.9999757 6.4999814 0 0 1 12 5 A 4.9999757 6.4999814 0 0 1 17 11.5 A 4.9999757 6.4999814 0 0 1 16.611328 14 L 19.214844 14 A 8 6.9999976 0 0 0 20 11 A 8 6.9999976 0 0 0 12 4 z M 17 15 L 17 17 L 15 17 L 15 18 L 17 18 L 17 20 L 18 20 L 18 18 L 20 18 L 20 17 L 18 17 L 18 15 L 17 15 z "
+       d="M 12 4 A 8 6.9999976 0 0 0 4 11 A 8 6.9999976 0 0 0 8.03125 17.0625 L 8.34375 18 L 5 18 C 4.2057425 17.787157 4.0330445 17.339737 4 17.125 L 4 20 L 10.40625 20 L 10.40625 18 L 10.40625 17.59375 L 9.875 17.375 A 4.9999757 6.4999814 0 0 1 7 11.5 A 4.9999757 6.4999814 0 0 1 12 5 A 4.9999757 6.4999814 0 0 1 17 11.5 A 4.9999757 6.4999814 0 0 1 14.125 17.375 L 13.59375 17.59375 L 13.59375 18 L 13.59375 20 L 20 20 L 20 17.125 C 19.966955 17.339737 19.794257 17.787158 19 18 L 15.65625 18 L 15.96875 17.0625 A 8 6.9999976 0 0 0 20 11 A 8 6.9999976 0 0 0 12 4 z "
        transform="translate(550.28571,606.64789)"
        id="path4172" />
   </g>

@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="49.349268"
-     inkscape:cx="2.5828425"
-     inkscape:cy="11.052736"
+     inkscape:zoom="24.674634"
+     inkscape:cx="8.8214715"
+     inkscape:cy="9.6180055"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -109,8 +109,13 @@
      transform="translate(1,-1029.3622)">
     <path
        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 4 4 L 4 5 L 20 5 L 20 4 L 4 4 z M 7 6 L 7 7 L 20 7 L 20 6 L 7 6 z M 20 9 L 16 12 L 20 15 L 20 12.75 L 20 12 L 20 11.25 L 20 9 z M 4 10 L 4 11 L 14 11 L 14 10 L 4 10 z M 4 12 L 4 13 L 8 13 L 8 12 L 4 12 z M 12 12 L 12 13 L 14 13 L 14 12 L 12 12 z M 4 16 L 4 17 L 20 17 L 20 16 L 4 16 z M 7 18 L 7 19 L 20 19 L 20 18 L 7 18 z M 4 19 L 4 20 L 6 20 L 6 19 L 4 19 z "
+       d="M 4 4 L 4 5 L 20 5 L 20 4 L 4 4 z M 7 6 L 7 7 L 20 7 L 20 6 L 7 6 z M 4 10 L 4 11 L 14 11 L 14 10 L 4 10 z M 4 12 L 4 13 L 8 13 L 8 12 L 4 12 z M 12 12 L 12 13 L 14 13 L 14 12 L 12 12 z M 4 16 L 4 17 L 20 17 L 20 16 L 15 16 L 4 16 z M 7 18 L 7 19 L 20 19 L 20 18 L 7 18 z M 4 19 L 4 20 L 6 20 L 6 19 L 4 19 z "
        transform="translate(-1,1029.3622)"
        id="path4174" />
+    <path
+       style="fill:#1d99f3;fill-opacity:1;stroke:none"
+       d="m 15,1041.3622 4,-3 0,6 -4,-3 0,0 z"
+       id="path2994"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

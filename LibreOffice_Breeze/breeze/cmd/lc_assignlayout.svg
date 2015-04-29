@@ -14,7 +14,7 @@
    width="24"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="lc_presentationlayout.svg"
+   sodipodi:docname="lc_assignlayout.svg"
    inkscape:export-filename="/home/uri/Descargas/NITRUX-KDE/NITRUX-KDE/16x16/actions/view-preview.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -34,7 +34,7 @@
      id="namedview7"
      showgrid="true"
      inkscape:zoom="33"
-     inkscape:cx="9.0541884"
+     inkscape:cx="6.1754005"
      inkscape:cy="13.692901"
      inkscape:window-x="50"
      inkscape:window-y="-3"
@@ -64,10 +64,6 @@
        position="21,21"
        orientation="0,-18"
        id="guide4070" />
-    <sodipodi:guide
-       position="4,20"
-       orientation="16,0"
-       id="guide4072" />
     <sodipodi:guide
        position="4,4"
        orientation="0,16"
@@ -100,36 +96,15 @@
   </metadata>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
-  <path
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     d="M 3 4 L 3 16 L 18 16 L 18 15 L 4 15 L 4 5 L 20 5 L 20 9 L 21 9 L 21 4 L 3 4 z M 10 7 L 10 13 L 14 10 L 10 7 z M 10 17 L 10 19 L 9 19 L 9 20 L 15 20 L 15 19 L 14 19 L 14 17 L 13 17 L 13 19 L 11 19 L 11 17 L 10 17 z "
-     id="path3357-1" />
-  <path
-     sodipodi:type="arc"
-     style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="path3083"
-     sodipodi:cx="20"
-     sodipodi:cy="19"
-     sodipodi:rx="1"
-     sodipodi:ry="1"
-     d="m 21,19 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z" />
-  <path
-     sodipodi:type="arc"
-     style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="path3085"
-     sodipodi:cx="16"
-     sodipodi:cy="19"
-     sodipodi:rx="1"
-     sodipodi:ry="1"
-     d="m 17,19 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
-     transform="translate(4,-4)" />
-  <path
-     sodipodi:type="arc"
-     style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="path3087"
-     sodipodi:cx="20"
-     sodipodi:cy="11"
-     sodipodi:rx="1"
-     sodipodi:ry="1"
-     d="m 21,11 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z" />
+  <g
+     transform="translate(1,-1029.3622)"
+     id="layer1-5"
+     inkscape:label="Capa 1">
+    <path
+       id="rect3341"
+       transform="translate(0,1030.3622)"
+       d="m 3,3 0,16 1,0 15,0 0,-1 L 19,3 18,3 4,3 3,3 z M 4,7 18,7 18,18 4,18 4,7 z m 1,1 0,9 5,0 0,-9 -5,0 z m 6,1 0,1 6,0 0,-1 -6,0 z m 0,3 0,1 4,0 0,-1 -4,0 z m 0,3 0,1 2,0 0,-1 -2,0 z"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

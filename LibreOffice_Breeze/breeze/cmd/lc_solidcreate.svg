@@ -30,7 +30,7 @@
      inkscape:cy="10.145734"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
      inkscape:window-width="1868"
@@ -115,12 +115,13 @@
     <g
        id="layer1-5"
        inkscape:label="Capa 1"
-       transform="translate(1,0)">
+       transform="translate(1,0)"
+       style="fill:#f47750;fill-opacity:1">
       <path
          id="rect4108-9"
          transform="translate(-1,1029.3622)"
          d="m 11,18 c -0.552285,0 -1,0.4477 -1,1 0,0.5523 0.447715,1 1,1 0.552285,0 1,-0.4477 1,-1 0,-0.5523 -0.447715,-1 -1,-1 z m 4,0 c -0.552285,0 -1,0.4477 -1,1 0,0.5523 0.447715,1 1,1 0.552285,0 1,-0.4477 1,-1 0,-0.5523 -0.447715,-1 -1,-1 z m 4,0 c -0.552285,0 -1,0.4477 -1,1 0,0.5523 0.447715,1 1,1 0.552285,0 1,-0.4477 1,-1 0,-0.5523 -0.447715,-1 -1,-1 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         style="fill:#f47750;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
   </g>

@@ -113,34 +113,9 @@
        transform="translate(-1,1029.3622)"
        id="rect4145" />
     <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path2997"
-       sodipodi:cx="19"
-       sodipodi:cy="19.000017"
-       sodipodi:rx="1"
-       sodipodi:ry="1"
-       d="m 20,19.000017 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
-       transform="translate(-1,1029.3622)" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3003"
-       sodipodi:cx="9"
-       sodipodi:cy="19.00001"
-       sodipodi:rx="1"
-       sodipodi:ry="0.9999913"
-       d="m 10,19.00001 a 1,0.9999913 0 1 1 -2,0 1,0.9999913 0 1 1 2,0 z"
-       transform="translate(9,1023.3622)" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3005"
-       sodipodi:cx="12"
-       sodipodi:cy="19.00001"
-       sodipodi:rx="1"
-       sodipodi:ry="0.9999913"
-       d="m 13,19.00001 a 1,0.9999913 0 1 1 -2,0 1,0.9999913 0 1 1 2,0 z"
-       transform="translate(6,1026.3622)" />
+       style="color:#000000;fill:#f47750;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 18,1041.3622 c -0.552285,0 -1,0.4477 -1,1 0,0.5523 0.447715,1 1,1 0.552285,0 1,-0.4477 1,-1 0,-0.5523 -0.447715,-1 -1,-1 z m 0,3 c -0.552285,0 -1,0.4477 -1,1 0,0.5523 0.447715,1 1,1 0.552285,0 1,-0.4477 1,-1 0,-0.5523 -0.447715,-1 -1,-1 z m 0,3 c -0.552285,0 -1,0.4477 -1,1 0,0.5523 0.447715,1 1,1 0.552285,0 1,-0.4477 1,-1 0,-0.5523 -0.447715,-1 -1,-1 z"
+       id="path2998"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

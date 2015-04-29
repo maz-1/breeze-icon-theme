@@ -26,18 +26,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="34.895202"
-     inkscape:cx="11.85953"
+     inkscape:cx="7.0594432"
      inkscape:cy="9.743302"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1395"
-     inkscape:window-height="1053"
-     inkscape:window-x="52"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -109,8 +109,14 @@
      transform="translate(1,-1029.3622)">
     <path
        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 4 4 L 4 5 L 20 5 L 20 4 L 4 4 z M 7 6 L 7 7 L 20 7 L 20 6 L 7 6 z M 20 9 L 16 12 L 20 15 L 20 12.75 L 20 12 L 20 11.25 L 20 9 z M 4 10 L 4 11 L 14 11 L 14 10 L 4 10 z M 4 12 L 4 13 L 8 13 L 8 12 L 4 12 z M 12 12 L 12 13 L 14 13 L 14 12 L 12 12 z M 4 16 L 4 17 L 14 17 L 14 16 L 4 16 z M 7 18 L 7 19 L 14 19 L 14 18 L 7 18 z M 4 19 L 4 20 L 6 20 L 6 19 L 4 19 z "
+       d="M 4 4 L 4 5 L 20 5 L 20 4 L 4 4 z M 7 6 L 7 7 L 20 7 L 20 6 L 7 6 z M 4 10 L 4 11 L 14 11 L 14 10 L 4 10 z M 4 12 L 4 13 L 8 13 L 8 12 L 4 12 z M 12 12 L 12 13 L 14 13 L 14 12 L 12 12 z M 4 16 L 4 17 L 14 17 L 14 16 L 4 16 z M 7 18 L 7 19 L 14 19 L 14 18 L 7 18 z M 4 19 L 4 20 L 6 20 L 6 19 L 4 19 z "
        transform="translate(-1,1029.3622)"
        id="path4174" />
+    <path
+       style="fill:#1d99f3;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 16,12.000017 4,-2.9999996 0,5.9999996 -4,-3 0,0 z"
+       id="path2994"
+       inkscape:connector-curvature="0"
+       transform="translate(-1,1029.3622)" />
   </g>
 </svg>

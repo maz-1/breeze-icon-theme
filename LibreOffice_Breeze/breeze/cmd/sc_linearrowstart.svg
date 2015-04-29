@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_linearrows.svg"
+   sodipodi:docname="sc_linearrowstart.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,7 +107,7 @@
            id="layer1-4-0"
            inkscape:label="Capa 1">
           <g
-             transform="matrix(0.99999997,0,0,0.89999799,0,104.10707)"
+             transform="matrix(0.99999997,0,0,0.89999799,-4.7857039e-8,103.50708)"
              id="layer1-8-2"
              inkscape:label="Capa 1">
             <path

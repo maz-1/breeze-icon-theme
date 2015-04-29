@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_executereport.svg"
+   sodipodi:docname="sc_dbreportedit.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,33 +94,33 @@
        id="rect3782" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#f47750;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path4808"
        sodipodi:cx="13"
        sodipodi:cy="13"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       d="m 14,13 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       d="m 14,13 c 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
        transform="translate(421.71429,531.79074)" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#f47750;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path4810"
        sodipodi:cx="10"
        sodipodi:cy="13"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       d="m 11,13 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       d="m 11,13 c 0,0.552285 -0.447715,1 -1,1 -0.5522847,0 -1,-0.447715 -1,-1 0,-0.552285 0.4477153,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
        transform="translate(421.71429,531.79074)" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#f47750;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path4812"
        sodipodi:cx="7"
        sodipodi:cy="13"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       d="m 8,13 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       d="m 8,13 c 0,0.552285 -0.4477153,1 -1,1 -0.5522847,0 -1,-0.447715 -1,-1 0,-0.552285 0.4477153,-1 1,-1 0.5522847,0 1,0.447715 1,1 z"
        transform="translate(421.71429,531.79074)" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_objectposition.svg">
+   sodipodi:docname="lc_tabdialog.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -110,9 +110,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="25.15656"
-     inkscape:cx="10.947073"
-     inkscape:cy="11.207576"
+     inkscape:zoom="35.576748"
+     inkscape:cx="11.36202"
+     inkscape:cy="9.1125203"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -183,7 +183,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -200,14 +200,11 @@
        x="-19"
        y="-1034.3622"
        transform="scale(-1,-1)" />
-    <rect
+    <path
        style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect4745"
-       width="16"
-       height="1"
-       x="-19"
-       y="-1049.3622"
-       transform="scale(-1,-1)" />
+       d="M 4 19 L 4 20 L 9 20 L 9 19 L 4 19 z "
+       transform="translate(-1,1029.3622)"
+       id="rect4745" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
@@ -220,5 +217,10 @@
        d="m 6,1037.3622 0,0 0,6.0937 -2.28125,-2.2187 L 3,1041.9559 6.28125,1045.1434 6.5,1045.3622 6.71875,1045.1434 10,1041.9559 9.28125,1041.2372 7,1043.4559 l 0,-6.0937 0,0 z"
        id="rect4071-0-1-9"
        sodipodi:nodetypes="cccccccccccccc" />
+    <path
+       style="color:#000000;fill:#f47750;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 11 18 C 10.447715 18 10 18.44772 10 19 C 10 19.55228 10.447715 20 11 20 C 11.552285 20 12 19.55228 12 19 C 12 18.44772 11.552285 18 11 18 z M 15 18 C 14.447715 18 14 18.44772 14 19 C 14 19.55228 14.447715 20 15 20 C 15.552285 20 16 19.55228 16 19 C 16 18.44772 15.552285 18 15 18 z M 19 18 C 18.447715 18 18 18.447715 18 19 C 18 19.552285 18.447715 20 19 20 C 19.552285 20 20 19.552285 20 19 C 20 18.447715 19.552285 18 19 18 z "
+       transform="translate(-1,1029.3622)"
+       id="path3016" />
   </g>
 </svg>

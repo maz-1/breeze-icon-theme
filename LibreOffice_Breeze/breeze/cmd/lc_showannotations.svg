@@ -14,7 +14,7 @@
    id="svg3760"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="lc_lc_animationmode.svg">
+   sodipodi:docname="lc_showannotations.svg">
   <defs
      id="defs3762" />
   <sodipodi:namedview
@@ -101,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -111,9 +111,10 @@
      id="layer1"
      transform="translate(-552.72253,-582.11926)">
     <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 558.72253,588.11926 0,8 3,3 0,-3 9,0 0,-8 -12,0 z m 1,1 10,0 0,6 -10,0 0,-6 z"
-       id="path4147"
-       inkscape:connector-curvature="0" />
+       style="fill:#f47750;fill-opacity:1;stroke:none"
+       d="m 556.72253,586.11928 0,10 3.00002,4 -2e-5,-3 2e-5,-1 12.99998,0 0,-10 z m 1,1 14.00002,0 0,8 -14,0 z"
+       id="path4147-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>

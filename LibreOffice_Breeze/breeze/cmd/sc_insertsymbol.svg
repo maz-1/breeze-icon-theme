@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_italic.svg"
+   sodipodi:docname="sc_insertsymbol.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,17 +91,11 @@
          transform="translate(6.2937501e-7,-2.041003e-4)"
          id="layer1-6"
          inkscape:label="Capa 1">
-        <g
-           transform="matrix(0.99999969,0,0,1.0000022,-551.28573,422.71314)"
-           id="layer1-8"
-           inkscape:label="Capa 1">
-          <path
-             id="path4172"
-             transform="translate(550.28571,606.64789)"
-             d="m 12,4 a 8,6.9999976 0 0 0 -8,7 8,6.9999976 0 0 0 4.0175781,6.054688 L 8.3339844,18 5,18 C 3.94099,17.71621 4,17 4,17 l 0,3 6.400391,0 0,-2 0,-0.400391 -0.5156254,-0.220703 A 4.9999757,6.4999814 0 0 1 7,11.5 4.9999757,6.4999814 0 0 1 12,5 4.9999757,6.4999814 0 0 1 17,11.5 4.9999757,6.4999814 0 0 1 16.611328,14 l 2.603516,0 A 8,6.9999976 0 0 0 20,11 8,6.9999976 0 0 0 12,4 z m 5,11 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
-             style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-             inkscape:connector-curvature="0" />
-        </g>
+        <path
+           style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="M 8 2 A 5.999998 5.2499969 0 0 0 2 7.25 A 5.999998 5.2499969 0 0 0 5 11.78125 L 5.25 12.5 L 2.75 12.5 C 2.154307 12.340363 2.0247834 12.0048 2 11.84375 L 2 14 L 6.8125 14 L 6.8125 12.5 L 6.8125 12.1875 L 6.40625 12.03125 A 3.7499805 4.8749848 0 0 1 4.25 7.625 A 3.7499805 4.8749848 0 0 1 8 2.75 A 3.7499805 4.8749848 0 0 1 11.75 7.625 A 3.7499805 4.8749848 0 0 1 9.59375 12.03125 L 9.1875 12.1875 L 9.1875 12.5 L 9.1875 14 L 14 14 L 14 11.84375 C 13.975217 12.0048 13.845693 12.340363 13.25 12.5 L 10.75 12.5 L 11 11.78125 A 5.999998 5.2499969 0 0 0 14 7.25 A 5.999998 5.2499969 0 0 0 8 2 z "
+           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
+           id="path4172" />
       </g>
     </g>
   </g>

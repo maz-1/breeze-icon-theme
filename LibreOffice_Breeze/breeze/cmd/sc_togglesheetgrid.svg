@@ -13,8 +13,8 @@
    height="16"
    id="svg3049"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_ungroup.svg"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="sc_togglesheetgrid.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -42,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="4.9026353"
-     inkscape:cy="-1.2060546"
+     inkscape:zoom="45.254834"
+     inkscape:cx="7.4770697"
+     inkscape:cy="7.82037"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -52,10 +52,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1680"
+     inkscape:window-height="964"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,9 +99,14 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <path
+       style="stroke:none;fill:#b3b3b3;fill-opacity:1"
+       d="M 13 6 L 13 13 L 3 13 L 3 14 L 13 14 L 14 14 L 14 6 L 13 6 z "
+       transform="translate(421.71429,531.79074)"
+       id="rect3771" />
+    <path
        style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 423.71429,533.79074 0,12 1,0 6,0 1,0 3,0 1,0 0,-12 -12,0 z m 1,1 3,0 0,2 -3,0 0,-2 z m 4,0 2,0 0,2 -2,0 0,-2 z m 3,0 1,0 1,0 1,0 0,2 -1,0 -1,0 -1,0 0,-2 z m -7,3 3,0 0,3 -3,0 0,-3 z m 4,0 2,0 0,3 -2,0 0,-3 z m 3,0 1,0 1,0 1,0 0,3 -1,0 -1,0 -1,0 0,-3 z m -7,4 3,0 0,3 -3,0 0,-3 z m 4,0 2,0 0,3 -2,0 0,-3 z m 3,0 1,0 1,0 1,0 0,3 -1,0 -1,0 -1,0 0,-3 z"
-       id="rect6699-7-6"
-       inkscape:connector-curvature="0" />
+       d="M 2 2 L 2 14 L 3 14 L 3 13 L 3 12 L 6 12 L 7 12 L 7 9 L 10 9 L 10 8 L 10 7 L 10 6 L 14 6 L 14 5 L 14 3 L 14 2 L 2 2 z M 3 3 L 6 3 L 6 5 L 3 5 L 3 3 z M 7 3 L 9 3 L 9 5 L 7 5 L 7 3 z M 10 3 L 13 3 L 13 5 L 10 5 L 10 3 z M 3 6 L 6 6 L 6 7 L 6 8 L 3 8 L 3 6 z M 7 6 L 9 6 L 9 7 L 9 8 L 7 8 L 7 7 L 7 6 z M 3 9 L 6 9 L 6 11 L 3 11 L 3 10 L 3 9 z "
+       transform="translate(421.71429,531.79074)"
+       id="rect6699-7-6" />
   </g>
 </svg>

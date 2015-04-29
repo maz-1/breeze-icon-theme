@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,9 +112,11 @@
              inkscape:label="Capa 1">
             <path
                style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-               d="M 4 2 L 2 3.5 L 4 5 L 4 4.25 L 4 4 L 5 4 L 7.5 4 L 7.5 12 L 7.5 13 L 8.5 13 L 12 13 L 12 12 L 8.5 12 L 8.5 3 L 8 3 L 7.5 3 L 5 3 L 4 3 L 4 2.75 L 4 2 z "
+               d="M 4,2 2,3.5 4,5 4,4.25 4,4 l 1,0 2.9999999,6.9e-6 0,8.0000001 0,1 L 8.5,13 l 3.5,0 0,-1 -3.0000002,7e-6 0,-9.0000001 L 8,3 7.5,3 5,3 4,3 4,2.75 z"
                transform="matrix(1.3333334,0,0,1.3333352,0.33333073,1030.6956)"
-               id="path4197-8-1" />
+               id="path4197-8-1"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccccccccccccccccccc" />
           </g>
         </g>
       </g>

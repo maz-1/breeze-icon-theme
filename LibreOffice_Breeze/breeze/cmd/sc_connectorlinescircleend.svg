@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_connectorlinescirclestart.svg"
+   sodipodi:docname="sc_connectorlinescircleend.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,9 +112,10 @@
              inkscape:label="Capa 1">
             <path
                style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-               d="m 17.000001,1049.3623 c 1.104499,0 1.999997,-0.8954 1.999997,-2 0,-1.1046 -0.895498,-2 -1.999997,-2 -0.874499,0 -1.603298,0.5515 -1.874997,1.3334 l -3.458396,0 0,-10.6667 0,-1.3333 -1.333298,0 -4.6666936,0 0,1.3333 4.6666936,0 0,12 0.666699,0 0.666599,0 3.458396,0 c 0.271699,0.7819 1.000498,1.3333 1.874997,1.3333 z m 0,-1.3333 c -0.368199,0 -0.666699,-0.2985 -0.666699,-0.6667 0,-0.3682 0.2985,-0.6666 0.666699,-0.6666 0.3681,0 0.666599,0.2984 0.666599,0.6666 0,0.3682 -0.298499,0.6667 -0.666599,0.6667 z"
+               d="m 17.000001,1049.3623 c 1.104499,0 1.999997,-0.8954 1.999997,-2 0,-1.1046 -0.895498,-2 -1.999997,-2 -0.874499,0 -1.603298,0.5515 -1.874997,1.3334 l -2.791673,-10e-5 0,-10.6666 0,-1.3334 -2.000021,10e-5 -4.6666936,0 0,1.3333 5.3333816,0 0,12 1.1e-5,0 0.666599,0 3.458396,0 c 0.271699,0.7819 1.000498,1.3333 1.874997,1.3333 z m 0,-1.3333 c -0.368199,0 -0.666699,-0.2985 -0.666699,-0.6667 0,-0.3682 0.2985,-0.6666 0.666699,-0.6666 0.3681,0 0.666599,0.2984 0.666599,0.6666 0,0.3682 -0.298499,0.6667 -0.666599,0.6667 z"
                id="path4197-8-1"
-               inkscape:connector-curvature="0" />
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="sssccccccccccccssssss" />
           </g>
         </g>
       </g>
