@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_defaultnumbering.svg">
   <defs
@@ -33,10 +33,10 @@
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
@@ -108,8 +108,13 @@
      transform="translate(1,-1029.3622)">
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 5 4 L 5 5 L 6 5 L 6 7 L 5 7 L 5 8 L 8 8 L 8 7 L 7 7 L 7 5 L 8 5 L 8 4 L 5 4 z M 11 4 L 11 5 L 20 5 L 20 4 L 11 4 z M 11 6 L 11 7 L 17 7 L 17 6 L 11 6 z M 4 10 L 4 11 L 5 11 L 5 13 L 4 13 L 4 14 L 9 14 L 9 13 L 8 13 L 8 11 L 9 11 L 9 10 L 4 10 z M 11 10 L 11 11 L 20 11 L 20 10 L 11 10 z M 6 11 L 7 11 L 7 13 L 6 13 L 6 11 z M 11 12 L 11 13 L 13 13 L 13 12 L 11 12 z M 11 16 L 11 17 L 20 17 L 20 16 L 11 16 z M 11 18 L 11 19 L 17 19 L 17 18 L 11 18 z M 18 19 L 18 20 L 20 20 L 20 19 L 18 19 z "
+       d="M 11 4 L 11 5 L 20 5 L 20 4 L 11 4 z M 11 6 L 11 7 L 17 7 L 17 6 L 11 6 z M 11 10 L 11 11 L 20 11 L 20 10 L 11 10 z M 11 12 L 11 13 L 13 13 L 13 12 L 11 12 z M 11 16 L 11 17 L 20 17 L 20 16 L 11 16 z M 11 18 L 11 19 L 17 19 L 17 18 L 11 18 z M 18 19 L 18 20 L 20 20 L 20 19 L 18 19 z "
        transform="translate(-1,1029.3622)"
        id="path4174" />
+    <path
+       style="color:#000000;fill:#1d99f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 5 4 L 5 5 L 6 5 L 6 7 L 5 7 L 5 8 L 8 8 L 8 7 L 7 7 L 7 5 L 8 5 L 8 4 L 5 4 z M 4 10 L 4 11 L 5 11 L 5 13 L 4 13 L 4 14 L 9 14 L 9 13 L 8 13 L 8 11 L 9 11 L 9 10 L 4 10 z M 6 11 L 7 11 L 7 13 L 6 13 L 6 11 z "
+       transform="translate(-1,1029.3622)"
+       id="rect2994" />
   </g>
 </svg>
