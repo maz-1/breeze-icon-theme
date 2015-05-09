@@ -13,9 +13,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
-   sodipodi:docname="documentsizeC5_24x24.svg">
+   sodipodi:docname="documentsizeB4_24x24.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.15656"
-     inkscape:cx="11.193304"
+     inkscape:cx="9.961021"
      inkscape:cy="10.215851"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,8 +34,8 @@
      inkscape:showpageshadow="false"
      units="px"
      inkscape:window-width="1121"
-     inkscape:window-height="1042"
-     inkscape:window-x="795"
+     inkscape:window-height="1017"
+     inkscape:window-x="791"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
@@ -91,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2420,8 +2420,8 @@
        x="-14.646724"
        y="1047.3109" />
     <path
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 5.5,1037.3622 0,7 1,0 2,0 c 1.104569,0 2,-0.8954 2,-2 0,-0.8733 -0.563477,-1.6023 -1.34375,-1.875 0.215649,-0.3192 0.34375,-0.7108 0.34375,-1.125 0,-1.1046 -0.895431,-2 -2,-2 l -1,0 -1,0 z m 1,1 1,0 c 0.552285,0 1,0.4477 1,1 0,0.5523 -0.447715,1 -1,1 l -1,0 0,-2 z m 0,3 2,0 c 0.552285,0 1,0.4477 1,1 0,0.5523 -0.447715,1 -1,1 l -2,0 0,-2 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       d="m 5,1037.3622 0,7 1,0 2,0 c 1.104569,0 2,-0.8954 2,-2 0,-0.8733 -0.563477,-1.6023 -1.34375,-1.875 C 8.871899,1040.168 9,1039.7764 9,1039.3622 c 0,-1.1046 -0.895431,-2 -2,-2 l -1,0 -1,0 z m 1,1 1,0 c 0.552285,0 1,0.4477 1,1 0,0.5523 -0.447715,1 -1,1 l -1,0 0,-2 z m 0,3 2,0 c 0.552285,0 1,0.4477 1,1 0,0.5523 -0.447715,1 -1,1 l -2,0 0,-2 z"
        id="rect4245"
        inkscape:connector-curvature="0" />
     <rect
@@ -2605,8 +2605,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path4000"
-       style="font-size:9.6020956px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Oxygen;-inkscape-font-specification:Oxygen"
-       d="m 16.5,1042.3622 -1,0 0,2 -1,0 0,-2 -3,0 0,-0.7611 3,-4.2389 1,0 0,4 1,0 0,1 m -2,-3.523 -1.702866,2.523 1.702866,0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.6020956px;line-height:125%;font-family:Oxygen;-inkscape-font-specification:Oxygen;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 17,1042.3622 -1,0 0,2 -1,0 0,-2 -3,0 0,-0.7611 3,-4.2389 1,0 0,4 1,0 0,1 m -2,-3.523 -1.702866,2.523 1.702866,0"
        sodipodi:nodetypes="ccccccccccccccc" />
   </g>
 </svg>

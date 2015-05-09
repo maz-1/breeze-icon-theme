@@ -13,7 +13,7 @@
    height="16"
    id="svg3049"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sc_shadowcursor.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="48.822612"
-     inkscape:cx="6.4815357"
+     inkscape:cx="6.6658765"
      inkscape:cy="9.4902206"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-3"
@@ -38,8 +38,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1407"
-     inkscape:window-height="1053"
-     inkscape:window-x="509"
+     inkscape:window-height="1017"
+     inkscape:window-x="505"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,8 +88,8 @@
        inkscape:label="Capa 1">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#b3b3b3;fill-rule:evenodd;stroke:none;fill-opacity:1"
-         d="m 427.46429,533.79074 c -0.3927,0 -0.75,0.35729 -0.75,0.74999 0,0.3927 0.3573,0.75 0.75,0.75 0.3927,0 0.74999,-0.3573 0.74999,-0.75 0,-0.39269 -0.3573,-0.74999 -0.74999,-0.74999 z m 0.74999,2.24999 0.005,9.74996 2.99501,-4 4.5,0 -7.4994,-5.74996 z"
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 428.46429,533.79074 c -0.3927,0 -0.75,0.35729 -0.75,0.74999 0,0.3927 0.3573,0.75 0.75,0.75 0.3927,0 0.74999,-0.3573 0.74999,-0.75 0,-0.39269 -0.3573,-0.74999 -0.74999,-0.74999 z m 0.74999,2.24999 0.005,9.74996 2.99501,-4 4.5,0 -7.4994,-5.74996 z"
          id="path4185-8"
          sodipodi:nodetypes="ssssscccccc" />
       <path

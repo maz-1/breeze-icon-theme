@@ -13,28 +13,13 @@
    height="16"
    id="svg3049"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_freezepanes.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sc_splitwindow.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
   <defs
-     id="defs3051">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       id="perspective4146" />
-    <inkscape:perspective
-       id="perspective4146-5"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 12 : 1"
-       sodipodi:type="inkscape:persp3d" />
-  </defs>
+     id="defs3051" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -42,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.411306"
-     inkscape:cx="15.526688"
-     inkscape:cy="11.205962"
+     inkscape:zoom="32"
+     inkscape:cx="5.7394804"
+     inkscape:cy="4.2127069"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -52,32 +37,33 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1407"
-     inkscape:window-height="1053"
-     inkscape:window-x="509"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4085" />
     <sodipodi:guide
-       position="2,15"
+       position="2.0000044,14.00003"
        orientation="12,0"
        id="guide4075" />
     <sodipodi:guide
-       position="17,2"
+       position="2.0000044,2.0000296"
        orientation="0,12"
        id="guide4077" />
     <sodipodi:guide
-       position="14,13"
+       position="14.000004,2.0000296"
        orientation="-12,0"
        id="guide4079" />
     <sodipodi:guide
-       position="0,14"
+       position="14.000004,14.00003"
        orientation="0,-12"
        id="guide4081" />
   </sodipodi:namedview>
@@ -99,38 +85,9 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <path
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 6 6 L 6 7 L 6 9 L 6 14 L 7 14 L 14 14 L 14 13 L 14 9 L 14 7 L 13 7 L 13 9 L 10 9 L 10 7 L 9 7 L 9 9 L 7 9 L 7 7 L 7 6 L 6 6 z M 2 7 L 2 9 L 3 9 L 3 7 L 2 7 z M 7 10 L 9 10 L 9 13 L 7 13 L 7 10 z M 10 10 L 13 10 L 13 13 L 10 13 L 10 10 z "
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 2 2 L 2 5 L 2 7 L 2 8 L 2 10 L 2 11 L 2 13 L 2 14 L 14 14 L 14 13 L 14 11 L 14 10 L 14 8 L 14 7 L 14 5 L 14 2 L 2 2 z M 5 5 L 6 5 L 7 5 L 8 5 L 8 7 L 7 7 L 6 7 L 5 7 L 5 5 z M 9 5 L 13 5 L 13 7 L 9 7 L 9 5 z M 5 8 L 6 8 L 7 8 L 8 8 L 8 10 L 7 10 L 6 10 L 5 10 L 5 8 z M 9 8 L 13 8 L 13 10 L 9 10 L 9 8 z M 5 11 L 6 11 L 7 11 L 8 11 L 8 13 L 7 13 L 6 13 L 5 13 L 5 11 z M 9 11 L 13 11 L 13 13 L 9 13 L 9 11 z "
        transform="translate(421.71429,531.79074)"
-       id="rect6826-6" />
-    <g
-       transform="translate(-38.260002,-6.3485488)"
-       id="layer1-0"
-       inkscape:label="Capa 1" />
-    <path
-       style="fill:#2ecc71;fill-opacity:1;stroke:none"
-       d="M 2 2 L 2 3 L 2 4.28125 L 2 6 L 2 7 L 2 8.28125 L 2 9 L 2 10 L 2 11 L 2 12.28125 L 2 13 L 2 14 L 3 14 L 3 13 L 3 12.71875 L 4.71875 11 L 5.71875 10 L 6 9.71875 L 6 10 L 6 12.28125 L 5.28125 13 L 4.28125 14 L 5.71875 14 L 6 13.71875 L 6 14 L 7 14 L 7 13 L 7 12.71875 L 7 11.28125 L 7 10 L 7 9 L 7 8.71875 L 7 7.28125 L 7 6 L 6 6 L 6 8.28125 L 5.28125 9 L 4.28125 10 L 3.28125 11 L 3 11.28125 L 3 11 L 3 10 L 3 9 L 3 8.71875 L 4.71875 7 L 5.71875 6 L 6 5.71875 L 6 4.28125 L 4.28125 6 L 3.28125 7 L 3 7.28125 L 3 7 L 3 6 L 3 4.71875 L 4.71875 3 L 5.71875 2 L 4.28125 2 L 3.28125 3 L 3 3.28125 L 3 3 L 3 2 L 2 2 z M 6 2 L 6 3 L 7 3 L 7 2 L 6 2 z "
-       transform="translate(421.71429,531.79074)"
-       id="rect4197-9-0-0" />
-    <path
-       style="fill:#2ecc71;fill-opacity:1;stroke:none"
-       d="M 3 2 L 3 3 L 4 3 L 4 3.71875 L 4.71875 3 L 6 3 L 7.28125 3 L 7 3.28125 L 6 4.28125 L 4.28125 6 L 5.71875 6 L 6 5.71875 L 7 4.71875 L 8 3.71875 L 8.71875 3 L 11 3 L 11.28125 3 L 11 3.28125 L 10 4.28125 L 8.28125 6 L 8 6 L 7 6 L 6 6 L 6 7 L 7 7 L 8 7 L 8.71875 7 L 10 7 L 11 7 L 12 7 L 12.71875 7 L 14 7 L 14 6 L 13.71875 6 L 14 5.71875 L 14 4.28125 L 12.28125 6 L 12 6 L 11 6 L 10 6 L 9.71875 6 L 10 5.71875 L 11 4.71875 L 12 3.71875 L 12.71875 3 L 14 3 L 14 2 L 13.71875 2 L 12.28125 2 L 12 2 L 11 2 L 9.71875 2 L 8.28125 2 L 8 2 L 6 2 L 4 2 L 3 2 z "
-       transform="translate(421.71429,531.79074)"
-       id="rect4197-9-0" />
-    <rect
-       style="opacity:0.98999999000000005;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3076"
-       width="8"
-       height="1"
-       x="6"
-       y="6"
-       transform="translate(421.71429,531.79074)" />
-    <rect
-       style="opacity:0.98999999;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3082"
-       width="1"
-       height="7"
-       x="427.71429"
-       y="538.79071" />
+       id="rect3000" />
   </g>
 </svg>

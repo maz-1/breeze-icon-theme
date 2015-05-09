@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_flowchartshapes.flowchart-sort.svg">
   <defs
@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.674634"
-     inkscape:cx="7.8818137"
-     inkscape:cy="10.148598"
+     inkscape:zoom="49.349268"
+     inkscape:cx="14.495357"
+     inkscape:cy="7.1451947"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
@@ -109,8 +109,8 @@
      transform="translate(1,-1029.3622)">
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992377;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 11,1033.3622 -0.34375,0.3438 -7.15625,7.1562 15,0 -7.15625,-7.1562 L 11,1033.3622 z m -7.5,8.5 7.15625,7.1563 0.34375,0.3437 0.34375,-0.3437 7.15625,-7.1563 -15,0 z"
-       id="rect3954"
-       inkscape:connector-curvature="0" />
+       d="M 12 4 L 11.65625 4.34375 L 5 11 L 19 11 L 12.34375 4.34375 L 12 4 z M 5 13 L 11.65625 19.65625 L 12 20 L 12.34375 19.65625 L 19 13 L 5 13 z "
+       transform="translate(-1,1029.3622)"
+       id="rect3954" />
   </g>
 </svg>

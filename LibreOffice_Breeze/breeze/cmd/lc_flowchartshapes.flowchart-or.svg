@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_flowchartshapes.flowchart-or.svg">
   <defs
@@ -25,19 +25,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.674634"
-     inkscape:cx="7.8818137"
-     inkscape:cy="15.011892"
+     inkscape:zoom="34.895202"
+     inkscape:cx="13.716897"
+     inkscape:cy="11.538246"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1269"
-     inkscape:window-height="1053"
-     inkscape:window-x="56"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -108,9 +108,10 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <path
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 11.1875 4.03125 C 7.3149583 4.424528 4.2701464 7.5829535 4.03125 11.5 L 11.5 11.5 L 11.5 4.03125 C 11.395592 4.0377717 11.290784 4.0207609 11.1875 4.03125 z M 12.5 4.03125 L 12.5 11.5 L 19.96875 11.5 C 19.717509 7.4862372 16.514901 4.2820342 12.5 4.03125 z M 4.03125 12.5 C 4.2824909 16.513763 7.4850988 19.717966 11.5 19.96875 L 11.5 12.5 L 4.03125 12.5 z M 12.5 12.5 L 12.5 19.96875 C 16.514901 19.717966 19.717509 16.513763 19.96875 12.5 L 12.5 12.5 z "
-       transform="translate(-1,1029.3622)"
-       id="path2997" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;marker:none;enable-background:accumulate"
+       d="m 10,1033.3622 c -3.6551821,0.4586 -6.5462439,3.3485 -7,7 l 7,0 z m 2,0 0,7 7,0 c -0.459128,-3.6423 -3.350645,-6.5418 -7,-7 z m -9,9 c 0.4591281,3.6424 3.3506448,6.5418 7,7 l 0,-7 z m 9,0 0,7 c 3.649355,-0.4582 6.540872,-3.3576 7,-7 z"
+       id="path2997"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccc" />
   </g>
 </svg>

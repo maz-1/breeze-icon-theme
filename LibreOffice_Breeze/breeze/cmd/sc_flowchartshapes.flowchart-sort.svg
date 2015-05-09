@@ -13,7 +13,7 @@
    height="16"
    id="svg3049"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sc_flowchartshapes.flowchart-sort.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="34.5228"
-     inkscape:cx="4.9976101"
+     inkscape:cx="5.2583074"
      inkscape:cy="6.6599263"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-8"
@@ -38,8 +38,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1478"
-     inkscape:window-height="1053"
-     inkscape:window-x="438"
+     inkscape:window-height="1017"
+     inkscape:window-x="434"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,14 +104,14 @@
         </g>
         <path
            style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-           d="M 3.0000003,1040.6955 11,1033.3622 l 8.000005,7.3333 z"
-           id="path5201"
-           inkscape:connector-curvature="0" />
+           d="M 8 2 L 2.5449219 7 L 13.455078 7 L 8 2 z "
+           transform="matrix(1.3333333,0,0,1.3333352,0.33333333,1030.6956)"
+           id="path5201" />
         <path
            style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-           d="m 19.000005,1042.0289 -7.999999,7.3333 -8.0000064,-7.3333 z"
-           id="path5201-4"
-           inkscape:connector-curvature="0" />
+           d="M 2.5449219 9 L 8 14 L 13.455078 9 L 2.5449219 9 z "
+           transform="matrix(1.3333333,0,0,1.3333352,0.33333333,1030.6956)"
+           id="path5201-4" />
       </g>
     </g>
   </g>

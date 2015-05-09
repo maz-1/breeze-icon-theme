@@ -13,9 +13,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
-   sodipodi:docname="documentsizeB5_24x24.svg">
+   sodipodi:docname="documentsizeC5_24x24.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="25.15656"
-     inkscape:cx="11.193304"
-     inkscape:cy="10.215851"
+     inkscape:zoom="35.576748"
+     inkscape:cx="11.030372"
+     inkscape:cy="10.774757"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
      inkscape:window-width="1121"
-     inkscape:window-height="1042"
-     inkscape:window-x="795"
+     inkscape:window-height="1017"
+     inkscape:window-x="791"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
@@ -91,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1707,12 +1707,6 @@
        height="10.999983"
        x="-14.646724"
        y="1061.3109" />
-    <path
-       style="font-size:9.30875778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Oxygen;-inkscape-font-specification:Oxygen"
-       d="m 12.28125,1037.3622 -0.09375,3.6875 1.03125,0.4375 c 0.220318,-0.3143 0.550199,-0.5312 0.96875,-0.5312 0.675083,0 1.21875,0.5261 1.21875,1.1875 0,0.6613 -0.543667,1.2187 -1.21875,1.2187 -0.682371,0.02 -1.284722,-0.3191 -1.75,-0.5625 L 12,1043.7372 c 0.463901,0.4209 1.072626,0.625 1.84375,0.625 0.768045,0 1.398278,-0.2072 1.84375,-0.625 0.448537,-0.4209 0.656245,-0.99 0.65625,-1.6875 -5e-6,-0.2949 -0.03591,-0.5605 -0.125,-0.8125 -0.0891,-0.255 -0.234211,-0.4657 -0.40625,-0.6562 -0.168975,-0.1905 -0.385901,-0.3614 -0.65625,-0.4688 -0.267285,-0.1109 -0.56524,-0.1562 -0.90625,-0.1562 -0.405532,0 -0.777843,0.1225 -1.125,0.3437 0.01535,-0.5529 0.03178,-1.1372 0.0625,-2.0312 l 2.78125,0 0.09375,-0.9063 z"
-       id="path4091"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccsscccscccccsccccc" />
     <rect
        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        id="rect4035-4"
@@ -2252,5 +2246,11 @@
        style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 8.5,1037.3622 c -1.9329966,0 -3.5,1.567 -3.5,3.5 0,1.933 1.5670034,3.5 3.5,3.5 0.756948,0 1.458668,-0.2478 2.03125,-0.6562 l -0.6875,-0.75 c -0.387715,0.2471 -0.8498799,0.4062 -1.34375,0.4062 -1.3807119,0 -2.5,-1.1193 -2.5,-2.5 0,-1.3807 1.1192881,-2.5 2.5,-2.5 0.4938701,0 0.956035,0.1591 1.34375,0.4063 l 0.6875,-0.75 C 9.958668,1037.61 9.256948,1037.3622 8.5,1037.3622 z"
        id="path4612" />
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 12,1037.3622 0,1 0,2 0,0.5 2.25,0 c 0.690356,0 1.25,0.5596 1.25,1.25 0,0.6904 -0.559644,1.25 -1.25,1.25 -0.690356,0 -1.25,-0.5596 -1.25,-1.25 l -1,0 c 0,1.2426 1.007359,2.25 2.25,2.25 1.242641,0 2.25,-1.0074 2.25,-2.25 0,-1.2426 -1.007359,-2.25 -2.25,-2.25 l -1.25,0 0,-1.5 3.25,0 0,-1 z"
+       id="rect4230"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsssccsssccccc" />
   </g>
 </svg>

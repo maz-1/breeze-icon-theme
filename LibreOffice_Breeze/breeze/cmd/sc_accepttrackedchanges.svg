@@ -13,7 +13,7 @@
    height="16"
    id="svg3049"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sc_accepttrackedchanges.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
@@ -27,25 +27,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="3.6993515"
-     inkscape:cy="4.0919524"
+     inkscape:zoom="22.627417"
+     inkscape:cx="9.3778404"
+     inkscape:cy="4.0572008"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-6"
+     inkscape:current-layer="layer1-0"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4085" />
@@ -88,25 +89,30 @@
        id="layer1-0"
        inkscape:label="Capa 1">
       <g
-         transform="translate(6.2937501e-7,-2.041003e-4)"
-         id="layer1-6"
-         inkscape:label="Capa 1">
-        <path
-           style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="M 8 2 C 4.6862929 2 2 4.6862996 2 8 C 2 11.3137 4.6862929 14 8 14 C 11.313707 14 14 11.3137 14 8 C 14 4.6862996 11.313707 2 8 2 z M 8 3 C 10.761424 3 13 5.2385762 13 8 C 13 10.761424 10.761424 13 8 13 C 5.2385763 13 3 10.761424 3 8 C 3 5.2385762 5.2385763 3 8 3 z "
-           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
-           id="path3014" />
-        <path
-           sodipodi:type="arc"
-           style="color:#000000;fill:#da4453;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="path3019"
-           sodipodi:cx="8"
-           sodipodi:cy="8"
-           sodipodi:rx="2"
-           sodipodi:ry="2"
-           d="M 10,8 A 2,2 0 1 1 6,8 2,2 0 1 1 10,8 z"
-           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)" />
+         id="g4160"
+         transform="matrix(0.97906903,0,0,0.94280909,-0.40849994,58.407195)">
+        <rect
+           transform="matrix(0.7071059,-0.70710766,0.7071059,0.70710766,0,0)"
+           y="746.60297"
+           x="-732.49432"
+           height="1.333335"
+           width="10.666679"
+           id="rect4152"
+           style="fill:#2ecc71;fill-opacity:1;stroke:none;stroke-opacity:1" />
+        <rect
+           transform="matrix(0.7071059,-0.70710766,0.7071059,0.70710766,0,0)"
+           y="741.26959"
+           x="-732.49432"
+           height="6.6666756"
+           width="1.3333349"
+           id="rect4150"
+           style="fill:#2ecc71;fill-opacity:1;stroke:none;stroke-opacity:1" />
       </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3014"
+         d="m 11,1033.3622 c -4.4182763,0 -8.0000001,3.5817 -8.0000001,8 0,4.4183 3.5817238,8 8.0000001,8 4.418276,0 8,-3.5817 8,-8 0,-4.4183 -3.581724,-8 -8,-8 z m 0,1.3333 c 3.681898,0 6.666666,2.9848 6.666666,6.6667 0,3.6819 -2.984768,6.6667 -6.666666,6.6667 -3.6818984,0 -6.6666668,-2.9848 -6.6666668,-6.6667 0,-3.6819 2.9847684,-6.6667 6.6666668,-6.6667 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
     </g>
   </g>
 </svg>

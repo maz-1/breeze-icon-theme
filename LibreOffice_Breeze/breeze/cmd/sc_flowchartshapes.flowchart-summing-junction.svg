@@ -13,8 +13,8 @@
    height="16"
    id="svg3049"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_flowchartshapes.flowchart-terminator.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sc_flowchartshapes.flowchart-summing-junction.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="34.5228"
-     inkscape:cx="4.9976101"
+     inkscape:cx="0.6236891"
      inkscape:cy="6.6599263"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-8-2"
@@ -38,8 +38,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1478"
-     inkscape:window-height="1053"
-     inkscape:window-x="438"
+     inkscape:window-height="1017"
+     inkscape:window-x="434"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -111,10 +111,10 @@
              id="layer1-8-2"
              inkscape:label="Capa 1">
             <path
-               style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-               d="M 8 2 C 6.7016914 2 5.5131048 2.4241017 4.53125 3.125 L 8.375 6.9375 L 11.875 3.4375 C 10.828331 2.5476872 9.4814233 2 8 2 z M 3.75 3.75 C 2.6642132 4.8357865 2 6.3431457 2 8 C 2 9.4814229 2.5476873 10.828331 3.4375 11.875 L 7.65625 7.65625 L 3.75 3.75 z M 12.5625 4.125 L 9.0625 7.625 L 12.875 11.46875 C 13.575899 10.486896 14 9.2983081 14 8 C 14 6.5185773 13.452313 5.1716693 12.5625 4.125 z M 8.34375 8.34375 L 4.125 12.5625 C 5.1716692 13.452313 6.5185769 14 8 14 C 9.6568548 14 11.164213 13.335786 12.25 12.25 L 8.34375 8.34375 z "
-               transform="matrix(1.3333334,0,0,1.3333352,0.33333073,1030.6956)"
-               id="path5346" />
+               inkscape:connector-curvature="0"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+               d="m 15.625647,1034.851 c -2.768248,-1.9781 -6.4853171,-1.9751 -9.2513312,0 l 4.6256572,4.6257 4.625674,-4.6257 z m 1.885618,1.8856 -4.625674,4.6257 4.625657,4.6257 c 1.97513,-2.766 1.978145,-6.4831 1.7e-5,-9.2514 z m -13.0225883,10e-5 c -1.9751305,2.766 -1.9781456,6.4831 5.34e-5,9.2513 l 4.6256035,-4.6257 -4.6256569,-4.6256 z m 6.5112753,6.5113 -4.6256037,4.6256 c 2.7681776,1.9782 6.4852457,1.9752 9.2512607,0 l -4.625657,-4.6256 z"
+               id="path4957" />
           </g>
         </g>
       </g>
