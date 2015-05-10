@@ -13,9 +13,9 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-vnd.oasis.opendocument.presentation-template.svg">
+   sodipodi:docname="sx03253.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="24.13002"
-     inkscape:cx="3.0498315"
+     inkscape:cx="-3.2079337"
      inkscape:cy="11.237267"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
      inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -81,14 +81,14 @@
     <g
        id="layer1-7"
        inkscape:label="Capa 1"
-       style="fill:#6c7a89;fill-opacity:1">
+       style="fill:#b3b3b3;fill-opacity:1">
       <path
          sodipodi:nodetypes="ccccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="rect3764"
          transform="translate(0,1036.3622)"
          d="m 2,2 0,9 4,0 0,2 -1,0 0,1 6,0 0,-1 -1,0 0,-2 4,0 0,-9 z m 1,1 10,0 0,7 -10,0 z m 4,1 0,5 3,-2.5 z m 0,7 2,0 0,2 -2,0 z"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#6c7a89;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;marker:none;enable-background:accumulate" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;marker:none;enable-background:accumulate" />
     </g>
   </g>
 </svg>

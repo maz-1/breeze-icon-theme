@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_alignverticalcenter.svg">
   <defs
@@ -25,24 +25,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="46.138717"
-     inkscape:cx="11.664367"
-     inkscape:cy="12.362056"
+     inkscape:zoom="23.069359"
+     inkscape:cx="7.0210818"
+     inkscape:cy="10.972065"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
      inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:object-nodes="true">
     <sodipodi:guide
        position="3,21"
        orientation="18,0"
@@ -97,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,8 +109,18 @@
      transform="translate(1,-1029.3622)">
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 11 4 L 11 5 L 11 6 L 9 6 L 12 10 L 15 6 L 13 6 L 13 5 L 13 4 L 11 4 z M 12 10 L 4 10 L 4 11 L 20 11 L 20 10 L 12 10 z M 4 13 L 4 14 L 5 14 L 12 14 L 19 14 L 20 14 L 20 13 L 19 13 L 5 13 L 4 13 z M 12 14 L 9 18 L 11 18 L 11 19 L 11 20 L 13 20 L 13 19 L 13 18 L 15 18 L 12 14 z "
+       d="M 4 10 L 4 11 L 20 11 L 20 10 L 17 10 L 12 10 L 7 10 L 4 10 z M 4 13 L 4 14 L 5 14 L 8 14 L 12 14 L 19 14 L 20 14 L 20 13 L 19 13 L 5 13 L 4 13 z "
        transform="translate(-1,1029.3622)"
        id="path4171" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 11 3 L 11 7 L 9 7 L 12 10 L 15 7 L 13 7 L 13 3 L 11 3 z "
+       transform="translate(-1,1029.3622)"
+       id="path4151" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10,1050.3622 0,-4 -2.0000005,0 3.0000005,-3 3,3 -2,0 0,4 -2,0 z"
+       id="path4151-4" />
   </g>
 </svg>

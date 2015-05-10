@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.48.4 r9939"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_underline.svg">
   <defs
@@ -29,6 +29,17 @@
          x="-6"
          y="1028.3619" />
     </clipPath>
+    <clipPath
+       id="clipPath4210"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="opacity:1;fill:#0000ff;fill-opacity:0.51376145;stroke:none;stroke-opacity:1"
+         id="rect4212"
+         width="34"
+         height="34"
+         x="-7"
+         y="1024.3622" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -37,24 +48,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.20194"
-     inkscape:cx="10.83694"
-     inkscape:cy="12.556121"
+     inkscape:zoom="34.226712"
+     inkscape:cx="11.237334"
+     inkscape:cy="9.5883108"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1868"
+     inkscape:window-height="1060"
+     inkscape:window-x="50"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4120"
@@ -123,8 +135,8 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="M 7 4 L 7 11 C 7 13.77 9.23 16 12 16 C 14.77 16 17 13.77 17 11 L 17 4 L 15 4 L 15 12 C 15 13.108 14.108 14 13 14 C 11.892 14 11 13.108 11 12 L 11 4 L 7 4 z M 5 19 L 5 20 L 19 20 L 19 19 L 5 19 z "
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="M 7 4 L 7 8 L 7 15 C 7 17.77 9.23 20 12 20 C 14.77 20 17 17.77 17 15 L 17 8 L 17 4 L 15 4 L 15 8 L 15 16 C 15 17.108 14.108 18 13 18 C 11.892 18 11 17.108 11 16 L 11 8 L 11 4 L 7 4 z M 5 23 L 5 24 L 19 24 L 19 23 L 5 23 z "
        transform="translate(-1,1029.3622)"
        id="rect4164" />
   </g>

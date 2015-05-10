@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_newdoc.svg">
   <defs
@@ -26,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.841998"
-     inkscape:cx="10.286899"
+     inkscape:cx="1.3212169"
      inkscape:cy="3.7942576"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -131,12 +131,12 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
        d="M 5 4 L 5 20 L 6 20 L 13 20 L 13 19 L 6 19 L 6 5 L 14 5 L 14 8 L 14 9 L 18 9 L 18 14 L 19 14 L 19 9.40625 L 19 8 L 15 4 L 14 4 L 6 4 L 5 4 z "
        transform="translate(-1,1029.3622)"
        id="rect4139" />
     <path
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 16 15 L 16 17 L 14 17 L 14 18 L 16 18 L 16 20 L 17 20 L 17 18 L 19 18 L 19 17 L 17 17 L 17 15 L 16 15 z "
        transform="translate(-1,1029.3622)"
        id="rect3768" />
