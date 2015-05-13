@@ -1,4 +1,7 @@
-# It builds icon packages ready to be copied to /usr/lib/libreoffice/share/config
+#
+# This Makefile builds icon packages ready to be copied to <INSTALLDIR>/share/config/
+# (e.g.: /usr/lib/libreoffice/share/config).
+#
 
 SRC_DIR=breeze
 LIGHT_DIR=breeze_light

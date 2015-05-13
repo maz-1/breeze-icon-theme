@@ -5,7 +5,7 @@ The Makefile builds the default theme and another one compatible with dark UIs i
 ## Create icon theme files
 To build both icon theme files, just run the following command from this directory:
 
-```make```
+`make`
 
 Once it finishes successfully, you should see the following zip files: 
 
