@@ -13,9 +13,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_polygon_unfilled.svg">
+   sodipodi:docname="lc_polygon_diagonal.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -25,6 +25,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 12 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4090-8"
+       inkscape:persp3d-origin="12 : 8 : 1"
+       inkscape:vp_z="24 : 12 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 12 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 12 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="24 : 12 : 1"
+       inkscape:persp3d-origin="12 : 8 : 1"
+       id="perspective4090-4" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -34,7 +48,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.15656"
-     inkscape:cx="14.480547"
+     inkscape:cx="8.4781365"
      inkscape:cy="15.114787"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -42,7 +56,7 @@
      inkscape:showpageshadow="false"
      units="px"
      inkscape:window-width="1195"
-     inkscape:window-height="1053"
+     inkscape:window-height="1017"
      inkscape:window-x="56"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -106,7 +120,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,15 +130,25 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <g
-       id="layer1-3"
+       id="layer1-0"
        inkscape:label="Capa 1"
-       transform="translate(0,1.738e-5)">
-      <path
-         id="rect4603"
-         transform="translate(-1,1029.3622)"
-         d="m 4,4 0,8 0,8 16,0 0,-8 -8,0 0,-8 -8,0 z"
-         style="opacity:0.98692812;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         inkscape:connector-curvature="0" />
+       transform="translate(0,-1.738e-5)">
+      <g
+         transform="translate(0,1.738e-5)"
+         inkscape:label="Capa 1"
+         id="layer1-2">
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98692812;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate"
+           d="m 4,4 0,8 0,8 16,0 0,-8 -8,0 0,-8 -8,0 z m 1,1 6,0 0,8 8,0 0,6 -8,0 -6,0 0,-14 z"
+           transform="translate(-1,1029.3622)"
+           id="rect4603-2" />
+      </g>
     </g>
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5 5 L 5 19 L 11 19 L 19 19 L 19 13 L 11 13 L 11 5 L 5 5 z "
+       transform="translate(-1,1029.3622)"
+       id="rect4200" />
   </g>
 </svg>
