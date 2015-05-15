@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_formattedfield.svg">
   <defs
@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="25.15656"
-     inkscape:cx="15.803585"
-     inkscape:cy="18.555682"
+     inkscape:zoom="35.576748"
+     inkscape:cx="12.961456"
+     inkscape:cy="12.35585"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
@@ -44,7 +44,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4120"
@@ -105,22 +106,24 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 5 4 L 5 18 L 4 18 L 4 19 L 5 19 L 5 20 L 6 20 L 6 19 L 18 19 L 18 20 L 19 20 L 19 19 L 20 19 L 20 18 L 19 18 L 19 4 L 18 4 L 18 18 L 17 18 L 7 18 L 6 18 L 6 4 L 5 4 z "
-       transform="translate(-1,1029.3622)"
-       id="rect4112" />
-    <path
        inkscape:connector-curvature="0"
        id="path3775"
-       style="font-size:13.49886227px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Oxygen;-inkscape-font-specification:Oxygen"
-       d="m 7.8022633,1042.6961 c 1.1722148,0.4909 1.8581122,0.6539 3.1977367,0.6661 1.092701,0.01 1.991527,-0.083 2.01141,-0.8211 -0.01817,-0.4044 -0.66144,-0.8021 -2.01141,-1.1789 -2.4204543,-0.601 -3.9887638,-1.4277 -3.9847761,-3.3127 -8e-7,-0.9086 0.3679025,-1.5826 1.1037108,-2.0219 0.7358047,-0.4436 1.7532477,-0.6654 3.0523313,-0.6654 0.679982,0 1.316835,0.063 1.910562,0.1873 0.593712,0.125 1.526694,0.4614 1.92759,0.6725 l -0.879097,1.9084 c -1.519212,-0.7438 -2.479659,-0.7647 -3.130321,-0.7682 -1.3699094,10e-5 -1.9990125,0.2868 -2.001921,0.7882 0.00657,0.7667 0.839248,0.9311 2.001921,1.2118 2.85219,0.9288 4.001931,1.2347 4,3.0607 -8e-6,0.9734 -0.352688,1.7076 -1.058039,2.2029 -0.700292,0.4909 -1.734228,0.7364 -2.941961,0.7364 -0.90327,0 -1.6276589,-0.077 -2.3330157,-0.2326 -0.7002873,-0.1593 -1.255948,-0.3466 -1.666984,-0.5619"
-       sodipodi:nodetypes="csccccsccccccccscc" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.49886227px;line-height:125%;font-family:Oxygen;-inkscape-font-specification:Oxygen;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 6.6239743,1045.8945 c 1.6099,0.6873 3.0859566,0.8593 4.9257737,0.8764 1.500698,0.013 3.690811,-0.1443 3.746226,-2.1334 0.03126,-1.4095 -1.920308,-1.9942 -3.774334,-2.5218 -3.3242107,-0.8415 -5.5062088,-1.3523 -5.5007322,-3.9914 -1e-6,-1.272 0.5052711,-2.2156 1.5158179,-2.8305 1.0105417,-0.6211 2.4078808,-0.9316 4.1920213,-0.9316 0.933875,0 1.808519,0.088 2.623933,0.2622 0.815394,0.175 2.096736,0.646 2.64732,0.9415 l -0.775134,1.5433 c -2.08646,-1.0413 -3.893942,-1.0946 -4.78755,-1.0995 -1.8814108,2e-4 -3.841632,0.514 -3.7613017,1.9187 -0.047196,1.5792 2.3050471,2.2592 3.9018427,2.6522 3.91715,1.3003 5.299427,1.841 5.3811,3.9758 0.02637,3.1232 -3.111973,3.7871 -5.465425,3.8058 -1.240535,0 -2.2353991,-0.1079 -3.2041242,-0.3256 C 7.327645,1047.8136 6.5645099,1047.5513 6,1047.25"
+       sodipodi:nodetypes="csccccscccccccccc" />
     <rect
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;marker:none;enable-background:accumulate"
        id="rect3772"
-       width="1"
-       height="12"
-       x="10.5"
-       y="1034.3622" />
+       width="1.0000002"
+       height="18.000025"
+       x="10"
+       y="1032.3622" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;marker:none;enable-background:accumulate"
+       id="rect3772-4"
+       width="1.0000002"
+       height="18.000025"
+       x="12"
+       y="1032.3622" />
   </g>
 </svg>
