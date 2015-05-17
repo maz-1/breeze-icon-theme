@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="hlplvert.svg"
+   sodipodi:docname="hlppoint.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="39.774755"
-     inkscape:cx="-1.7088679"
+     inkscape:cx="-1.9351421"
      inkscape:cy="8.3609739"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-6"
@@ -92,23 +92,16 @@
          transform="translate(6.2937501e-7,-2.041003e-4)"
          id="layer1-6"
          inkscape:label="Capa 1">
-        <rect
+        <path
            style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4143"
-           width="1.3333333"
-           height="8.0000381"
-           x="9.666666"
-           y="1037.3624" />
+           d="M 7 3 L 7 8 L 8 8 L 8 3 L 7 3 z M 8 8 L 8 9 L 13 9 L 13 8 L 8 8 z M 8 9 L 7 9 L 7 14 L 8 14 L 8 9 z M 7 9 L 7 8 L 2 8 L 2 9 L 7 9 z "
+           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
+           id="rect4141" />
         <path
            style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none"
-           d="m 8.3333333,1033.3623 0,4 3.9999997,0 0,-4 z m 1.3333333,1.3334 1.3333324,0 0,1.3333 -1.3333324,0 z"
+           d="m 6.0000002,7.0000153 0,2.9999997 3,0 0,-2.9999997 z m 1,0.9999999 1,0 0,1 -1,0 z"
+           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
            id="rect4170"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none"
-           d="m 8.3333324,1045.3624 0,4 3.9999996,0 0,-4 z m 1.333333,1.3334 1.3333336,0 0,1.3333 -1.3333336,0 z"
-           id="rect4170-5"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccc" />
       </g>
