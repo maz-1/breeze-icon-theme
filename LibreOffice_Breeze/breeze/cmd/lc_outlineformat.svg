@@ -13,7 +13,7 @@
    height="24"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="lc_outlineformat.svg">
   <defs
      id="defs3762" />
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="24.451299"
-     inkscape:cx="18.222143"
-     inkscape:cy="4.2953367"
+     inkscape:cx="12.0875"
+     inkscape:cy="14.819046"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,10 +34,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
@@ -88,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,24 +98,15 @@
      id="layer1"
      transform="translate(-550.28571,-606.64789)">
     <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       style="fill:#1d99f3;fill-opacity:1;stroke:none"
        d="m 569.28572,618.64791 -1,1 -5,5 0,1 0,1 2,0 0,-0.0312 1,-0.96875 4,-4 1,-1 -2,-2 z m -0.28125,1.6875 0.5625,0.59375 -4.96875,5 -0.59375,-0.59375 5,-5 z"
        id="rect4139-4"
        inkscape:connector-curvature="0" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Oxygen;-inkscape-font-specification:Oxygen"
-       d="M 9.21875 5 L 4 19 L 5.6875 19 L 7.34375 14.5625 L 12.90625 14.5625 L 13.0625 15 L 14.71875 15 L 11.21875 5 L 9.21875 5 z M 10.21875 6.625 L 12.375 13.28125 L 7.875 13.28125 L 10.21875 6.625 z "
-       transform="translate(550.28571,606.64789)"
-       id="path4149" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3042"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion3044"><rect
-           id="rect3046"
-           width="9.1201696"
-           height="12.678264"
-           x="15.295712"
-           y="11.894303" /></flowRegion><flowPara
-         id="flowPara3048"></flowPara></flowRoot>  </g>
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4149-2-4-2-1"
+       d="m 560.19587,611.64789 -3.31446,9.59375 -0.12304,0.40625 -1.47266,4 1.6582,0 1.625,-4.4375 c -0.004,-10e-4 7.11133,0.004 7.11133,0.004 l -3.30469,-9.5664 -0.21484,0 -1.75,0 z m 1.10546,1.9375 2.17969,6.34375 -4.39062,0 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Oxygen;-inkscape-font-specification:Oxygen;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" />
+  </g>
 </svg>
