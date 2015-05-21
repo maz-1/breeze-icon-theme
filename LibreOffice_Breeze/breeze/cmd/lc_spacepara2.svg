@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_spacepara2.svg">
   <defs
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.069359"
-     inkscape:cx="8.2390389"
+     inkscape:cx="1.7369077"
      inkscape:cy="12.70391"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,10 +34,10 @@
      units="px"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
      inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,8 +108,13 @@
      transform="translate(1,-1029.3622)">
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 4 4 L 4 5 L 13 5 L 13 4 L 4 4 z M 17 4 L 14 8 L 16 8 L 16 9 L 16 14 L 16 15 L 16 16 L 14 16 L 17 20 L 20 16 L 18 16 L 18 13 L 18 12 L 18 9 L 18 8 L 20 8 L 17 4 z M 4 6 L 4 7 L 12 7 L 12 6 L 4 6 z M 4 10 L 4 11 L 13 11 L 13 10 L 4 10 z M 4 12 L 4 13 L 8 13 L 8 12 L 4 12 z M 4 16 L 4 17 L 13 17 L 13 16 L 4 16 z M 4 18 L 4 19 L 10 19 L 10 18 L 4 18 z M 11 19 L 11 20 L 13 20 L 13 19 L 11 19 z "
+       d="M 4 4 L 4 5 L 13 5 L 13 4 L 4 4 z M 4 6 L 4 7 L 12 7 L 12 6 L 4 6 z M 4 10 L 4 11 L 13 11 L 13 10 L 4 10 z M 4 12 L 4 13 L 8 13 L 8 12 L 4 12 z M 4 16 L 4 17 L 13 17 L 13 16 L 4 16 z M 4 18 L 4 19 L 10 19 L 10 18 L 4 18 z M 11 19 L 11 20 L 13 20 L 13 19 L 11 19 z "
        transform="translate(-1,1029.3622)"
        id="path4172" />
+    <path
+       style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none"
+       d="M 17 4 L 14 8 L 16 8 L 16 9 L 16 14 L 16 15 L 16 16 L 14 16 L 17 20 L 20 16 L 18 16 L 18 13 L 18 12 L 18 9 L 18 8 L 20 8 L 17 4 z "
+       transform="translate(-1,1029.3622)"
+       id="path4172-4" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="spacing3.svg"
+   sodipodi:docname="sc_spacepara1.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="34.5228"
-     inkscape:cx="7.520459"
+     inkscape:cx="3.1755044"
      inkscape:cy="6.2952814"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -98,7 +98,7 @@
        transform="translate(421.71429,531.79074)"
        id="path5169-0-8" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1d99f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        d="m 434.21429,533.79074 -1.5,2 1,0 0,2 0,4 0,2 -1,0 1.5,2 1.5,-2 -1,0 0,-2 0,-4 0,-2 1,0 z"
        id="path5169-0-8-4"
        inkscape:connector-curvature="0"
