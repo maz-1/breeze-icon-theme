@@ -93,7 +93,7 @@ DialogSizes=16,22,32,48,64,128,256
 ########## Directories
 ########## ordered by category and alphabetically
 
-Directories=actions/categories,actions/kickoff-menu-tabs,actions/toolbar,actions/toolbar-small,apps/devices-small,apps/software,apps/software-medium,apps/toolbar,categories/start-menu,categories/start-menu-small,devices/sidebars,emblems/medium,mimetypes/file-types,mimetypes/file-types-small,places/user-folders,places/user-folders-small,status/panel,status/toolbar
+Directories=actions/categories,actions/kickoff-menu-tabs,actions/toolbar,actions/toolbar-small,apps/devices-small,apps/software,apps/software-medium,apps/toolbar,categories/start-menu,categories/start-menu-small,devices/sidebars,emblems/medium,mimetypes/file-types,mimetypes/file-types-small,places/toolbar,places/user-folders,places/user-folders-small,status/panel,status/toolbar
 
 ########## Actions
 ########## ordered by size
@@ -217,6 +217,12 @@ MaxSize=256
 Size=16
 Context=Places
 Type=Scalable
+Type=Fixed
+
+#22x22 - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. KMail trash icon - WRONG_ICON_USAGE_BY_APP - Monochrome
+[places/toolbar]
+Size=22
+Context=Places
 Type=Fixed
 
 #64x64 - Scalable - For folder icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color

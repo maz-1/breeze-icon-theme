@@ -93,7 +93,7 @@ DialogSizes=16,22,32,48,64,128,256
 ########## Directories
 ########## ordered by category and alphabetically
 
-Directories=actions/categories,actions/kickoff-menu-tabs,actions/toolbar,actions/toolbar-small,apps/actions,apps/categories,apps/devices,apps/devices-small,apps/emotes,apps/kickoff-menu-tabs,apps/preferences,apps/software,apps/software-medium,apps/system-power-actions,apps/toolbar,categories/kickoff-menu-tabs,categories/start-menu,categories/start-menu-small,devices/hardware,devices/kickoff-menu-tabs,devices/sidebars,emblems/medium,emblems/small,emotes/faces,emotes/food,emotes/objects,mimetypes/file-types,mimetypes/file-types-small,places/user-folders,places/user-folders-small,status/dialogs,status/im-status,status/toolbar,status/panel
+Directories=actions/categories,actions/kickoff-menu-tabs,actions/toolbar,actions/toolbar-small,apps/actions,apps/categories,apps/devices,apps/devices-small,apps/emotes,apps/kickoff-menu-tabs,apps/preferences,apps/software,apps/software-medium,apps/system-power-actions,apps/toolbar,categories/kickoff-menu-tabs,categories/start-menu,categories/start-menu-small,devices/hardware,devices/kickoff-menu-tabs,devices/sidebars,emblems/medium,emblems/small,emotes/faces,emotes/food,emotes/objects,mimetypes/file-types,mimetypes/file-types-small,places/toolbar,places/user-folders,places/user-folders-small,status/dialogs,status/im-status,status/toolbar,status/panel
 
 ########## Actions
 ########## ordered by size
@@ -200,12 +200,6 @@ Type=Fixed
 ########## Categories
 ########## ordered by size
 
-#16x16 - Fixed size - NOT_IN_USE - Monochrome
-[categories/start-menu-small]
-Size=16
-Context=Categories
-Type=Fixed
-
 #32x32 - Fixed size - For categories icons >!!!ONLY!!!< - Used in Kickoff (KDE 4.x.x) and Lancelot. Also used in MATE and Cinnamon (just FYI) - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 [categories/start-menu]
 Size=32
@@ -275,12 +269,6 @@ Size=22
 Context=Emotes
 Type=Fixed
 
-#22x22 - Fixed size - Emoticons - DO_NOT_USE_ANYWHERE_ELSE - Color
-[emotes/objects]
-Size=22
-Context=Emotes
-Type=Fixed
-
 #########
 
 ########## Mimetypes
@@ -308,6 +296,12 @@ MaxSize=256
 Size=16
 Context=Places
 Type=Scalable
+Type=Fixed
+
+#22x22 - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. KMail trash icon - WRONG_ICON_USAGE_BY_APP - Monochrome
+[places/toolbar]
+Size=22
+Context=Places
 Type=Fixed
 
 #64x64 - Scalable - For folder icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
