@@ -13,8 +13,8 @@
    height="24"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="lc_showslide.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lc_hideslide.svg">
   <defs
      id="defs3762" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.704737"
-     inkscape:cx="6.5796321"
+     inkscape:cx="8.6467295"
      inkscape:cy="9.6548076"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,10 +34,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
@@ -88,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,13 +98,13 @@
      id="layer1"
      transform="translate(-550.28571,-606.64789)">
     <path
-       style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        d="M 3 4 L 3 16 L 21 16 L 21 4 L 3 4 z M 4 5 L 20 5 L 20 15 L 4 15 L 4 5 z M 10 17 L 10 19 L 9 19 L 9 20 L 15 20 L 15 19 L 14 19 L 14 17 L 13 17 L 13 19 L 11 19 L 11 17 L 10 17 z "
        transform="translate(550.28571,606.64789)"
        id="path3357" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#bdc3c7;fill-rule:evenodd;stroke:none;fill-opacity:1"
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;fill-opacity:1"
        d="m 560.28571,613.64792 -1,1 2,2 -2,2 1,1 2,-2 2,2 1,-1 -2,-2 2,-2 -1,-1 -2,2 -2,-2 z"
        id="path4141" />
   </g>
