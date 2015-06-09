@@ -13,8 +13,8 @@
    height="16"
    id="svg3049"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_fontworkalignmentfloater.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sc_wraptext.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.5228"
-     inkscape:cx="7.4374024"
-     inkscape:cy="9.1202638"
+     inkscape:zoom="24.411306"
+     inkscape:cx="11.60641"
+     inkscape:cy="3.7932079"
      inkscape:document-units="px"
      inkscape:current-layer="g5674"
      showgrid="true"
@@ -38,8 +38,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1407"
-     inkscape:window-height="1053"
-     inkscape:window-x="509"
+     inkscape:window-height="1017"
+     inkscape:window-x="505"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,9 +92,14 @@
        transform="matrix(-1,0,0,1,859.42858,0)">
       <path
          style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         d="M 2 2 L 2 3 L 14 3 L 14 2 L 2 2 z M 2 4 L 2 5 L 9 5 L 9 4 L 2 4 z M 2 7 L 2 8 L 8 8 L 8 7 L 2 7 z M 9 7 L 9 8 L 10 8 L 10.5 8 C 11.885 8 13 9.115 13 10.5 C 13 11.31868 12.60449 12.04491 12 12.5 L 12 11 L 11 11 L 11 12.9375 L 11 13 L 11 13.9375 L 11 14 L 12 14 L 14 14 L 14 13 L 12.9375 13 C 13.59547 12.3681 14 11.49029 14 10.5 C 14 8.561 12.439 7 10.5 7 L 10 7 L 9 7 z M 2 9 L 2 10 L 6 10 L 6 9 L 2 9 z M 2 12 L 2 13 L 10 13 L 10 12 L 2 12 z "
+         d="M 2 2 L 2 3 L 14 3 L 14 2 L 2 2 z M 2 4 L 2 5 L 9 5 L 9 4 L 2 4 z M 2 7 L 2 8 L 8 8 L 8 7 L 2 7 z M 2 9 L 2 10 L 6 10 L 6 9 L 2 9 z M 2 12 L 2 13 L 10 13 L 10 12 L 2 12 z "
          transform="matrix(-1,0,0,1,437.71429,531.79074)"
          id="path4174" />
+      <path
+         style="fill:#1d99f3;fill-opacity:1;stroke:none"
+         d="m 428.71429,538.79074 0,1 -1,0 -0.5,0 c -1.385,0 -2.5,1.115 -2.5,2.5 0,0.81868 0.39551,1.54491 1,2 l 0,-1.5 1,0 0,1.9375 0,0.0625 0,0.9375 0,0.0625 -1,0 -2,0 0,-1 1.0625,0 c -0.65797,-0.6319 -1.0625,-1.50971 -1.0625,-2.5 0,-1.939 1.561,-3.5 3.5,-3.5 l 0.5,0 1,0 z"
+         id="path4174-3"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
