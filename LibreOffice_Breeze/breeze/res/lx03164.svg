@@ -13,11 +13,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 24 24"
    sodipodi:docname="lx03164.svg">
-  <title
-     id="title4152">I REALLY hate this icon</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="33.683996"
-     inkscape:cx="4.1789838"
+     inkscape:cx="-2.1148063"
      inkscape:cy="7.4787624"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -92,20 +90,20 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>I REALLY hate this icon</dc:title>
-        <dc:description>Migh as well use Tango... for crying out loud. This damn icon has to die, but no because obviously we're still using floppies therefore it is still relevant in 2014.</dc:description>
-        <dc:language>English</dc:language>
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:language></dc:language>
         <dc:rights>
           <cc:Agent>
-            <dc:title>CC-BY-SA</dc:title>
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:creator>
           <cc:Agent>
-            <dc:title>Uri Herrera</dc:title>
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>November 20th 2014</dc:date>
+        <dc:date></dc:date>
       </cc:Work>
     </rdf:RDF>
   </metadata>

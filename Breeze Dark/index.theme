@@ -93,7 +93,7 @@ DialogSizes=16,22,32,48,64,128,256
 ########## Directories
 ########## ordered by category and alphabetically
 
-Directories=actions/categories,actions/kickoff-menu-tabs,actions/toolbar,actions/toolbar-small,apps/devices-small,apps/software,apps/software-medium,apps/toolbar,categories/start-menu,categories/start-menu-small,devices/sidebars,emblems/medium,mimetypes/file-types,mimetypes/file-types-small,places/toolbar,places/user-folders,places/user-folders-small,status/panel,status/toolbar
+Directories=actions/categories,actions/kickoff-menu-tabs,actions/toolbar,actions/toolbar-small,apps/devices-small,apps/software,apps/software-medium,apps/software-small,apps/toolbar,categories/start-menu,categories/start-menu-small,devices/sidebars,emblems/medium,mimetypes/file-types,mimetypes/file-types-small,places/toolbar,places/user-folders,places/user-folders-small,status/panel,status/toolbar
 
 ########## Actions
 ########## ordered by size
@@ -131,6 +131,12 @@ Type=Fixed
 [apps/devices-small]
 Size=16
 Context=Devices
+Type=Fixed
+
+#16x16 - Fixed size - Application icon(s) for Dolphin sidebar - OPTIONAL + DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[apps/software-small]
+Size=16
+Context=Applications
 Type=Fixed
 
 #22x22 - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. Dolphin Open Terminal/About Dolphin/About KDE buttons - WRONG_ICON_USAGE_BY_APP - Monochrome

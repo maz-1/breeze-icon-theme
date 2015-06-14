@@ -13,11 +13,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 24 24"
-   sodipodi:docname="lx03164.svg">
-  <title
-     id="title4152">I REALLY hate this icon</title>
+   sodipodi:docname="lx03167.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.818182"
-     inkscape:cx="0.1395178"
+     inkscape:cx="-8.7612455"
      inkscape:cy="5.8811958"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -92,20 +90,20 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>I REALLY hate this icon</dc:title>
-        <dc:description>Migh as well use Tango... for crying out loud. This damn icon has to die, but no because obviously we're still using floppies therefore it is still relevant in 2014.</dc:description>
-        <dc:language>English</dc:language>
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:language></dc:language>
         <dc:rights>
           <cc:Agent>
-            <dc:title>CC-BY-SA</dc:title>
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:creator>
           <cc:Agent>
-            <dc:title>Uri Herrera</dc:title>
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>November 20th 2014</dc:date>
+        <dc:date></dc:date>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -127,7 +125,7 @@
        sodipodi:cy="12.000017"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       d="m 9,12.000017 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       d="m 9,12.000017 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"
        transform="translate(-1,1029.3622)" />
     <path
        sodipodi:type="arc"
@@ -137,7 +135,7 @@
        sodipodi:cy="9.0000172"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       d="m 15,9.0000172 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       d="m 15,9.0000172 a 1,1 0 0 1 -1,0.9999998 1,1 0 0 1 -1,-0.9999998 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"
        transform="translate(-1,1029.3622)" />
     <path
        sodipodi:type="arc"
@@ -147,7 +145,7 @@
        sodipodi:cy="15.000017"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       d="m 15,15.000017 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       d="m 15,15.000017 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"
        transform="translate(-1,1029.3622)" />
     <path
        sodipodi:type="arc"
@@ -157,7 +155,7 @@
        sodipodi:cy="13.500017"
        sodipodi:rx="0.5"
        sodipodi:ry="0.5"
-       d="m 12,13.500017 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
+       d="m 12,13.500017 a 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 0.5,0.5 0 0 1 0.5,0.5 z"
        transform="translate(-1.5,1029.3622)" />
     <path
        sodipodi:type="arc"
@@ -167,7 +165,7 @@
        sodipodi:cy="10.500017"
        sodipodi:rx="0.5"
        sodipodi:ry="0.5"
-       d="m 12,10.500017 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
+       d="m 12,10.500017 a 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 0.5,0.5 0 0 1 0.5,0.5 z"
        transform="translate(-1.5,1029.3622)" />
   </g>
 </svg>
