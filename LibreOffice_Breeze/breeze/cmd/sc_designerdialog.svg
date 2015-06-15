@@ -13,7 +13,7 @@
    height="16"
    id="svg3049"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sc_designerdialog.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="6.1547853"
+     inkscape:cx="7.2375426"
      inkscape:cy="7.2353111"
      inkscape:document-units="px"
      inkscape:current-layer="g5674"
@@ -38,14 +38,15 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1407"
-     inkscape:window-height="1053"
-     inkscape:window-x="509"
+     inkscape:window-height="1017"
+     inkscape:window-x="505"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4085" />
@@ -96,15 +97,11 @@
          transform="matrix(-1,0,0,1,437.71429,531.79074)"
          id="path7145" />
       <path
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         d="M 3 2 L 3 6 L 4 6 L 4 3 L 11 3 L 11 2 L 3 2 z "
-         transform="matrix(-1,0,0,1,437.71429,531.79074)"
-         id="rect4139-4" />
-      <path
          inkscape:connector-curvature="0"
          style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-         d="m 431.71429,535.79074 0,1 -2,0 0,4 -1,0 0,-4 -2,0 0,-1 5,0 z"
-         id="rect4232" />
+         d="m 433.71429,533.79074 0,1 -3,0 0,5 -1,0 0,-5 -3,0 0,-1 z"
+         id="rect4232"
+         sodipodi:nodetypes="ccccccccc" />
       <path
          style="color:#000000;fill:#f47750;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="M 13 2 C 12.447715 2 12 2.4477153 12 3 C 12 3.5522847 12.447715 4 13 4 C 13.552285 4 14 3.5522847 14 3 C 14 2.4477153 13.552285 2 13 2 z M 13 5 C 12.447715 5 12 5.4477153 12 6 C 12 6.5522847 12.447715 7 13 7 C 13.552285 7 14 6.5522847 14 6 C 14 5.4477153 13.552285 5 13 5 z M 13 8 C 12.447715 8 12 8.4477153 12 9 C 12 9.5522847 12.447715 10 13 10 C 13.552285 10 14 9.5522847 14 9 C 14 8.4477153 13.552285 8 13 8 z "

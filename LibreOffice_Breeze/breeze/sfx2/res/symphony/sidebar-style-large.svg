@@ -13,7 +13,7 @@
    height="24"
    width="24"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="lc_formdesigntools.svg"
    inkscape:export-filename="/home/uri/Descargas/NITRUX-KDE/NITRUX-KDE/16x16/actions/view-preview.png"
    inkscape:export-xdpi="30"
@@ -29,15 +29,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
      id="namedview7"
      showgrid="true"
      inkscape:zoom="33"
-     inkscape:cx="14.129946"
-     inkscape:cy="13.692901"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:cx="8.9434585"
+     inkscape:cy="13.342756"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
      inkscape:showpageshadow="false"
@@ -46,8 +46,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-global="true"
-     inkscape:snap-bbox="true">
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true">
     <sodipodi:guide
        position="3,21"
        orientation="18,0"
@@ -102,12 +102,10 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
      style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 4,11 0,9 16,0 z M 5,12.8 16.1,19 5,19 Z"
-     id="path4163"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccc" />
+     d="M 4 11 L 4 20 L 20 20 L 4 11 z M 5 12.8125 L 16.09375 19 L 5 19 L 5 12.8125 z "
+     id="path4163" />
   <path
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     d="M 5 4 L 5 10 L 6 10 L 6 8 L 18 8 L 18 17 L 19 17 L 19 5 L 19 4 L 5 4 z "
-     id="rect4139-4" />
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+     d="M 6 4 L 6 6 L 11 6 L 11 14 L 13 14 L 13 6 L 18 6 L 18 4 L 6 4 z "
+     id="rect4112" />
 </svg>
