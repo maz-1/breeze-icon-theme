@@ -13,9 +13,9 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91pre2 r"
+   inkscape:version="0.48+devel r"
    viewBox="0 0 22 22"
-   sodipodi:docname="system-file-manager.svg">
+   sodipodi:docname="utilities-terminal.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.212092"
-     inkscape:cx="5.5047807"
-     inkscape:cy="11.837132"
+     inkscape:cx="10.739375"
+     inkscape:cy="9.1188811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
@@ -74,6 +74,38 @@
        position="19,19.000017"
        orientation="0,-16"
        id="guide4121" />
+    <sodipodi:guide
+       position="10,6.0000174"
+       orientation="-7,0"
+       id="guide4162" />
+    <sodipodi:guide
+       position="11,12.000017"
+       orientation="5,0"
+       id="guide4280" />
+    <sodipodi:guide
+       position="11,7.0000174"
+       orientation="0,5"
+       id="guide4282" />
+    <sodipodi:guide
+       position="16,7.0000174"
+       orientation="-5,0"
+       id="guide4284" />
+    <sodipodi:guide
+       position="16,12.000017"
+       orientation="0,-5"
+       id="guide4286" />
+    <sodipodi:guide
+       position="5,13.000017"
+       orientation="6,0"
+       id="guide4294" />
+    <sodipodi:guide
+       position="5,7.0000174"
+       orientation="0,6"
+       id="guide4296" />
+    <sodipodi:guide
+       position="11,7.0000174"
+       orientation="-6,0"
+       id="guide4298" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -94,8 +126,36 @@
      transform="translate(0,-1030.3622)">
     <path
        style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 6 L 3 19 L 19 19 L 19 6 L 15 6 L 12 3 L 3 3 z M 4 4 L 11.5 4 L 14.5 7 L 4 7 L 4 4 z M 11 9 L 18 9 L 18 12 L 18 18 L 4 18 L 4 16 L 8 12 L 11 9 z "
+       d="M 3 3 L 3 4 L 3 15 L 3 16 L 3 19 L 4 19 L 6 19 L 14 19 L 18 19 L 19 19 L 19 4 L 19 3 L 3 3 z M 4 4 L 18 4 L 18 18 L 14 18 L 6 18 L 4 18 L 4 16 L 4 15 L 4 4 z "
        transform="translate(0,1030.3622)"
-       id="rect3320" />
+       id="rect4142" />
+    <rect
+       y="-729.77808"
+       x="738.26385"
+       height="1.000011"
+       width="3.2429793"
+       id="rect4304"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       transform="matrix(0.70710225,0.70711131,0.70710225,-0.70711131,0,0)" />
+    <rect
+       transform="matrix(0.70710225,-0.70711131,0.70710225,0.70711131,0,0)"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect4306"
+       width="3.2429793"
+       height="1.000011"
+       x="-732.31378"
+       y="740.7995" />
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 8.7935049,1039.8613 0.206985,-0.207 0.206985,0.207 -0.2069848,0.207 z"
+       id="path4328"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect4335"
+       width="4"
+       height="0.99998301"
+       x="10.000004"
+       y="1041.3607" />
   </g>
 </svg>
