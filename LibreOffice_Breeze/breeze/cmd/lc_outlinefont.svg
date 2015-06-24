@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_outlinefont.svg">
   <defs
@@ -38,23 +38,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="34.226712"
-     inkscape:cx="8.1283296"
-     inkscape:cy="13.801978"
+     inkscape:cx="9.3817778"
+     inkscape:cy="10.449428"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-intersection-paths="true">
     <inkscape:grid
        type="xygrid"
        id="grid4120"
@@ -100,10 +103,6 @@
        position="20,20"
        orientation="0,-6.0000172"
        id="guide4201" />
-    <sodipodi:guide
-       position="12,9.9999826"
-       orientation="-8,0"
-       id="guide4160" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -123,9 +122,9 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="M 6 4 L 6 5 L 6 20 L 7 20 L 10 20 L 10 19 L 10 12 L 13 12 L 14 12 L 14 11 L 14 10 L 14 9 L 13 9 L 10 9 L 10 7 L 18 7 L 18 6 L 18 4 L 7 4 L 6 4 z M 7 5 L 17 5 L 17 6 L 9 6 L 9 7 L 9 10 L 10 10 L 13 10 L 13 11 L 10 11 L 9 11 L 9 19 L 7 19 L 7 5 z "
-       transform="translate(-1,1029.3622)"
-       id="rect4152" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 9.15625,1033.3622 -5.6113281,16 1.4101562,0 2.4648438,0 1.5175781,-4.4355 4.048828,0.021 1.613281,4.4141 3.855469,0 -5.707031,-16 -3.591797,0 z m 0.7089843,0.9961 2.1796877,0 4.910156,14 -1.658203,0 -1.623047,-4.4336 c -1.959021,-2e-4 -5.4386068,-7e-4 -5.4355468,0 l -1.625,4.4375 -1.6582031,0 4.9101562,-14.0078 z m 1.0898437,1.9883 -2.1933593,6.2969 4.3867183,0 -2.193359,-6.2969 z m 0.0098,3.0312 0.796875,2.252 -1.576172,0.01 0.779297,-2.2578 0,-0 z"
+       id="path4170"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
