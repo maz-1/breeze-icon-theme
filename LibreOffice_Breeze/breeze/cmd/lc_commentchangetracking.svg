@@ -13,7 +13,7 @@
    height="24"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="lc_commentchangetracking.svg">
   <defs
      id="defs3762" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.574202"
-     inkscape:cx="11.680265"
-     inkscape:cy="12.411494"
+     inkscape:zoom="12.223826"
+     inkscape:cx="7.1623996"
+     inkscape:cy="14.426796"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,11 +34,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="930"
-     inkscape:window-height="1053"
-     inkscape:window-x="52"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:snap-bbox="true"
@@ -168,7 +168,7 @@
        sodipodi:cy="8"
        sodipodi:rx="2"
        sodipodi:ry="2"
-       d="M 10,8 A 2,2 0 1 1 6,8 2,2 0 1 1 10,8 z"
+       d="M 10,8 A 2,2 0 0 1 8,10 2,2 0 0 1 6,8 2,2 0 0 1 8,6 2,2 0 0 1 10,8 Z"
        transform="translate(556.72253,583.11926)" />
     <path
        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
@@ -176,5 +176,10 @@
        id="path4147"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       d="m 569.72253,597.11926 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
+       id="rect2992" />
   </g>
 </svg>
