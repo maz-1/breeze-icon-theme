@@ -13,9 +13,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_insertobjectstarmath.svg">
+   sodipodi:docname="lc_insertmath.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="14.52487"
-     inkscape:cy="14.674551"
+     inkscape:zoom="45.254834"
+     inkscape:cx="13.005465"
+     inkscape:cy="10.604865"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
      inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -160,8 +160,13 @@
      transform="translate(1,-1029.3622)">
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="M 12 4 L 12 4.0039062 L 7.5585938 11.695312 L 6.0039062 9 L 6 9 L 4 9 L 4 10 L 5.4277344 10 L 7.5605469 13.693359 L 8.1367188 12.695312 L 12.580078 5 L 19 5 L 19 6 L 20 6 L 20 4 L 12 4 z M 15 7 C 13.338 7 12 8.338 12 10 C 12 11.662 13.338 13 15 13 C 15.773297 13 16.469123 12.70179 17 12.224609 L 17 13 L 18 13 L 18 10 L 18 7 L 17 7 L 17 7.7753906 C 16.469123 7.2982102 15.773297 7 15 7 z M 15 8 C 16.108 8 17 8.892 17 10 C 17 11.108 16.108 12 15 12 C 13.892 12 13 11.108 13 10 C 13 8.892 13.892 8 15 8 z M 17 15 L 17 17 L 15 17 L 15 18 L 17 18 L 17 20 L 18 20 L 18 18 L 20 18 L 20 17 L 18 17 L 18 15 L 17 15 z "
+       d="M 12 4 L 12 4.0039062 L 7.5585938 11.695312 L 6.0039062 9 L 6 9 L 4 9 L 4 10 L 5.4277344 10 L 7.5605469 13.693359 L 8.1367188 12.695312 L 12.580078 5 L 19 5 L 19 6 L 20 6 L 20 4 L 12 4 z M 15 7 C 13.338 7 12 8.338 12 10 C 12 11.662 13.338 13 15 13 C 15.773297 13 16.469123 12.70179 17 12.224609 L 17 13 L 18 13 L 18 10 L 18 7 L 17 7 L 17 7.7753906 C 16.469123 7.2982102 15.773297 7 15 7 z M 15 8 C 16.108 8 17 8.892 17 10 C 17 11.108 16.108 12 15 12 C 13.892 12 13 11.108 13 10 C 13 8.892 13.892 8 15 8 z "
        transform="translate(-1,1029.3622)"
        id="rect4151" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16,1044.3622 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
+       id="rect4153" />
   </g>
 </svg>

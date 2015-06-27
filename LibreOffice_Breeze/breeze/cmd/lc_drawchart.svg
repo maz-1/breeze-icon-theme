@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.15656"
-     inkscape:cx="10.968837"
+     inkscape:cx="4.9664265"
      inkscape:cy="14.067757"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -125,9 +125,9 @@
        x="13"
        y="1038.3622" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 17,1032.3622 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
-       id="rect3004"
-       inkscape:connector-curvature="0" />
+       id="rect4153" />
   </g>
 </svg>

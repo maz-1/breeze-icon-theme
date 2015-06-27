@@ -14,7 +14,7 @@
    id="svg3760"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="lc_insertdraw.svg">
+   sodipodi:docname="lc_diagramwall.svg">
   <defs
      id="defs3762" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.759966"
-     inkscape:cx="4.0127688"
-     inkscape:cy="14.418741"
+     inkscape:zoom="23.979306"
+     inkscape:cx="10.836125"
+     inkscape:cy="15.944214"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -81,7 +81,7 @@
        orientation="0,16"
        id="guide4133" />
     <sodipodi:guide
-       position="20,6"
+       position="19.999986,4.0000118"
        orientation="-16,0"
        id="guide4135" />
     <sodipodi:guide
@@ -110,14 +110,9 @@
      id="layer1"
      transform="translate(-550.28572,-606.6479)">
     <path
-       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 19.513672 4.0078125 A 2 9 45 0 0 12.068359 9.1054688 A 2 9 45 0 0 8.5253906 13.21875 C 9.6014506 13.56139 10.440563 14.400495 10.783203 15.476562 A 2 9 45 0 0 14.896484 11.933594 A 2 9 45 0 0 19.845703 4.15625 A 2 9 45 0 0 19.513672 4.0078125 z M 8 14.664062 C 3.99999 15.735864 7 18.26795 4 20 C 8.00339 20 10 17.999182 10 16.664062 C 10 15.999182 10.0676 14.774622 8 14.664062 z "
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="M 4 4 L 4 18 L 5 18 L 5 4 L 4 4 z M 6 4 L 6 18 L 8 18 L 12 18 L 20 18 L 20 4 L 6 4 z M 16.599609 9 C 17.086059 10.7025 18.277824 12.166091 18.802734 13.337891 C 18.986444 13.686291 19.099609 14.0773 19.099609 14.5 C 19.099609 15.885 17.984609 17 16.599609 17 C 15.214609 17 14.099609 15.885 14.099609 14.5 C 14.099609 14.0773 14.212784 13.686291 14.396484 13.337891 C 14.921414 12.166091 16.113149 10.7025 16.599609 9 z M 4 19 L 4 20 L 5 20 L 5 19 L 4 19 z M 6 19 L 6 20 L 20 20 L 20 19 L 6 19 z "
        transform="translate(550.28572,606.6479)"
-       id="path4123" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 567.28572,621.6479 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
-       id="rect4153" />
+       id="rect4151" />
   </g>
 </svg>

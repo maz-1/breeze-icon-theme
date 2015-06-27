@@ -13,7 +13,7 @@
    height="24"
    width="24"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="lc_diagramtype.svg"
    inkscape:export-filename="/home/uri/Descargas/NITRUX-KDE/NITRUX-KDE/16x16/actions/view-preview.png"
    inkscape:export-xdpi="30"
@@ -29,15 +29,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
      id="namedview7"
      showgrid="true"
-     inkscape:zoom="33"
-     inkscape:cx="19.95724"
-     inkscape:cy="13.79637"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:zoom="23.334524"
+     inkscape:cx="10.910069"
+     inkscape:cy="10.685558"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
      inkscape:showpageshadow="false"
@@ -47,7 +47,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:snap-global="true"
-     inkscape:snap-bbox="true">
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true">
     <sodipodi:guide
        position="3,21"
        orientation="18,0"
@@ -107,7 +108,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccc" />
   <path
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     d="M 11.9375 4 C 10.474692 4 9.1272722 4.4327297 8 5.1875 C 7.8121805 5.3130488 7.6117832 5.4513199 7.4375 5.59375 C 7.0889336 5.8786105 6.7561768 6.1857959 6.46875 6.53125 C 5.6578895 7.4987323 5.1819574 8.6954653 5 10 L 5.96875 10 C 6.4459886 7.1585893 8.9350725 5 11.9375 5 L 11.9375 11 L 18 11 C 18 13.101849 16.900856 14.929339 15.25 16 L 16.90625 16 C 17.074748 15.835151 17.252999 15.652941 17.40625 15.46875 C 17.41145 15.46245 17.40105 15.44383 17.40625 15.4375 C 18.413838 14.227487 19 12.691372 19 11 C 19 9.3005905 18.422462 7.7437494 17.40625 6.53125 C 17.118824 6.1857959 16.786066 5.8786105 16.4375 5.59375 C 16.4312 5.58855 16.41264 5.59893 16.40625 5.59375 C 15.185335 4.5951589 13.64411 4 11.9375 4 z "
-     id="rect4147" />
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 13 4 C 9.1412834 4 6.0137201 7.122557 6.0019531 10.978516 L 7.0292969 11.556641 C 7.0123807 11.37306 7 11.187995 7 11 C 7 7.6862915 9.6862915 5 13 5 L 13 11 L 16 11 L 19 11 C 19 13.3724 17.619353 15.416935 15.621094 16.390625 L 16.646484 16.966797 C 18.655207 15.736444 20 13.528134 20 11 C 20 7.1340068 16.865993 4 13 4 z "
+     id="path4144" />
 </svg>

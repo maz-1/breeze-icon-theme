@@ -13,9 +13,9 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
-   sodipodi:docname="lc_splitcell.svg">
+   sodipodi:docname="lc_verticaltext.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -41,15 +41,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.15656"
-     inkscape:cx="12.890504"
+     inkscape:cx="6.8880935"
      inkscape:cy="15.114787"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer1-6"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
      inkscape:window-width="1195"
-     inkscape:window-height="1053"
+     inkscape:window-height="1017"
      inkscape:window-x="56"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -113,7 +113,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -128,14 +128,14 @@
        inkscape:label="Capa 1">
       <path
          inkscape:connector-curvature="0"
-         id="rect4112"
-         d="m 569.72253,597.11926 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-      <path
-         inkscape:connector-curvature="0"
          id="rect4155"
          d="m 567.72253,586.11926 -1,0 -2,0 0,1 2,0 0,4 -9,0 0,-1 -1,0 0,3 1,0 0,-1 9,0 0,4 -2,0 0,1 3,0 0,-10 0,-1 z"
          style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 569.72253,597.11926 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
+         id="rect4153" />
     </g>
   </g>
 </svg>

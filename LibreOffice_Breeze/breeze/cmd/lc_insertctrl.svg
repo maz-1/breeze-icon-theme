@@ -13,8 +13,8 @@
    height="24"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.91+devel r"
-   sodipodi:docname="lc_inserttable.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lc_insertctrl.svg">
   <defs
      id="defs3762" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="24.447653"
-     inkscape:cx="4.9865608"
+     inkscape:cx="-1.1899012"
      inkscape:cy="12.956538"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,10 +34,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
      inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false">
     <sodipodi:guide
@@ -112,13 +112,6 @@
        d="M 4 4 L 4 5 L 4 20 L 5 20 L 14 20 L 14 19 L 10 19 L 10 17 L 14 17 L 14 16 L 10 16 L 10 14 L 14 14 L 15 14 L 19 14 L 20 14 L 20 5 L 20 4 L 4 4 z M 5 5 L 9 5 L 9 6 L 9 7 L 9 8 L 9 10 L 5 10 L 5 8 L 5 7 L 5 5 z M 10 5 L 14 5 L 14 6 L 14 7 L 10 7 L 10 6 L 10 5 z M 15 5 L 19 5 L 19 7 L 16 7 L 15 7 L 15 6 L 15 5 z M 10 8 L 14 8 L 14 10 L 10 10 L 10 8 z M 15 8 L 19 8 L 19 10 L 15 10 L 15 8 z M 5 11 L 9 11 L 9 13 L 5 13 L 5 11 z M 10 11 L 14 11 L 14 13 L 10 13 L 10 11 z M 15 11 L 19 11 L 19 13 L 15 13 L 15 11 z M 5 14 L 9 14 L 9 16 L 8 16 L 5 16 L 5 14 z M 5 17 L 8 17 L 9 17 L 9 18.099609 L 9 19 L 5 19 L 5 17 z "
        transform="translate(552.72253,582.11926)"
        id="rect4108-9" />
-    <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 16,14 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 z"
-       transform="translate(553.72253,583.11926)"
-       id="rect4112"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
     <rect
        style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="rect4156"
@@ -126,5 +119,10 @@
        height="5"
        x="557.72253"
        y="587.11926" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 569.72253,597.11926 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
+       id="rect4153" />
   </g>
 </svg>

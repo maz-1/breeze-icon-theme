@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
    sodipodi:docname="lc_dbnewquery.svg">
   <defs
@@ -26,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.15656"
-     inkscape:cx="12.838697"
+     inkscape:cx="6.8362865"
      inkscape:cy="12.693759"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      units="px"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,15 +104,14 @@
      id="layer1"
      transform="translate(1,-1029.3622)">
     <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 16,1044.3622 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 z"
-       id="rect4112"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
-    <path
        style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 12 4 C 7.581722 4 4 4.8954 4 6 L 4 10 L 4 18 C 4 19.1046 7.581722 20 12 20 C 12.690356 20 13.360964 19.978603 14 19.9375 L 14 18.9375 C 13.353532 18.965644 12.710908 19 12 19 C 8.1340068 19 5 18.5523 5 18 L 5 14.9375 C 6.3529566 15.5624 8.9580758 16 12 16 C 12.695416 16 13.359983 15.949 14 15.90625 L 14 14.9375 C 13.353532 14.965644 12.710908 15 12 15 C 8.1340068 15 5 14.5523 5 14 L 5 10.9375 C 6.3529566 11.5624 8.9580758 12 12 12 C 15.041924 12 17.647043 11.5624 19 10.9375 L 19 14 L 20 14 L 20 10 L 20 6 C 20 4.8954 16.418278 4 12 4 z M 12 5 C 15.865993 5 19 5.4477 19 6 C 19 6.5523 15.865993 7 12 7 C 8.1340068 7 5 6.5523 5 6 C 5 5.4477 8.1340068 5 12 5 z M 5 6.9375 C 6.3529566 7.5624 8.9580758 8 12 8 C 15.041924 8 17.647043 7.5624 19 6.9375 L 19 10 C 19 10.5523 15.865993 11 12 11 C 8.1340068 11 5 10.5523 5 10 L 5 9.0625 L 5 6.9375 z "
        transform="translate(-1,1029.3622)"
        id="rect3778" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16,1044.3622 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
+       id="rect4153" />
   </g>
 </svg>

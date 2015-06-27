@@ -14,8 +14,8 @@
    height="16"
    id="svg3049"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sc_interactivetransparence.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sc_morecontrols.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -60,7 +60,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="39.774755"
-     inkscape:cx="14.058155"
+     inkscape:cx="10.261777"
      inkscape:cy="7.5367857"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-6"
@@ -69,10 +69,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -106,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -125,9 +125,14 @@
          inkscape:label="Capa 1">
         <path
            style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-           d="M 3 2 L 3 14 L 8 14 L 8 13 L 4 13 L 4 5 L 12 5 L 12 8 L 13 8 L 13 2 L 3 2 z M 11 9 L 11 11 L 9 11 L 9 12 L 11 12 L 11 14 L 12 14 L 12 12 L 14 12 L 14 11 L 12 11 L 12 9 L 11 9 z "
+           d="M 3 2 L 3 14 L 8 14 L 8 13 L 4 13 L 4 5 L 12 5 L 12 8 L 13 8 L 13 2 L 3 2 z "
            transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
            id="rect4139" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 14.999999,1042.6958 0,2.6667 -2.666666,0 0,1.3333 2.666666,0 0,2.6667 1.333334,0 0,-2.6667 2.666666,0 0,-1.3333 -2.666666,0 0,-2.6667 -1.333334,0 z"
+           id="rect4153" />
       </g>
     </g>
   </g>
