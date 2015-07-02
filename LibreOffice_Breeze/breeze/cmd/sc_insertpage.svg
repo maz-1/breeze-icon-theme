@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="39.774755"
-     inkscape:cx="9.6380171"
-     inkscape:cy="4.1598786"
+     inkscape:cx="12.303024"
+     inkscape:cy="6.1712046"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-6"
      showgrid="true"
@@ -45,7 +45,8 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4085" />
@@ -92,15 +93,15 @@
          id="layer1-6"
          inkscape:label="Capa 1">
         <path
-           style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="M 3 2 L 3 14 L 8 14 L 8 13 L 4 13 L 4 3 L 12 3 L 12 8 L 13 8 L 13 2 L 3 2 z "
-           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
-           id="rect3782" />
-        <path
            inkscape:connector-curvature="0"
            style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 14.999999,1042.6958 0,2.6667 -2.666666,0 0,1.3333 2.666666,0 0,2.6667 1.333334,0 0,-2.6667 2.666666,0 0,-1.3333 -2.666666,0 0,-2.6667 -1.333334,0 z"
+           d="m 14.999999,1041.3624 0,2.6667 -2.666666,0 0,1.3333 2.666666,0 0,2.6667 1.333334,0 0,-2.6667 2.666666,0 0,-1.3333 -2.666666,0 0,-2.6667 -1.333334,0 z"
            id="rect4153" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           d="M 2 3 L 2 10 L 5 13 L 8 13 L 8 12 L 6 12 L 6 9 L 3 9 L 3 4 L 13 4 L 13 7 L 14 7 L 14 3 L 2 3 z "
+           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
+           id="rect3782-4" />
       </g>
     </g>
   </g>

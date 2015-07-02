@@ -13,7 +13,7 @@
    height="24"
    width="24"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="lc_assignlayout.svg"
    inkscape:export-filename="/home/uri/Descargas/NITRUX-KDE/NITRUX-KDE/16x16/actions/view-preview.png"
    inkscape:export-xdpi="30"
@@ -29,15 +29,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
      id="namedview7"
      showgrid="true"
-     inkscape:zoom="33"
-     inkscape:cx="6.1754005"
-     inkscape:cy="13.692901"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:zoom="23.334524"
+     inkscape:cx="16.724177"
+     inkscape:cy="14.690899"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
      inkscape:showpageshadow="false"
@@ -47,7 +47,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:snap-global="true"
-     inkscape:snap-bbox="true">
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <sodipodi:guide
        position="3,21"
        orientation="18,0"
@@ -81,6 +84,10 @@
        id="grid4080"
        originx="1px"
        originy="1px" />
+    <sodipodi:guide
+       position="4,13"
+       orientation="1,0"
+       id="guide4158" />
   </sodipodi:namedview>
   <metadata
      id="metadata90">
@@ -96,15 +103,8 @@
   </metadata>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
-  <g
-     transform="translate(1,-1029.3622)"
-     id="layer1-5"
-     inkscape:label="Capa 1">
-    <path
-       id="rect3341"
-       transform="translate(0,1030.3622)"
-       d="m 3,3 0,16 1,0 15,0 0,-1 L 19,3 18,3 4,3 3,3 z M 4,7 18,7 18,18 4,18 4,7 z m 1,1 0,9 5,0 0,-9 -5,0 z m 6,1 0,1 6,0 0,-1 -6,0 z m 0,3 0,1 4,0 0,-1 -4,0 z m 0,3 0,1 2,0 0,-1 -2,0 z"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 4.0019531 4.9941406 L 4.0019531 4.9980469 L 3.9980469 4.9980469 L 3.9980469 5.9980469 L 3.9980469 17.998047 L 3.9980469 18.998047 L 4 18.998047 L 4 19 L 5 19 L 10 19 L 13 19 L 13 18.998047 L 14.591797 18.998047 L 15.998047 18.998047 L 16.009766 18.998047 L 20.001953 15.005859 L 19.990234 14.994141 L 20.001953 14.994141 L 20.001953 13.994141 L 20.001953 5.9941406 L 20.001953 4.9941406 L 4.0019531 4.9941406 z M 5.0039062 5.9980469 L 19.003906 5.9980469 L 19.003906 13.998047 L 16.003906 13.998047 L 15.003906 13.998047 L 15.003906 17.998047 L 14 17.998047 L 13 17.998047 L 13 18 L 10 18 L 5 18 L 5 13 L 5 11 L 5.0039062 11 L 5.0039062 5.9980469 z M 8.0039062 6.9980469 L 9.0039062 6.9980469 L 8.0039062 6.9980469 z M 12.003906 6.9980469 L 13.003906 6.9980469 L 12.003906 6.9980469 z M 6 7 L 6 17 L 10 17 L 10 7 L 6 7 z M 12 7 L 12 8 L 17 8 L 17 7 L 12 7 z M 12 10 L 12 11 L 17 11 L 17 10 L 12 10 z M 12 13 L 12 14 L 14 14 L 14 13 L 12 13 z "
+     id="rect4151" />
 </svg>
