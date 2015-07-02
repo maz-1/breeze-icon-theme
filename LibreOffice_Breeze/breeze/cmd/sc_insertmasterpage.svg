@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="39.774755"
-     inkscape:cx="9.6380171"
+     inkscape:cx="8.280372"
      inkscape:cy="4.1598786"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-6"
@@ -38,7 +38,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1021"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -92,15 +92,15 @@
          id="layer1-6"
          inkscape:label="Capa 1">
         <path
-           style="fill:#1d99f3;fill-opacity:1;stroke:none"
-           d="m 14.999999,1042.6958 0,2.6666 -2.666666,0 0,1.3334 2.666666,0 0,2.6666 1.333334,0 0,-2.6666 2.666666,0 0,-1.3334 -2.666666,0 0,-2.6666 -1.333334,0 z"
-           id="rect4139"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 14.999999,1041.3624 0,2.6667 -2.666666,0 0,1.3333 2.666666,0 0,2.6667 1.333334,0 0,-2.6667 2.666667,0 0,-1.3333 -2.666667,0 0,-2.6667 -1.333334,0 z"
+           id="rect4153" />
         <path
-           style="color:#000000;fill:#1d99f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="M 3 2 L 3 14 L 8 14 L 8 13 L 4 13 L 4 3 L 9 3 L 9 6 L 12 6 L 12 8 L 13 8 L 13 5 L 10 2 L 3 2 z "
-           transform="matrix(1.3333333,0,0,1.3333367,0.3333327,1030.6957)"
-           id="rect3782-9" />
+           inkscape:connector-curvature="0"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1d99f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           d="m 2.9999992,1034.6957 0,9.3334 4,4 3.9999998,0 0,-1.3333 -2.6666665,0 0,-4.0001 -4,0 0,-6.6666 13.3333335,0 0,4 1.333334,0 0,-5.3334 -16.0000008,0 z"
+           id="rect3782-4" />
       </g>
     </g>
   </g>

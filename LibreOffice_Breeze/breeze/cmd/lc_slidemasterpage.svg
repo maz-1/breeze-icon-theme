@@ -13,7 +13,7 @@
    height="24"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="lc_slidemasterpage.svg">
   <defs
      id="defs3762" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.704737"
-     inkscape:cx="11.114591"
-     inkscape:cy="9.6548076"
+     inkscape:zoom="47.409474"
+     inkscape:cx="15.376157"
+     inkscape:cy="9.2121482"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,10 +34,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true"
@@ -88,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,13 +99,13 @@
      transform="translate(-550.28571,-606.64789)">
     <path
        style="fill:#1d99f3;fill-opacity:1;stroke:none"
-       d="M 18 12 L 17 13 L 12 18 L 12 19 L 12 20 L 14 20 L 15 19 L 19 15 L 20 14 L 18 12 z M 17.71875 13.6875 L 18.28125 14.28125 L 13.3125 19.28125 L 12.71875 18.6875 L 17.71875 13.6875 z "
-       transform="translate(550.28571,606.64789)"
-       id="rect3344-6" />
+       d="m 568.28571,617.64789 -1,1 -5,5 0,1 0,1 2,0 1,-1 4,-4 1,-1 -2,-2 z m -0.28125,1.6875 0.5625,0.59375 -4.96875,5 -0.59375,-0.59375 5,-5 z"
+       id="rect3344-6"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#1d99f3;fill-opacity:1;stroke:none"
-       d="M 5 4 L 5 10 L 5 20 L 6 20 L 11 20 L 11 19 L 6 19 L 6 10 L 6 5 L 15 5 L 15 9 L 18 9 L 18 11 L 19 11 L 19 9.40625 L 19 8 L 15 4 L 6 4 L 5 4 z "
+       d="M 3.9980469 4.9941406 L 3.9980469 5.9941406 L 3.9980469 13.994141 L 3.9980469 14.994141 L 4.0097656 14.994141 L 3.9980469 15.005859 L 7.9902344 18.998047 L 8.0019531 18.998047 L 9.4082031 18.998047 L 11 18.998047 L 11 17.998047 L 10 17.998047 L 8.9960938 17.998047 L 8.9960938 13.998047 L 7.9960938 13.998047 L 4.9960938 13.998047 L 4.9960938 5.9980469 L 18.996094 5.9980469 L 18.996094 11 L 20 11 L 20 18.998047 L 20.001953 18.998047 L 20.001953 17.998047 L 20.001953 5.9980469 L 20.001953 4.9980469 L 19.998047 4.9980469 L 19.998047 4.9941406 L 3.9980469 4.9941406 z M 10.996094 6.9980469 L 11.996094 6.9980469 L 10.996094 6.9980469 z M 14.996094 6.9980469 L 15.996094 6.9980469 L 14.996094 6.9980469 z M 10 10.429688 A 1.5 1.5 0 0 0 9.9960938 10.498047 A 1.5 1.5 0 0 0 10 10.574219 L 10 10.429688 z "
        transform="translate(550.28571,606.64789)"
-       id="rect4139" />
+       id="rect4139-3" />
   </g>
 </svg>
