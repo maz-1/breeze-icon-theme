@@ -104,7 +104,7 @@ Size=16
 Context=Actions
 Type=Fixed
 
-#16x16 - Fixed size - For use in sidebar(s) smaller toolbar(s) >!!!ONLY!!!<: e.g. Kate movable sidebar/toolbar (search and replace, current project, etc.) or Juk tree view - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+#16x16 - Fixed size - For use in context menus >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 [actions/toolbar-small-gtk]
 Size=16
 Context=Actions
