@@ -15,7 +15,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="plan.svg">
+   sodipodi:docname="planwork.svg">
   <defs
      id="defs2987">
     <linearGradient
@@ -102,8 +102,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="36.358807"
-     inkscape:cy="-1.5281887"
+     inkscape:cx="39.462804"
+     inkscape:cy="3.583965"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -258,30 +258,28 @@
        width="39.999989"
        id="rect4169-4-5"
        style="fill:#2e3132;fill-opacity:0.29411765;stroke:none" />
-    <rect
-       style="opacity:1;fill:#31363b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4421"
-       width="13"
-       height="7"
-       x="25"
-       y="35" />
     <path
        style="opacity:1;fill:#31363b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 25 31 L 25 34 L 38 34 L 38 31 L 37 31 L 37 33 L 33 33 L 33 31 L 30 31 L 30 33 L 26 33 L 26 31 L 25 31 z "
-       id="rect4423" />
-    <rect
+       d="M 25 37 L 25 42 L 38 42 L 38 37 L 33 37 L 33 38 L 30 38 L 30 37 L 25 37 z "
+       id="rect4421" />
+    <path
        style="opacity:1;fill:#31363b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 25,33 0,3 5,0 0,-1 3,0 0,1 5,0 0,-3 z"
+       id="rect4423"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="opacity:1;fill:#31363b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 29,31 0,2 1,0 0,-1 3,0 0,1 1,0 0,-2 z"
        id="rect4425"
-       width="2"
-       height="2"
-       x="27"
-       y="30" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
     <rect
        style="opacity:1;fill:#31363b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4427"
-       width="2"
-       height="2"
-       x="34"
-       y="30" />
+       id="rect4214"
+       width="1"
+       height="1"
+       x="31"
+       y="36" />
   </g>
 </svg>
