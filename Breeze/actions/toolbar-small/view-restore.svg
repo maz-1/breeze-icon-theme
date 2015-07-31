@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="archive-insert.svg"
+   sodipodi:docname="view-restore.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="48.822612"
-     inkscape:cx="7.3892308"
-     inkscape:cy="7.3681075"
+     inkscape:zoom="45.254834"
+     inkscape:cx="4.38926"
+     inkscape:cy="8.9180866"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,6 +45,7 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
      inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
@@ -74,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,14 +85,29 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 3 2 L 3 3 L 3 13 L 3 14 L 4 14 L 8 14 L 8 13 L 4 13 L 4 3 L 12 3 L 12 8 L 13 8 L 13 3 L 13 2 L 12 2 L 4 2 L 3 2 z "
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 4 4 L 4 12 L 12 12 L 12 4 L 4 4 z M 5 6 L 11 6 L 11 11 L 5 11 L 5 6 z "
        transform="translate(421.71429,531.79074)"
-       id="rect4151" />
+       id="rect4139" />
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 11 9 L 11 11 L 9 11 L 9 12 L 11 12 L 11 14 L 12 14 L 12 12 L 14 12 L 14 11 L 12 11 L 12 9 L 11 9 z "
-       transform="translate(421.71429,531.79074)"
-       id="rect4159" />
+       inkscape:connector-curvature="0"
+       id="path4123"
+       d="m 435.71429,541.79074 -2,-2 2,-2 z"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4123-5"
+       d="m 423.71429,541.79074 2,-2 -2,-2 z"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4123-51"
+       d="m 431.71429,533.79074 -2,2 -2,-2 z"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4123-6"
+       d="m 427.71429,545.79074 2,-2 2,2 z"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    id="svg3049"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="archive-insert.svg"
+   sodipodi:docname="document-revert.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
    inkscape:export-ydpi="30">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="48.822612"
-     inkscape:cx="7.3892308"
-     inkscape:cy="7.3681075"
+     inkscape:zoom="24.411306"
+     inkscape:cx="0.8218916"
+     inkscape:cy="7.4001746"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,7 +45,10 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:snap-bbox="true"
-     inkscape:object-nodes="true">
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4085" />
@@ -65,6 +68,10 @@
        position="14.000004,14.00003"
        orientation="0,-12"
        id="guide4081" />
+    <sodipodi:guide
+       position="3,15"
+       orientation="1,0"
+       id="guide4145" />
   </sodipodi:namedview>
   <metadata
      id="metadata3054">
@@ -84,14 +91,15 @@
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 3 2 L 3 3 L 3 13 L 3 14 L 4 14 L 8 14 L 8 13 L 4 13 L 4 3 L 12 3 L 12 8 L 13 8 L 13 3 L 13 2 L 12 2 L 4 2 L 3 2 z "
-       transform="translate(421.71429,531.79074)"
-       id="rect4151" />
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 424.71429,533.79071 0,12 5,3e-5 1,0 3,-3 0,-1 0,-8 z m 1,1.00003 7,0 0,7 -3,0 0,3 -4,0 z"
+       id="rect4140"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 11 9 L 11 11 L 9 11 L 9 12 L 11 12 L 11 14 L 12 14 L 12 12 L 14 12 L 14 11 L 12 11 L 12 9 L 11 9 z "
-       transform="translate(421.71429,531.79074)"
-       id="rect4159" />
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 436.71429,538.79074 0,4 -2,-2 z"
+       id="path4172"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
