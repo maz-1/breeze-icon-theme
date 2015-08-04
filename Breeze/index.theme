@@ -134,6 +134,12 @@ Size=22
 Context=Actions
 Type=Fixed
 
+#22x22 - Fixed size - For toolbar icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
+[actions/toolbar-gtk-24]
+Size=24
+Context=Actions
+Type=Fixed
+
 ##########
 
 ########## Apps
