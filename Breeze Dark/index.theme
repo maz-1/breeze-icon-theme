@@ -158,12 +158,6 @@ Size=22
 Context=Applications
 Type=Fixed
 
-#32x32 - Fixed size - Icon(s) belonging to System Settings - WRONG_ICON_USAGE_BY_APP - Color
-[apps/actions]
-Size=32
-Context=Actions
-Type=Fixed
-
 #32x32 - Fixed size - For System Settings icons >!!!ONLY!!!< - Scalable to the following sizes: 32x32 (default), 64x64, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
 [apps/preferences]
 Size=32
