@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 24 24"
-   sodipodi:docname="tool-pointer.svg">
+   sodipodi:docname="draw-ellipse.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.818182"
-     inkscape:cx="-1.6870228"
-     inkscape:cy="11.999983"
+     inkscape:zoom="33.683996"
+     inkscape:cx="8.8351784"
+     inkscape:cy="13.354899"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -43,7 +43,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:object-nodes="true">
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox="true">
     <sodipodi:guide
        position="4,20"
        orientation="16,0"
@@ -107,17 +108,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1029.3622)">
-    <g
-       transform="translate(-461.71429,504.57145)"
-       id="layer1-5"
-       inkscape:label="Capa 1">
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="path4147"
-         transform="translate(461.71429,525.79075)"
-         d="M 6,3 6,17 8.8721328,15.172524 13,19 12.299867,13.799477 16,13 Z"
-         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       d="M 10 6 A 6 6 0 0 0 4 12 A 6 6 0 0 0 10 18 L 14 18 A 6 6 0 0 0 20 12 A 6 6 0 0 0 14 6 L 10 6 z M 10 7 L 14 7 A 5 5 0 0 1 19 12 A 5 5 0 0 1 14 17 L 10 17 A 5 5 0 0 1 5 12 A 5 5 0 0 1 10 7 z "
+       transform="translate(-1,1029.3622)"
+       id="path3499" />
   </g>
 </svg>
