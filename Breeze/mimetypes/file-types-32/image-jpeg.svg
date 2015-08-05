@@ -93,8 +93,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.185475"
-     inkscape:cx="16.344379"
-     inkscape:cy="16.772901"
+     inkscape:cx="15.713191"
+     inkscape:cy="16.999217"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -103,7 +103,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -223,17 +223,17 @@
        id="layer1-7"
        inkscape:label="Capa 1"
        style="fill:#ffffff;fill-opacity:1" />
-    <g
-       transform="translate(392.57143,-513.55639)"
-       id="layer1-74"
-       inkscape:label="Capa 1"
-       style="fill:#036b53;fill-opacity:1">
-      <path
-         id="rect4139"
-         transform="translate(0,1036.3622)"
-         d="m 2,2 0,8.992188 -1,1 0,0.0078 1,0 0,2 12,0 0,-2.998047 1,0 0,-0.0098 L 14,9.9921875 14,2 2,2 Z M 3,3 13,3 13,8.9921875 9.0058594,5 9,5 l 0,0.00195 -0.00586,0 L 6.4980469,7.4941406 6.0039062,7 6,7 5.9960938,7 3,9.9941406 3,3 Z M 5,4 C 4.446,4 4,4.446 4,5 4,5.554 4.446,6 5,6 5.554,6 6,5.554 6,5 6,4.446 5.554,4 5,4 Z M 9,6.4101562 13,10.408203 13,11 10.007812,11 7.2070312,8.203125 9,6.4101562 Z m -3,2 0.5,0.5 L 8.5898438,11 3.4082031,11 6,8.4101562 Z M 3,12 l 6.5898438,0 0.00195,0.002 1.4082032,0 0,-0.002 2,0 0,1 -10.0000001,0 0,-1 z"
-         style="opacity:1;fill:#036b53;fill-opacity:1;stroke:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </g>
+    <rect
+       style="fill:#036b53;fill-opacity:1;stroke:none"
+       id="rect4035"
+       width="0"
+       height="10.999983"
+       x="375.57144"
+       y="525.79797" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#036b53;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 394.57143,524.798 0,8.99219 -1,1 0,0.008 1,0 0,2 12,0 0,-2.99805 1,0 0,-0.01 -1,-0.99995 0,-7.99219 -12,0 z m 1,1 10,0 0,5.99219 -3.99414,-3.99219 -0.006,0 0,0.002 -0.006,0 -2.49609,2.49219 -0.49414,-0.49414 -0.004,0 -0.004,0 -2.99609,2.99414 0,-6.99414 z m 2,1 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z m 4,2.41016 4,3.99804 0,0.5918 -2.99219,0 -2.80078,-2.79688 1.79297,-1.79296 z m -3,2 0.5,0.5 2.08984,2.08984 -5.18164,0 2.5918,-2.58984 z m -3,3.58984 6.58984,0 0.002,0.002 1.40821,0 0,-0.002 2,0 0,1 -10,0 0,-1 z"
+       id="rect4139" />
   </g>
 </svg>
