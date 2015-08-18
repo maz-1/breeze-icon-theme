@@ -13,11 +13,23 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 22 22"
    sodipodi:docname="layer-visible-on.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <clipPath
+       id="clipPath4160"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="1023.3622"
+         x="7"
+         height="1"
+         width="1"
+         id="rect4162"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,19 +37,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.831542"
-     inkscape:cx="2.0940564"
-     inkscape:cy="14.586275"
+     inkscape:zoom="25.217609"
+     inkscape:cx="13.998741"
+     inkscape:cy="9.2190925"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="666"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-width="2560"
+     inkscape:window-height="962"
+     inkscape:window-x="-4"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      showguides="true">
     <sodipodi:guide
@@ -92,7 +104,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,33 +113,23 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1030.3622)">
-    <rect
-       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-       id="rect4146"
-       width="14"
-       height="14.000017"
-       x="3"
-       y="1033.3622" />
-    <rect
-       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-       id="rect4148"
-       width="16"
-       height="0.9999826"
-       x="3"
-       y="1048.3622" />
-    <rect
-       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-       id="rect4150"
-       width="1"
-       height="16.000017"
-       x="18"
-       y="1033.3622" />
-    <rect
-       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-       id="rect4152"
-       width="12"
-       height="12"
-       x="4"
-       y="1034.3622" />
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.30120218px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4,1045.3623 -3,3.9999 h 17 l 3,-4 z"
+       id="path41"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4221"
+       d="m 4,1039.3623 -3,3.9999 h 17 l 3,-4 z"
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.30120218px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.30120218px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4,1033.3623 -3,3.9999 h 17 l 3,-4 z"
+       id="path4223"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
