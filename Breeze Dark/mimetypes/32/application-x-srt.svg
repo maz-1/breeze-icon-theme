@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="application-pgp.svg"
+   sodipodi:docname="application-x-srt.svg"
    viewBox="0 0 32 32">
   <defs
      id="defs5455">
@@ -93,9 +93,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.375"
-     inkscape:cx="18.666343"
-     inkscape:cy="16.576016"
+     inkscape:zoom="22.185475"
+     inkscape:cx="-1.0582758"
+     inkscape:cy="14.071659"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -170,21 +170,21 @@
        orientation="0,1"
        id="guide3378" />
     <sodipodi:guide
-       position="10.000012,23.000026"
+       position="10.000012,22.000026"
        orientation="12,0"
-       id="guide4188" />
+       id="guide4251" />
     <sodipodi:guide
-       position="10.000012,11.000026"
+       position="10.000012,10.000026"
        orientation="0,12"
-       id="guide4190" />
+       id="guide4253" />
     <sodipodi:guide
-       position="22.000012,11.000026"
+       position="22.000012,10.000026"
        orientation="-12,0"
-       id="guide4192" />
+       id="guide4255" />
     <sodipodi:guide
-       position="22.000012,23.000026"
+       position="22.000012,22.000026"
        orientation="0,-12"
-       id="guide4194" />
+       id="guide4257" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -264,9 +264,9 @@
        x="375.57144"
        y="525.79797" />
     <path
-       style="fill:#fbfbfb;fill-opacity:1"
-       d="M 11 9 L 11 10 L 11 20.25 L 11 21 L 13 21 L 13 20 L 12 20 L 12 10 L 20 10 L 20 15 L 21 15 L 21 9 L 11 9 z M 19.501953 15 L 18.753906 15.744141 L 18.751953 15.744141 L 15 19.476562 L 15.003906 19.486328 L 15 19.498047 L 15.005859 19.507812 L 15.001953 20.248047 L 15 20.248047 L 15 20.990234 L 15 21 L 16.5 21 L 16.503906 20.990234 L 16.507812 20.990234 L 16.515625 20.990234 L 16.509766 20.980469 L 17.25 20.242188 L 20.251953 17.255859 L 21 16.509766 L 19.501953 15.017578 L 19.501953 15 z "
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="M 10 10 L 10 11 L 10 17 L 10 18 L 13 18 L 13 17 L 13 11 L 16 11 L 16 13 L 17 13 L 18 13 L 19 13 L 19 11 L 19 10 L 11 10 L 10 10 z M 11 11 L 12 11 L 12 12 L 11 12 L 11 11 z M 17 11 L 18 11 L 18 12 L 17 12 L 17 11 z M 11 13 L 12 13 L 12 15 L 11 15 L 11 13 z M 14 14 L 14 20 L 16 22 L 16 20 L 22 20 L 22 14 L 14 14 z M 15 15 L 21 15 L 21 19 L 15 19 L 15 15 z M 11 16 L 12 16 L 12 17 L 11 17 L 11 16 z "
        transform="translate(384.57143,515.798)"
-       id="path4198" />
+       id="rect4259" />
   </g>
 </svg>

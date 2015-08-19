@@ -14,8 +14,9 @@
    height="32"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="application-pgp.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="application-pgp.svg"
+   viewBox="0 0 32 32">
   <defs
      id="defs5455">
     <linearGradient
@@ -92,9 +93,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.8437499"
-     inkscape:cx="77.780629"
-     inkscape:cy="19.375669"
+     inkscape:zoom="31.375"
+     inkscape:cx="18.666343"
+     inkscape:cy="16.576016"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -102,10 +103,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="957"
+     inkscape:window-width="2560"
+     inkscape:window-height="962"
      inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -168,6 +169,22 @@
        position="24,27"
        orientation="0,1"
        id="guide3378" />
+    <sodipodi:guide
+       position="10.000012,23.000026"
+       orientation="12,0"
+       id="guide4188" />
+    <sodipodi:guide
+       position="10.000012,11.000026"
+       orientation="0,12"
+       id="guide4190" />
+    <sodipodi:guide
+       position="22.000012,11.000026"
+       orientation="-12,0"
+       id="guide4192" />
+    <sodipodi:guide
+       position="22.000012,23.000026"
+       orientation="0,-12"
+       id="guide4194" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -188,12 +205,12 @@
      transform="translate(-384.57143,-515.798)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient4306);fill-opacity:1.0;stroke:none"
-       d="m 389.57144,517.79801 0,27.99999 14.99999,0 7.00003,-7 -3e-5,-14.24137 0,-6.75862 -7,0 z"
+       style="fill:url(#linearGradient4306);fill-opacity:1;stroke:none"
+       d="M 389.57144,517.79801 V 545.798 h 14.99999 l 7.00003,-7 -3e-5,-14.24137 v -6.75862 h -7 z"
        id="rect3500"
        sodipodi:nodetypes="cccccccc" />
     <rect
-       style="opacity:1;fill:#2e3132;fill-opacity:0.29411766;stroke:none"
+       style="opacity:1;fill:#2e3132;fill-opacity:0.29411765;stroke:none"
        id="rect4169"
        width="14.999983"
        height="0.99997306"
@@ -207,15 +224,15 @@
        x="389.57144"
        y="517.79797" />
     <path
-       style="fill:url(#linearGradient4357);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 411.57144,538.798 -7.00001,7 0,-7 z"
+       style="fill:url(#linearGradient4357);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.57144,538.798 -7.00001,7 v -7 z"
        id="path4314"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
        inkscape:connector-curvature="0"
        id="path4320"
-       d="m 397.57143,545.79797 7,-6.99997 0,7 z"
+       d="m 397.57143,545.79797 7,-6.99997 v 7 z"
        style="opacity:0.2;fill:url(#linearGradient4427);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="cccc" />
     <rect
@@ -247,9 +264,9 @@
        x="375.57144"
        y="525.79797" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:#fbfbfb;fill-opacity:1"
-       d="m 395.57143,524.798 0,1 0,10.25 0,0.75 2,0 0,-1 -1,0 0,-10 8,0 0,5 1,0 0,-6 -10,0 z m 8.50195,6 -0.74804,0.74414 -0.002,0 -3.75191,3.73242 0.004,0.01 -0.004,0.0117 0.006,0.01 -0.004,0.74023 -0.002,0 0,0.74219 0,0.01 1.5,0 0.004,-0.01 0.004,0 0.008,0 -0.006,-0.01 0.74023,-0.73828 3.00195,-2.98633 0.74805,-0.74609 -1.49805,-1.49219 0,-0.0176 z"
-       id="path4141" />
+       d="M 11 9 L 11 10 L 11 20.25 L 11 21 L 13 21 L 13 20 L 12 20 L 12 10 L 20 10 L 20 15 L 21 15 L 21 9 L 11 9 z M 19.501953 15 L 18.753906 15.744141 L 18.751953 15.744141 L 15 19.476562 L 15.003906 19.486328 L 15 19.498047 L 15.005859 19.507812 L 15.001953 20.248047 L 15 20.248047 L 15 20.990234 L 15 21 L 16.5 21 L 16.503906 20.990234 L 16.507812 20.990234 L 16.515625 20.990234 L 16.509766 20.980469 L 17.25 20.242188 L 20.251953 17.255859 L 21 16.509766 L 19.501953 15.017578 L 19.501953 15 z "
+       transform="translate(384.57143,515.798)"
+       id="path4198" />
   </g>
 </svg>
