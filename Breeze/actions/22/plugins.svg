@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
+   width="22"
+   height="22"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   viewBox="0 0 24 24"
-   sodipodi:docname="draw-rectangle.svg">
+   viewBox="0 0 22 22"
+   sodipodi:docname="kt-plugins.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,71 +25,65 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.818182"
-     inkscape:cx="5.6603054"
-     inkscape:cy="11.999983"
+     inkscape:zoom="22.627417"
+     inkscape:cx="5.0957488"
+     inkscape:cy="10.576799"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:showpageshadow="false"
+     units="px"
      borderlayer="true"
+     inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="957"
+     inkscape:window-height="1021"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
      inkscape:object-nodes="true"
      inkscape:snap-bbox="true">
     <sodipodi:guide
-       position="4,20"
+       position="2,20.000017"
+       orientation="18,0"
+       id="guide4066" />
+    <sodipodi:guide
+       position="2,2.0000174"
+       orientation="0,18"
+       id="guide4068" />
+    <sodipodi:guide
+       position="20,2.0000174"
+       orientation="-18,0"
+       id="guide4070" />
+    <sodipodi:guide
+       position="20,20.000017"
+       orientation="0,-18"
+       id="guide4072" />
+    <sodipodi:guide
+       position="3,19.000017"
        orientation="16,0"
-       id="guide4093" />
+       id="guide4074" />
     <sodipodi:guide
-       position="4,4"
+       position="3,3.0000174"
        orientation="0,16"
-       id="guide4095" />
+       id="guide4076" />
     <sodipodi:guide
-       position="20,4"
+       position="19,3.0000174"
        orientation="-16,0"
-       id="guide4097" />
+       id="guide4078" />
     <sodipodi:guide
-       position="20,20"
+       position="19,19.000017"
        orientation="0,-16"
-       id="guide4099" />
+       id="guide4080" />
     <inkscape:grid
        type="xygrid"
-       id="grid4101"
-       originx="1px"
-       originy="0.99998262px" />
+       id="grid4101" />
     <sodipodi:guide
-       position="4,20"
-       orientation="16,0"
-       id="guide4123" />
+       position="8,19.000017"
+       orientation="0,-5"
+       id="guide4124" />
     <sodipodi:guide
-       position="4,4"
-       orientation="0,2.000001"
-       id="guide4125" />
-    <sodipodi:guide
-       position="6.000001,20"
-       orientation="0,-2.000001"
-       id="guide4129" />
-    <sodipodi:guide
-       position="18,4"
-       orientation="0,2"
-       id="guide4133" />
-    <sodipodi:guide
-       position="20,4"
-       orientation="-16,0"
-       id="guide4135" />
-    <sodipodi:guide
-       position="20,20"
-       orientation="0,-2"
-       id="guide4137" />
+       position="11,3.0000174"
+       orientation="0,4"
+       id="guide4241" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -107,11 +101,16 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1,-1029.3622)">
-    <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 3,1033.3622 0,16 16,0 0,-16 -16,0 z m 1,1 14,0 0,14 -14,0 0,-14 z"
-       id="rect4112"
-       inkscape:connector-curvature="0" />
+     transform="translate(0,-1030.3622)">
+    <g
+       id="layer1-2"
+       inkscape:label="Capa 1">
+      <path
+         id="rect2992"
+         transform="translate(-1,1029.3622)"
+         d="M 6,5 6,7 4,7 4,19 20,19 20,7 18,7 18,5 14,5 14,7 10,7 10,5 6,5 Z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

@@ -110,12 +110,6 @@ Size=22
 Context=Actions
 Type=Fixed
 
-#22x22 - Fixed size - For toolbar icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[actions/24]
-Size=24
-Context=Actions
-Type=Fixed
-
 #48x48 - Fixed size - Icon(s) used in Kickoff on KDE 4 tabs section >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
 [actions/48]
 Size=48
