@@ -282,7 +282,7 @@ MaxSize=256
 ########## ordered by size
 
 #16x16 - Fixed size - For IM status icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[status/im-status]
+[status/16]
 Size=16
 Context=Status
 Type=Fixed
