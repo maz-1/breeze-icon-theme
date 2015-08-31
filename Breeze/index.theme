@@ -232,9 +232,7 @@ Type=Fixed
 [mimetypes/16]
 Size=16
 Context=MimeTypes
-Type=Scalable
-MinSize=16
-MaxSize=22
+Type=Fixed
 
 #22x22 - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 [mimetypes/22]
@@ -263,12 +261,6 @@ MaxSize=256
 #16x16 - Fixed size - For small folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 [places/16]
 Size=16
-Context=Places
-Type=Fixed
-
-#22x22 - Fixed size - For small folder icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
-[places/22]
-Size=22
 Context=Places
 Type=Fixed
 
