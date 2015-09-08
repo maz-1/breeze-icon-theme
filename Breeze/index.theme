@@ -1,5 +1,8 @@
 [Icon Theme]
 Name=Breeze
+Name[ar]=نسيم
+Name[ast]=Breeze
+Name[bs]=Breeze
 Name[ca]=Brisa
 Name[cs]=Breeze
 Name[da]=Breeze
@@ -18,9 +21,11 @@ Name[lt]=Breeze
 Name[nb]=Breeze
 Name[nds]=Breeze
 Name[nl]=Breeze
+Name[nn]=Breeze
 Name[pl]=Bryza
 Name[pt]=Brisa
 Name[pt_BR]=Breeze
+Name[ro]=Briză
 Name[ru]=Breeze
 Name[sk]=Breeze
 Name[sl]=Sapica
@@ -29,47 +34,48 @@ Name[sr@ijekavian]=Поветарац
 Name[sr@ijekavianlatin]=Povetarac
 Name[sr@latin]=Povetarac
 Name[sv]=Breeze
-Name[tr]=Breeze
+Name[tr]=Esinti
 Name[uk]=Breeze
 Name[x-test]=xxBreezexx
 Name[zh_CN]=微风
 Name[zh_TW]=微風
 
-Comment=KDE Plasma 5 Icon Theme
-Comment[ca]=Tema de icon del Plasma pel KDE
-Comment[cs]=Motiv kurzorů Plasma KDE
-Comment[da]=Markørtema til KDE Plasma
-Comment[de]=Plasma-Zeigerdesign für KDE
-Comment[el]=Θέμα δρομέα του KDE Plasma
-Comment[en_GB]=KDE Plasma Icon Theme
-Comment[es]=Tema de iconos de KDE Plasma
-Comment[es_MX]=Tema de iconos de KDE Plasma
-Comment[fi]=KDE Plasman osoitinteema
-Comment[fr]=Thème Plasma de curseur
-Comment[gl]=Tema do icon de Plasma de KDE
-Comment[hu]=KDE plazma kurzortéma
-Comment[it]=Tema di puntatori di KDE Plasma
-Comment[ko]=KDE Plasma 커서 테마
-Comment[lt]=KDE Plasma žymeklių tema
-Comment[nb]=KDE Plasma pekertema
-Comment[nds]=KDE-Plasma-Wiesermuster
-Comment[nl]=Iconthema van KDE Plasma
-Comment[pl]=Zestaw wskaźników Plazmy KDE
-Comment[pt]=Tema de Icones do Plasma para KDE
-Comment[pt_BR]=Tema de icones do Plasma
-Comment[ru]=Тема курсоров KDE Plasma
-Comment[sk]=Téma kurzora KDE Plasma
-Comment[sl]=Tema kazalk za KDE Plasma
-Comment[sr]=КДЕ плазма тема показивача
-Comment[sr@ijekavian]=КДЕ плазма тема показивача
-Comment[sr@ijekavianlatin]=KDE plasma tema pokazivača
-Comment[sr@latin]=KDE plasma tema pokazivača
-Comment[sv]=KDE Plasma muspekartema
-Comment[tr]=KDE Plasma İmleç Teması
-Comment[uk]=Тема курсорів Плазми KDE
-Comment[x-test]=xxKDE Plasma Icon Themexx
-Comment[zh_CN]=KDE Plasma 光标主题
-Comment[zh_TW]=KDE Plasma 游標主題
+Comment=Default Plasma 5 Theme GitHub
+Comment[ar]=سمة بلازما 5 الافتراضيّة
+Comment[ca]=Tema del Plasma 5 per defecte
+Comment[cs]=Výchozí motiv Plasma 5
+Comment[da]=Standardtema til Plasma 5
+Comment[de]=Standard-Arbeitsflächendesign für Plasma 5
+Comment[el]=Προκαθορισμένο θέμα Plasma 5
+Comment[en_GB]=Default Plasma 5 Theme
+Comment[es]=Tema por omisión de Plasma 5
+Comment[fi]=Plasma 5:n oletusteema
+Comment[fr]=Thème Plasma par défaut
+Comment[gl]=Tema predeterminado de Plasma 5
+Comment[hu]=Alapértelmezett Plasma 5 téma
+Comment[it]=Tema predefinito di Plasma 5
+Comment[ko]=기본 Plasma 5 테마
+Comment[lt]=Numatyta Plasma 5 tema
+Comment[nb]=Standard tema for Plasma 5
+Comment[nl]=Standaard thema van Plasma 5
+Comment[nn]=Standardtema for Plasma 5
+Comment[pl]=Domyślny wystrój Plazmy 5
+Comment[pt]=Tema por Omissão do Plasma 5
+Comment[pt_BR]=Tema padrão do Plasma 5
+Comment[ro]=Tema implicită pentru Plasma 5
+Comment[ru]=Стандартный набор значков в Plasma 5
+Comment[sk]=Predvolená téma Plasma  5
+Comment[sl]=Privzeta tema za Plasmo 5
+Comment[sr]=Подразумевана тема Плазме 5
+Comment[sr@ijekavian]=Подразумевана тема Плазме 5
+Comment[sr@ijekavianlatin]=Podrazumevana tema Plasme 5
+Comment[sr@latin]=Podrazumevana tema Plasme 5
+Comment[sv]=Standardskrivbordstema för Plasma 5
+Comment[tr]=Öntanımlı KDE Plasma 5 Teması
+Comment[uk]=Тема тема Плазми 5
+Comment[x-test]=xxDefault Plasma 5 Themexx
+Comment[zh_CN]=默认 Plasma 5 主题
+Comment[zh_TW]=預設 Plasma 5 主題
 
 DisplayDepth=32
 
@@ -187,7 +193,7 @@ Size=16
 Context=Devices
 Type=Fixed
 
-#22x22 - Scalable - For device icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Color
+#22x22 - Fixed size - For small device icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 [devices/22]
 Size=22
 Context=Devices
@@ -239,17 +245,19 @@ Type=Fixed
 Size=16
 Context=MimeTypes
 Type=Fixed
+MinSize=16
 
 #22x22 - Fixed size - For small file type icons >!!!ONLY!!!< - DO_NOT_USE_ANYWHERE_ELSE - Monochrome
 [mimetypes/22]
 Size=22
 Context=MimeTypes
-Type=Fixed
+Type=Scalable
+MinSize=22
+MaxSize=24
 
 #32x32 - Scalable - For file type icons >!!!ONLY!!!< - Scalable to the following sizes: 64x64 (default), 32x32, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
 [mimetypes/32]
 Size=32
-Type=Scalable
 Context=MimeTypes
 MinSize=32
 MaxSize=48
@@ -270,6 +278,7 @@ MaxSize=256
 Size=16
 Context=Places
 Type=Fixed
+MinSize=16
 
 #22x22 - Fixed size - Workaround icon(s) for toolbar(s) button(s) e.g. KMail trash icon - WRONG_ICON_USAGE_BY_APP - Monochrome
 [places/22]
