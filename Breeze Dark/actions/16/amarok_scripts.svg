@@ -79,14 +79,14 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <rect
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
        id="rect4035"
        width="0"
        height="10.999983"
        x="-17"
        y="1039.3622" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;marker:none;enable-background:accumulate"
        d="M 3.7148438 3 L 3 3.6953125 L 5.6386719 6.4921875 L 3.0175781 9.3046875 L 3.7324219 10 L 6.6757812 6.8378906 L 7 6.4921875 L 6.6757812 6.1445312 L 3.7148438 3 z M 7 12 L 7 13 L 13 13 L 13 12 L 7 12 z "
        transform="translate(0,1036.3622)"
        id="rect3918" />
