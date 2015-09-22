@@ -1,4 +1,4 @@
-Breeze (Plasma 5 icon theme) - Upstream repository
+Breeze (Plasma 5 icon theme) - Mirror KDE:Breeze
 ==============
 
 ![Breeze preview](http://i.imgur.com/omER2VT.png "Breeze is the next icon theme for KDE")
