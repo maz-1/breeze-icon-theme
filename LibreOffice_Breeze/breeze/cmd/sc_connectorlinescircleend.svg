@@ -13,7 +13,7 @@
    height="16"
    id="svg3049"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sc_connectorlinescircleend.svg"
    inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
    inkscape:export-xdpi="30"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="48.822612"
-     inkscape:cx="9.8689331"
+     inkscape:cx="6.7965862"
      inkscape:cy="7.2726257"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-8-2"
@@ -38,8 +38,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1478"
-     inkscape:window-height="1053"
-     inkscape:window-x="438"
+     inkscape:window-height="1017"
+     inkscape:window-x="434"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
@@ -112,10 +112,9 @@
              inkscape:label="Capa 1">
             <path
                style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-               d="m 17.000001,1049.3623 c 1.104499,0 1.999997,-0.8954 1.999997,-2 0,-1.1046 -0.895498,-2 -1.999997,-2 -0.874499,0 -1.603298,0.5515 -1.874997,1.3334 l -2.791673,-10e-5 0,-10.6666 0,-1.3334 -2.000021,10e-5 -4.6666936,0 0,1.3333 5.3333816,0 0,12 1.1e-5,0 0.666599,0 3.458396,0 c 0.271699,0.7819 1.000498,1.3333 1.874997,1.3333 z m 0,-1.3333 c -0.368199,0 -0.666699,-0.2985 -0.666699,-0.6667 0,-0.3682 0.2985,-0.6666 0.666699,-0.6666 0.3681,0 0.666599,0.2984 0.666599,0.6666 0,0.3682 -0.298499,0.6667 -0.666599,0.6667 z"
-               id="path4197-8-1"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="sssccccccccccccssssss" />
+               d="M 4 3 L 4 4 L 5 4 L 5.8632812 4 L 9.4609375 13 L 10 13 L 11 13 L 11.09375 13 C 11.297524 13.586424 11.844126 14 12.5 14 C 13.328374 14 14 13.328449 14 12.5 C 14 11.671551 13.328374 11 12.5 11 C 11.844126 11 11.297524 11.413576 11.09375 12 L 11 12 L 10.138672 12 L 6.5390625 3 L 6 3 L 5 3 L 4 3 z M 12.5 12 C 12.776075 12 13 12.22385 13 12.5 C 13 12.77615 12.776075 13 12.5 13 C 12.223851 13 12 12.77615 12 12.5 C 12 12.22385 12.223851 12 12.5 12 z "
+               transform="matrix(1.3333334,0,0,1.3333352,0.33333073,1030.6956)"
+               id="path4197-8-1" />
           </g>
         </g>
       </g>
