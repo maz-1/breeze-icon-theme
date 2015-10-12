@@ -521,10 +521,10 @@ cmd/sc_justifypara.png cmd/sc_alignblock.png
 
 # Vertical Text Alignment
 cmd/lc_cellverttop.png cmd/lc_aligntop.png
-cmd/lc_cellvertcenter.png cmd/lc_alignvcenter.png
+cmd/lc_cellvertcenter.png cmd/lc_alignverticalcenter.png
 cmd/lc_cellvertbottom.png cmd/lc_alignbottom.png
 cmd/sc_cellverttop.png cmd/sc_aligntop.png
-cmd/sc_cellvertcenter.png cmd/sc_alignvcenter.png
+cmd/sc_cellvertcenter.png cmd/sc_alignverticalcenter.png
 cmd/sc_cellvertbottom.png cmd/sc_alignbottom.png
 
 # paragraph line spacing drop down
