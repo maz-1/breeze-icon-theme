@@ -186,6 +186,7 @@ cmd/sc_hscrollbar.png cmd/sc_insertformhscroll.png
 
 # Annotations
 cmd/sc_insertannotation.png cmd/sc_showannotations.png
+cmd/lc_insertannotation.png cmd/lc_showannotations.png
 
 # Template Menu
 cmd/sc_templatemenu.png cmd/sc_adddirect.png
@@ -1061,7 +1062,7 @@ sfx2/res/styfam4.png cmd/sc_showsinglepage.png
 sfx2/res/symphony/open_more.png cmd/lc_controlproperties.png
 sfx2/res/symphony/sidebar-3d-large.png cmd/lc_cube.png
 sfx2/res/symphony/sidebar-3d-small.png cmd/sc_cube.png
-sfx2/res/symphony/sidebar-animation-large.png cmd/lc_customanimation.png
+sfx2/res/symphony/sidebar-animation-large.png cmd/lc_animationeffects.png
 sfx2/res/symphony/sidebar-animation-small.png cmd/sc_animationeffects.png
 sfx2/res/symphony/sidebar-colors-large.png cmd/lc_bmpmask.png
 sfx2/res/symphony/sidebar-colors-small.png cmd/sc_bmpmask.png
@@ -1093,7 +1094,7 @@ svtools/res/back_small.png cmd/sc_prevrecord.png
 svtools/res/back_large.png cmd/lc_prevrecord.png
 svtools/res/ed06.png dbaccess/res/pkey.png
 svtools/res/folder.png cmd/sc_open.png
-svtools/res/folderop.png formula/res/fapopen.png
+svtools/res/folderop.png cmd/sc_open.png
 
 # svx
 # ==============================================
@@ -1254,7 +1255,7 @@ sw/imglst/sx03.png cmd/sc_dbqueryedit.png
 # res
 sw/res/all_left.png cmd/sc_firstrecord.png
 sw/res/all_right.png cmd/sc_lastrecord.png
-sw/res/one_left.png cmd/sc_previouspage.png
+sw/res/one_left.png cmd/sc_prevrecord.png
 sw/res/one_right.png cmd/sc_nextrecord.png
 sw/res/page_break.png cmd/lc_insertpagebreak.png
 sw/res/styfamnu.png cmd/sc_defaultbullet.png
