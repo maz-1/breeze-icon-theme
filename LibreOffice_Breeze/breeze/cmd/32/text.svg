@@ -14,7 +14,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="alignblock.svg"
+   sodipodi:docname="text.svg"
    viewBox="0 0 32 32">
   <defs
      id="defs5455" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="25.614943"
-     inkscape:cx="9.1650465"
-     inkscape:cy="15.731205"
+     inkscape:zoom="18.708353"
+     inkscape:cx="16.251193"
+     inkscape:cy="20.025275"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,7 +39,7 @@
      inkscape:window-height="1051"
      inkscape:window-x="33"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      borderlayer="true"
      showguides="true"
@@ -63,7 +63,7 @@
        orientation="-28,0"
        id="guide4284" />
     <sodipodi:guide
-       position="12,28"
+       position="15,28"
        orientation="0,-28"
        id="guide4286" />
   </sodipodi:namedview>
@@ -86,8 +86,13 @@
      transform="translate(-384.57143,-515.798)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 388.57143,519.798 0,1 24,0 0,-1 -24,0 z m 0,3 0,1 24,0 0,-1 -24,0 z m 0,7 0,1 24,0 0,-1 -24,0 z m 0,3 0,1 24,0 0,-1 -24,0 z m 0,7 0,1 24,0 0,-1 -24,0 z m 0,3 0,1 24,0 0,-1 -24,0 z"
-       id="rect4185" />
+       style="fill:#1d99f3"
+       d="m 407.57142,534.79803 0,4 -4,0 0,1 4,0 0,4 1,0 0,-4 4,0 0,-1 -4,0 0,-4 -1,0 z"
+       id="path4697" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4848485;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 6 4 L 6 6 L 4 6 L 4 7 L 6 7 L 6 25 L 4 25 L 4 26 L 6 26 L 6 28 L 7 28 L 7 26 L 18 26 L 18 25 L 7 25 L 7 7 L 25 7 L 25 18 L 26 18 L 26 7 L 28 7 L 28 6 L 26 6 L 26 4 L 25 4 L 25 6 L 7 6 L 7 4 L 6 4 z M 9 9 L 9 11 L 15 11 L 15 23 L 17 23 L 17 11 L 23 11 L 23 9 L 17 9 L 15 9 L 9 9 z "
+       transform="translate(384.57143,515.798)"
+       id="rect5227" />
   </g>
 </svg>

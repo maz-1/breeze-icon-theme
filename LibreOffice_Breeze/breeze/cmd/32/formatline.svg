@@ -14,7 +14,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="alignblock.svg"
+   sodipodi:docname="formatline.svg"
    viewBox="0 0 32 32">
   <defs
      id="defs5455" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="25.614943"
-     inkscape:cx="9.1650465"
-     inkscape:cy="15.731205"
+     inkscape:zoom="18.708353"
+     inkscape:cx="16.251193"
+     inkscape:cy="20.025275"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,7 +39,7 @@
      inkscape:window-height="1051"
      inkscape:window-x="33"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      borderlayer="true"
      showguides="true"
@@ -63,7 +63,7 @@
        orientation="-28,0"
        id="guide4284" />
     <sodipodi:guide
-       position="12,28"
+       position="15,28"
        orientation="0,-28"
        id="guide4286" />
   </sodipodi:namedview>
@@ -84,10 +84,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-384.57143,-515.798)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       id="rect4130"
+       width="24"
+       height="2.0000374"
+       x="388.57144"
+       y="541.79797" />
     <path
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 402.00645,519.7061 -13.43502,13.43503 0,5.65686 5.65685,0 13.43502,-13.43504 z m -0.70711,2.12132 4.24264,4.24264 -7.07107,7.07107 -4.24264,-4.24265 z m -7.77817,7.77817 4.24264,4.24264 -1.41422,1.41422 -4.24264,-4.24265 0.70711,-0.7071 z m -2.12132,2.12132 4.24264,4.24264 -1.41422,1.41422 -4.24264,-4.24264 z"
+       id="rect4112"
        inkscape:connector-curvature="0"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 388.57143,519.798 0,1 24,0 0,-1 -24,0 z m 0,3 0,1 24,0 0,-1 -24,0 z m 0,7 0,1 24,0 0,-1 -24,0 z m 0,3 0,1 24,0 0,-1 -24,0 z m 0,7 0,1 24,0 0,-1 -24,0 z m 0,3 0,1 24,0 0,-1 -24,0 z"
-       id="rect4185" />
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
   </g>
 </svg>
