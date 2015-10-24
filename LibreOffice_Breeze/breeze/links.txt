@@ -384,8 +384,8 @@ cmd/lc_recundo.png cmd/lc_undo.png
 cmd/sc_recundo.png cmd/sc_undo.png
 
 # Bezier
-cmd/lc_bezierappend.png cmd/lc_bezierappend.png
-cmd/sc_bezierappend.png cmd/sc_bezierappend.png
+cmd/lc_bezieredge.png cmd/lc_bezierappend.png
+cmd/sc_bezieredge.png cmd/sc_bezierappend.png
 
 # Frame
 cmd/lc_setborderstyle.png cmd/lc_diagramarea.png
@@ -590,10 +590,10 @@ cmd/sc_apply.png cmd/sc_ok.png
 cmd/sc_accepttrackedchange.png cmd/sc_ok.png
 
 # up and down
-cmd/lc_movepageup.png cmd/lc_downsearch.png
-cmd/sc_movepageup.png cmd/sc_downsearch.png
-cmd/lc_movepagedown.png cmd/lc_upsearch.png
-cmd/sc_movepagedown.png cmd/sc_upsearch.png
+cmd/lc_movepageup.png cmd/lc_upsearch.png
+cmd/sc_movepageup.png cmd/sc_upsearch.png
+cmd/lc_movepagedown.png cmd/lc_downsearch.png
+cmd/sc_movepagedown.png cmd/sc_downsearch.png
 
 # Find Toolbar
 cmd/lc_scrolltonext.png cmd/lc_downsearch.png
