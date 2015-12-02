@@ -13,7 +13,7 @@
    height="30"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 30 30"
    sodipodi:docname="errorbothhori_30.svg">
   <defs
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32.625"
-     inkscape:cx="7.4846675"
+     inkscape:cx="2.8869664"
      inkscape:cy="13.157117"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,10 +34,10 @@
      units="px"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1868"
-     inkscape:window-height="1060"
-     inkscape:window-x="50"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -111,6 +111,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1,-1023.3622)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       id="rect4145"
+       width="30"
+       height="30"
+       x="-1"
+       y="1023.3622" />
     <path
        style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 12 12 L 12 14 L 4 14 L 4 15 L 12 15 L 12 17 L 17 17 L 17 15 L 25 15 L 25 14 L 17 14 L 17 12 L 12 12 z "
